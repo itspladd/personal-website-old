@@ -1,3 +1,30 @@
+/* Palette color codes */
+/* Palette URL: http://paletton.com/#uid=33X0A0klel+01G3a4sRvSfr+X8t */
+
+/* Feel free to copy&paste color codes to your application */
+
+/* As hex codes */
+
+.color-primary-0 { color: #343979 }	/* Main Primary color */
+.color-primary-1 { color: #CCCCCC }
+.color-primary-2 { color: #74779F }
+.color-primary-3 { color: #0C1155 }
+.color-primary-4 { color: #00032F }
+
+.color-secondary-1-0 { color: #AFA83B }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #FFFFFF }
+.color-secondary-1-2 { color: #E6E19E }
+.color-secondary-1-3 { color: #7B7301 }
+.color-secondary-1-4 { color: #433F00 }
+
+.color-secondary-2-0 { color: #AF753B }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #FFFFFF }
+.color-secondary-2-2 { color: #E6C19E }
+.color-secondary-2-3 { color: #7B3D01 }
+.color-secondary-2-4 { color: #432100 }
+
+
+
 header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
