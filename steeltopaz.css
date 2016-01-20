@@ -23,12 +23,60 @@
 .color-secondary-2-3 { color: #7B3D01 }
 .color-secondary-2-4 { color: #432100 }
 
-
-
 header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
+/* Overall background */
 body {
-    background-color: grey;
+    background-color: #343979;
+}
+
+/* Header is used for the title bar.*/
+header {
+
+}
+
+/* Nav is used for anavigation within each section of the site. */
+nav {
+
+}
+
+/* Section is used for thematically-related content. */
+section {
+
+}
+
+/* Article is used to hold standalone content. */
+article {
+
+}
+
+/* Aside is for sidebar content. */
+aside {
+}
+
+/* Aside within article is for tangential article content. */
+article aside {
+
+}
+
+/* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
+figure {
+    
+}
+
+/* Img is the actual image tag. */
+img {
+
+}
+
+/* Figcaption is for image captions. */
+figcaption {
+
+}
+
+/* Footer holds copyright information and a site map.*/
+footer {
+
 }
