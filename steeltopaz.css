@@ -15,8 +15,8 @@
 .color-secondary-1-1 { color: #FFFFFF }
 .color-secondary-1-2 { color: #E6E19E }
 .color-secondary-1-3 { color: #7B7301 }
-.color-secondary-1-4 { color: #433F00 }
 
+.color-secondary-1-4 { color: #433F00 }
 .color-secondary-2-0 { color: #AF753B }	/* Main Secondary color (2) */
 .color-secondary-2-1 { color: #FFFFFF }
 .color-secondary-2-2 { color: #E6C19E }
@@ -27,43 +27,59 @@ header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
+.headingtext {
+    font-family: "Bitter", serif;
+}
+
+.bodytext {
+    font-family: "Open Sans", sans-serif;
+}
+
 /* Overall background */
 body {
-    background-color: #343979;
+    background-color: #CCCCCC;
 }
 
 /* Header is used for the title bar.*/
 header {
-
+    background-color: #0C1155;
+    text-align: center;
+    color: #E6C19E;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 /* Nav is used for anavigation within each section of the site. */
 nav {
-
+    background-color: #7B7301;
+    text-color: black;
+    font-family: "Open Sans", sans-serif;
 }
 
 /* Section is used for thematically-related content. */
 section {
-
+    background-color: #7B7301;
 }
 
 /* Article is used to hold standalone content. */
 article {
-
+    background-color: #E6E19E;
+    font-family: 
 }
 
 /* Aside is for sidebar content. */
 aside {
+    background-color: #AF753B;
 }
 
 /* Aside within article is for tangential article content. */
 article aside {
-
+    background-color: #AFA83B;
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
 figure {
-    
+
 }
 
 /* Img is the actual image tag. */
@@ -78,5 +94,5 @@ figcaption {
 
 /* Footer holds copyright information and a site map.*/
 footer {
-
+    background-color: #AF753B;
 }
