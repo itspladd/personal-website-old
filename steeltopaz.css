@@ -15,8 +15,8 @@
 .color-secondary-1-1 { color: #FFFFFF }
 .color-secondary-1-2 { color: #E6E19E }
 .color-secondary-1-3 { color: #7B7301 }
-
 .color-secondary-1-4 { color: #433F00 }
+
 .color-secondary-2-0 { color: #AF753B }	/* Main Secondary color (2) */
 .color-secondary-2-1 { color: #FFFFFF }
 .color-secondary-2-2 { color: #E6C19E }
@@ -28,48 +28,73 @@ header, section, footer, aside, nav, main, article, figure {
 }
 
 .headingtext {
-    font-family: "Bitter", serif;
-}
+    position: relative;
+    font-size: 60px;
+    top: 25px;
 
-.bodytext {
-    font-family: "Open Sans", sans-serif;
 }
 
 /* Overall background */
 body {
-    background-color: #CCCCCC;
+    background-color: #74779F;
+    font-family: "Open Sans", sans-serif;
 }
 
 /* Header is used for the title bar.*/
 header {
-    background-color: #0C1155;
+    position: relative;
+    background-color: #00032F;
     text-align: center;
-    color: #E6C19E;
     margin-left: auto;
     margin-right: auto;
+    border: 2px groove #00032F;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    color: #CCCCCC;
+    font-family: "Bitter", serif;
+    font-size: 20px;
 }
 
 /* Nav is used for anavigation within each section of the site. */
 nav {
-    background-color: #7B7301;
+    background-color: #432100;
     text-color: black;
     font-family: "Open Sans", sans-serif;
 }
 
+.navbutton {
+    display: inline-block;
+    width: 100px;
+    height: 75px;
+    margin: 5px auto 5px auto;
+    border: 3px solid black;
+}
+
 /* Section is used for thematically-related content. */
 section {
-    background-color: #7B7301;
+    background-color: #CCCCCC;
+    float: left;
+    width: 66%;
+    margin: 10px auto 10px auto;
+    border-radius: 5px;
 }
 
 /* Article is used to hold standalone content. */
 article {
-    background-color: #E6E19E;
-    font-family: 
+    margin: 10px;
 }
 
 /* Aside is for sidebar content. */
 aside {
-    background-color: #AF753B;
+    background-color: #E6C19E;
+    float: right;
+    width: 33%;
+    margin: 10px auto 10px auto;
+    border-radius: 5px;
+}
+
+aside * {
+    margin: 10px;
 }
 
 /* Aside within article is for tangential article content. */
@@ -94,5 +119,6 @@ figcaption {
 
 /* Footer holds copyright information and a site map.*/
 footer {
-    background-color: #AF753B;
+    background-color: #433F00;
+    clear: both;
 }
