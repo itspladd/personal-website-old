@@ -34,10 +34,17 @@ header, section, footer, aside, nav, main, article, figure {
 
 }
 
+#content {
+    width: 1010px;
+    margin: 0px auto 10px auto;
+}
+
 /* Overall background */
 body {
     background-color: #74779F;
     font-family: "Open Sans", sans-serif;
+    text-align: center;
+    overflow-x: hidden;
 }
 
 /* Header is used for the title bar.*/
@@ -70,36 +77,42 @@ nav {
     border: 3px solid black;
 }
 
+/* Aside is for sidebar content. */
+aside.sidebar {
+    background-color: #E6C19E;
+    display: inline-block;
+    width: 200px;
+    margin: 10px auto 10px auto;
+    border-radius: 5px;
+    float: right;
+}
+
 /* Section is used for thematically-related content. */
 section {
     background-color: #CCCCCC;
+    display: inline-block;
+    width: 800px;
     float: left;
-    width: 66%;
-    margin: 10px auto 10px auto;
+    margin: 10px auto 0px auto;
     border-radius: 5px;
 }
 
 /* Article is used to hold standalone content. */
 article {
-    margin: 10px;
+    margin: 10px 10px 10px 10px;
+    border: 1px dashed black;
 }
 
-/* Aside is for sidebar content. */
-aside {
-    background-color: #E6C19E;
-    float: right;
-    width: 33%;
-    margin: 10px auto 10px auto;
-    border-radius: 5px;
+article h1 {
+    margin: 0px;
 }
 
-aside * {
-    margin: 10px;
+article p {
 }
 
 /* Aside within article is for tangential article content. */
 article aside {
-    background-color: #AFA83B;
+    
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
@@ -119,6 +132,11 @@ figcaption {
 
 /* Footer holds copyright information and a site map.*/
 footer {
+    position: absolute;
+    bottom: 0;
+    left: -10px;
+    width: 100%;
     background-color: #433F00;
-    clear: both;
+    padding: 5px;
+    text-align: center;
 }
