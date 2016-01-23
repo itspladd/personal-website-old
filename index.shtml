@@ -1,5 +1,5 @@
 ---
-redirect-from: "index.html"
+redirect-from: "./index.html"
 ---
 <!DOCTYPE html>
 
