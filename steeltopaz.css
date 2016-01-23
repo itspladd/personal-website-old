@@ -15,8 +15,8 @@
 .color-secondary-1-1 { color: #FFFFFF }
 .color-secondary-1-2 { color: #E6E19E }
 .color-secondary-1-3 { color: #7B7301 }
-
 .color-secondary-1-4 { color: #433F00 }
+
 .color-secondary-2-0 { color: #AF753B }	/* Main Secondary color (2) */
 .color-secondary-2-1 { color: #FFFFFF }
 .color-secondary-2-2 { color: #E6C19E }
@@ -28,53 +28,98 @@ header, section, footer, aside, nav, main, article, figure {
 }
 
 .headingtext {
-    font-family: "Bitter", serif;
+    position: relative;
+    font-size: 60px;
+    top: 25px;
+
 }
 
-.bodytext {
-    font-family: "Open Sans", sans-serif;
+#content {
+    width: 1010px;
+    margin: 0px auto 10px auto;
 }
 
 /* Overall background */
 body {
-    background-color: #CCCCCC;
+    background-color: #74779F;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+    overflow-x: hidden;
 }
 
 /* Header is used for the title bar.*/
 header {
-    background-color: #0C1155;
+    position: relative;
+    background-color: #00032F;
     text-align: center;
-    color: #E6C19E;
     margin-left: auto;
     margin-right: auto;
+    border: 2px groove #00032F;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    color: #CCCCCC;
+    font-family: "Bitter", serif;
+    font-size: 20px;
 }
 
 /* Nav is used for anavigation within each section of the site. */
 nav {
-    background-color: #7B7301;
+    background-color: #432100;
     text-color: black;
     font-family: "Open Sans", sans-serif;
 }
 
+.navbutton {
+    display: inline-block;
+    width: 100px;
+    height: 75px;
+    margin: 5px auto 5px auto;
+    border: 3px solid black;
+}
+
+/* Aside.sidebar is for sidebar content. */
+aside.sidebar {
+    background-color: #E6C19E;
+    text-align: left;
+    display: inline-block;
+    width: 200px;
+    margin: 10px auto 10px auto;
+    border-radius: 5px;
+    float: right;
+}
+
+aside.sidebar * {
+    margin: 10px 10px 0px 10px;
+}
+
 /* Section is used for thematically-related content. */
 section {
-    background-color: #7B7301;
+    background-color: #CCCCCC;
+    display: inline-block;
+    width: 800px;
+    float: left;
+    margin: 10px auto 0px auto;
+    border-radius: 5px;
 }
 
 /* Article is used to hold standalone content. */
 article {
-    background-color: #E6E19E;
-    font-family: 
+    margin: 10px 10px 10px 10px;
+    border: 1px dashed black;
+    text-align: left;
 }
 
-/* Aside is for sidebar content. */
-aside {
-    background-color: #AF753B;
+article h1 {
+    margin: 0px;
+}
+
+article p {
 }
 
 /* Aside within article is for tangential article content. */
 article aside {
-    background-color: #AFA83B;
+    background-color: #AF753B;
+    border-radius: 5px;
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
@@ -94,5 +139,12 @@ figcaption {
 
 /* Footer holds copyright information and a site map.*/
 footer {
-    background-color: #AF753B;
+    background-color: #433F00;
+    font-size: 12px;
+    clear: both;
+    position: relative;
+    top: 10px;
+    margin: -40px;
+    padding: 5px;
+    text-align: center;
 }
