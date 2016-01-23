@@ -80,11 +80,16 @@ nav {
 /* Aside.sidebar is for sidebar content. */
 aside.sidebar {
     background-color: #E6C19E;
+    text-align: left;
     display: inline-block;
     width: 200px;
     margin: 10px auto 10px auto;
     border-radius: 5px;
     float: right;
+}
+
+aside.sidebar * {
+    margin: 10px 10px 0px 10px;
 }
 
 /* Section is used for thematically-related content. */
@@ -135,6 +140,7 @@ figcaption {
 /* Footer holds copyright information and a site map.*/
 footer {
     background-color: #433F00;
+    font-size: 12px;
     clear: both;
     position: relative;
     top: 10px;
