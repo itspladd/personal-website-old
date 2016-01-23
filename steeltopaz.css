@@ -77,7 +77,7 @@ nav {
     border: 3px solid black;
 }
 
-/* Aside is for sidebar content. */
+/* Aside.sidebar is for sidebar content. */
 aside.sidebar {
     background-color: #E6C19E;
     display: inline-block;
@@ -101,6 +101,7 @@ section {
 article {
     margin: 10px 10px 10px 10px;
     border: 1px dashed black;
+    text-align: left;
 }
 
 article h1 {
@@ -112,7 +113,8 @@ article p {
 
 /* Aside within article is for tangential article content. */
 article aside {
-    
+    background-color: #AF753B;
+    border-radius: 5px;
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
@@ -132,11 +134,11 @@ figcaption {
 
 /* Footer holds copyright information and a site map.*/
 footer {
-    position: absolute;
-    bottom: 0;
-    left: -10px;
-    width: 100%;
     background-color: #433F00;
+    clear: both;
+    position: relative;
+    top: 10px;
+    margin: -40px;
     padding: 5px;
     text-align: center;
 }
