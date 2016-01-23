@@ -1,4 +1,8 @@
+---
+redirect-from: "index.html"
+---
 <!DOCTYPE html>
+
 <html>
     <head>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic|Bitter' rel='stylesheet' type='text/css'/>
