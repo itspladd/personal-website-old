@@ -4,7 +4,11 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 <div id="content">
-    <h2>{{ page.title }}</h2>
-    <p>{{ page.date | date_to_string }}</p>
-    {{content}}
+    <section>
+        <article>
+            <h2>{{ page.title }}</h2>
+            <p>{{ page.date | date_to_string }}</p>
+            {{content}}
+        </article>
+    </section>
 </div>
