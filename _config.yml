@@ -1,9 +1,9 @@
 name: "Steel Topaz: Paul Ladd Does Things"
 markdown: kramdown
 defaults:
-    -
-        scope:
-            path: "/_posts"
-            type: "posts"
-        values:
-            layout: "post"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
