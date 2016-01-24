@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Steel Topaz: Blog Under Construction"
 date: 2016-01-23
 ---
