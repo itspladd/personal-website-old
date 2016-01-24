@@ -3,7 +3,7 @@ markdown: kramdown
 defaults:
     -
         scope:
-            path: "_posts"
-            type: "post"
+            path: "_posts/"
+            type: "posts"
         values:
             layout: "post"
