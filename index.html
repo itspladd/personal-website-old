@@ -4,36 +4,10 @@ title: "Steel Topaz: Paul Ladd Does Words, Art, and Code"
 ---
 
 <aside class="sidebar"><p>Home Aside</p></aside>
-{% for post in paginator.posts %}
-<section>
-    <article>
-        <h1><a class="post-head" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
-        <p>{{ post.date | date_to_string }}</p>
-        {{ post.excerpt }}
-        <a href="{{ post.url }}" title="{{ post.title }}">Continue reading...</a>
-    </article>
-</section>
-{% endfor %}
-<section>
-    <article>
-        {% if paginator.previous_page %}
-            <a href="{{ paginator.previous_page_path }}">Previous</a>
-        {% else %}
-            <p>Previous</p>
-        {% endif %}
-        <p>Page: {{ paginator.page }} of {{paginator.total_pages }}</p>
-        
-        {% if paginator.next_page %}
-            <a href="{{ paginator.next_page_path }}">Next</a>
-        {% else %}
-            <p>Next</p>
-        {% endif %}
-    </article>
-</section>
 <section>
     <article>
         <h1>Article Title 4</h1>
         <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
         <aside>Interior aside</aside>
     </article>
-            </section>
+</section>

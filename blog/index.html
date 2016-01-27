@@ -1,12 +1,32 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Steel Topaz: Paul Ladd Does Code, Words, and Art</title>
-        <meta />
-    </head>
-    
-    <body>
-        <h1>Blog</h1>
-    </body>
+---
+layout: default
+title: "Steel Topaz: Paul Ladd Does A Blog"
+---
 
-</html>
+<aside class="sidebar"><p>Home Aside</p></aside>
+{% for post in paginator.posts %}
+<section>
+    <article>
+        <h1><a class="post-head" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
+        <p>{{ post.date | date_to_string }}</p>
+        {{ post.excerpt }}
+        <a href="{{ post.url }}" title="{{ post.title }}">Continue reading...</a>
+    </article>
+</section>
+{% endfor %}
+<section>
+    <article>
+        {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}">Previous</a>
+        {% else %}
+            <p>Previous</p>
+        {% endif %}
+        <p>Page: {{ paginator.page }} of {{paginator.total_pages }}</p>
+        
+        {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}">Next</a>
+        {% else %}
+            <p>Next</p>
+        {% endif %}
+    </article>
+</section>
