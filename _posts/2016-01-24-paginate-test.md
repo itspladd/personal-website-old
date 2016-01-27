@@ -1,6 +1,6 @@
 ---
-title: "Steel Topaz: Testing Excerpt Functionality"
-date: 2016-01-24
+title: "Steel Topaz: Testing Pagination"
+date: 2016-01-26
 ---
 
 This post exists to test Jekyll's pagination functionality. Hit the jump for more info!
