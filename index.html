@@ -3,7 +3,7 @@ layout: default
 title: "Steel Topaz: Paul Ladd Does Words, Art, and Code"
 ---
             <aside class="sidebar"><p>Aside</p></aside>
-            {% for post in site.posts %}
+            {% for post in paginator.posts %}
             <section>
                 <article>
                     <a href="{{ post.url }}" title= "{{ post.title }}"><h1>{{ post.title }}</h1></a>

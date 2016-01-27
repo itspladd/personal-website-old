@@ -1,5 +1,11 @@
+#Plugins
+gems:  [jekyll-paginate]
+
 name: "Steel Topaz: Paul Ladd Does Things"
 markdown: kramdown
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 excerpt_separator: <!--more-->
 defaults:
   -
