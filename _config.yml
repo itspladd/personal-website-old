@@ -3,7 +3,7 @@ gems:  [jekyll-paginate]
 
 name: "Steel Topaz: Paul Ladd Does Things"
 markdown: kramdown
-paginate: 5
+paginate: 1
 paginate_path: "/blog/page:num/"
 
 excerpt_separator: <!--more-->
