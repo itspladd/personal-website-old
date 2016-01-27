@@ -6,7 +6,7 @@ title: "Steel Topaz: Paul Ladd Does Words, Art, and Code"
             {% for post in paginator.posts %}
             <section>
                 <article>
-                    <a class="post-head" href="{{ post.url }}" title="{{ post.title }}"><h1>{{ post.title }}</h1></a>
+                    <h1><a class="post-head" href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h1>
                     <p>{{ post.date | date_to_string }}</p>
                     {{ post.excerpt }}
                     <a href="{{ post.url }}" title="{{ post.title }}">Continue reading...</a>
