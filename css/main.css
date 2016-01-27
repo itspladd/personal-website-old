@@ -77,6 +77,15 @@ nav {
     border: 3px solid black;
 }
 
+a.post-head {
+    text-decoration: none;
+    color: #00032F;
+}
+
+a.post-head:hover {
+    color: #74779F;
+}
+
 /* Aside.sidebar is for sidebar content. */
 aside.sidebar {
     background-color: #E6C19E;
