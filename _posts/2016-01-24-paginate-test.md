@@ -1,5 +1,5 @@
 ---
-title: "Steel Topaz: Testing Pagination"
+title: "Testing Pagination"
 date: 2016-01-26
 ---
 

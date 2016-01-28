@@ -1,5 +1,5 @@
 ---
-title: "Steel Topaz: Blog Under Construction"
+title: "Blog Under Construction"
 date: 2016-01-23
 ---
 

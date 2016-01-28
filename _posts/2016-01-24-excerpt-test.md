@@ -1,5 +1,5 @@
 ---
-title: "Steel Topaz: Testing Excerpt Functionality"
+title: "Testing Excerpt Functionality"
 date: 2016-01-24
 ---
 
