@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Paul Ladd Does A Blog"
+---
+
+<aside class="sidebar"><p>Blog Aside</p></aside>
+<section>
+    <article>
+        <h1>All My Blog Posts Since Forever</h1>
+        <ul>
+        {% for post in site.posts %}
+            <li><a href="{{ post.url }}">{{ post.title }} {{ post.date | date_to_string }}</a></li>
+        {% endfor %}
+        </ul>
+    </article>
+</section>
