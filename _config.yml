@@ -5,7 +5,6 @@ name: "Paul Ladd Does Things"
 markdown: kramdown
 paginate: 1
 paginate_path: "/blog/page:num/"
-url: http://steeltopaz.github.io
 
 excerpt_separator: <!--more-->
 defaults:
