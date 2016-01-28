@@ -85,10 +85,54 @@ a.post-head:hover {
     color: #74779F;
 }
 
+/*****************************************************/
+/* MAIN TITLE HOVER BEHAVIOR *************************/
+/* OPTION A: Default background/text, border on hover*/
+
 a.main-title {
     text-decoration: none;
+    border-radius: 5px;
     color: #CCCCCC;
 }
+
+a.main-title:hover {
+    border: 5px solid #CCCCCC;
+}
+
+/* OPTION B: Default background/text, invert on hover*/
+/*
+a.main-title {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #CCCCCC; 
+}
+
+a.main-title:hover {
+    color: #00032F; 
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+*/
+
+/* OPTION C: Invert background/text, default on hover */
+
+/*
+a.main-title {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #00032F; 
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+
+}
+
+a.main-title:hover {
+    color: #CCCCCC;
+    background-color: #00032F;
+}
+*/
+
+/* END MAIN TITLE HOVER BEHAVIOR *********************/
 
 /* Aside.sidebar is for sidebar content. */
 aside.sidebar {
