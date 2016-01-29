@@ -1,9 +1,8 @@
 ---
-title: The Grave Ambush at Tirrsmont
+title: "The Grave Ambush at Tirrsmont: Chapter 1"
 layout: chapter
 ---
 
-CHAPTER 1
 Pitt rubbed his eyes. The trip from Tirrem's Crossing had been entirely uneventful, but uneventful meant boring. Normally he needed both hands to count the number of bandit attacks, cart breakdowns, and otherwordly encounters his caravan would encounter on any given run. But the past week? Nothing. Zero.
 
 The coins in his purse clinked as the cart hit a rock. In hindsight, he mused, "zero" was exactly how much gold he should have spent on hiring extra guards for the trip. They had done nothing but sit in their respective wagons, invisible except for mealtimes and the nightly watch. Food for four and sixty gold pieces, wasted.
@@ -72,7 +71,7 @@ The rest of the goblins shrieked and retreated at the Cuisinarting of their alli
 
 Chomsky hopped out of the wagon behind them. "Hey guys! Did I miss anything?"
 
-Chapter 2
+----
 
 NGE entered the city, and the rest of the group followed behind. Before them lay the main road of Tirrsmont. It was clear that there had been heavy fighting here, but there was little left to fight. It looked as if the battle had progressed down the main road. The group ran ahead, with Chadwick casting longing glances at the unlooted corpses they were leaving behind.
 
