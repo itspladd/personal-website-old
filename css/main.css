@@ -161,6 +161,10 @@ section {
     border-radius: 5px;
 }
 
+section.fullscreen {
+    width: 1020px;
+}
+
 /* Article is used to hold standalone content. */
 article {
     margin: 10px 10px 10px 10px;
