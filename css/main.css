@@ -48,8 +48,6 @@ h1.main-title {
     margin: 0px auto 10px auto;
 }
 
-
-
 /* Header is used for the title bar.*/
 header {
     position: relative;
@@ -74,7 +72,7 @@ nav {
 
 .navbutton {
     display: inline-block;
-    width: 100px;
+    width: 150px;
     height: 75px;
     margin: 5px auto 5px auto;
     border: 3px solid black;
