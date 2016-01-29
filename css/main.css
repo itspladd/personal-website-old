@@ -139,16 +139,17 @@ a.main-title:hover {
 /* Aside.sidebar is for sidebar content. */
 aside.sidebar {
     background-color: #E6C19E;
-    text-align: left;
-    display: inline-block;
-    width: 200px;
-    margin: 10px auto 10px auto;
     border-radius: 5px;
+    display: inline-block;
     float: right;
+    font-size: 14px;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    width: 200px;
 }
 
 aside.sidebar * {
-    margin: 10px 10px 0px 10px;
+    margin: 10px 10px 10px 10px;
 }
 
 /* Section is used for thematically-related content. */
