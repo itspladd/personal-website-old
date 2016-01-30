@@ -1,5 +1,5 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 1"
+title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 2"
 layout: chapter
 ---
 
