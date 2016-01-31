@@ -4,6 +4,18 @@ title: "Paul Ladd Does A Blog"
 ---
 
 <aside class="sidebar"><p>Blog Aside</p></aside>
+
+<section>
+    <article>
+        <h1><a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a></h1>
+        Posted by {{ site.posts[0].author }} on { site.posts[0].date | date_to_string }}
+        <p>{{ site.posts[0].content }}</p>
+        <a href="{{ site.posts[1].url }}">Previous post: {{ site.posts[1].title }}</a>
+    </article>
+</section>
+
+<!-- This HTML uses Jekyll's pagination functionality, which doesn't play nice with categories. I've kept it here for posterity.
+
 {% for post in paginator.posts %}
 <section>
     <article>
@@ -29,3 +41,4 @@ title: "Paul Ladd Does A Blog"
         {% endif %}
     </article>
 </section>
+-->
