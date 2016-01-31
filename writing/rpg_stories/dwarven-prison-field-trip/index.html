@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Field Trip to the Ancient Dwarven Prison Camp"
+---
+
+<aside class="sidebar"><p>Field Trip Aside</p></aside>
+
+{% for page in site.categories.dwarven-prison-field-trip reversed %}
+    <section>
+        <article>
+            {{ page.content }}
+        </article>
+    </section>
+{% endfor %}
