@@ -148,9 +148,26 @@ aside.sidebar {
     width: 200px;
 }
 
-aside.sidebar * {
+aside * {
     margin: 10px 10px 10px 10px;
 }
+
+/* midtext_left and midtext_right are for tangential content within articles. */
+aside.midtext_left {
+    background-color: #AF753B;
+    border-radius: 5px;
+    margin: 0px 10px 0px 0px;
+    float: left;
+    max-width: 40%;
+}
+
+aside.midtext_right {
+    background-color: #AF753B;
+    border-radius: 5px;
+    margin: 0px 0px 0px 10px;
+    float: right;
+    max-width: 40%;
+    }
 
 /* Section is used for thematically-related content. */
 section {
@@ -178,12 +195,6 @@ article h1 {
 }
 
 article p {
-}
-
-/* Aside within article is for tangential article content. */
-article aside {
-    background-color: #AF753B;
-    border-radius: 5px;
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
