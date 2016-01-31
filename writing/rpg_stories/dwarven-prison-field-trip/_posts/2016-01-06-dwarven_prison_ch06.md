@@ -9,6 +9,8 @@ Chad, Chomsky, and Gavin stopped for a moment to catch their breath as NGE switf
 
 Derfin looked mournfully at the dead creatures. "I told you, Sarge," he said, a single tear in his eye. "I told you Charlie had mustard gas, didn't I? But you didn't listen." He began to weep openly. "I loved you, Sarge! I loved you so gods-damned much!"
 
+<!--more-->
+
 He knelt down to caress the body of one of the beasts. He reached out--
 
 And unleashed a mighty, mighty fart. It reverberated throughout the tunnels. Rats scurried for cover. Somewhere far beneath the group, a pebble nudged a rock, which tapped a stone, which initiated a rockslide, which annihilated a small colony of underground butterflies that had just barely achieved sentience.

@@ -11,6 +11,8 @@ Gavin spoke up after a minute. "Find anything, Chomsky?"
 
 Chomsky shook his head, flinging rats everywhere. "Troop movements, letters to home, letters to home _about_ troop movements, favored torture methods..basically, if it's _not_ pointing us to vast riches, we can probably find it in this box. Oh wait, what's this? A _shipping manifest_! How grand!"
 
+<!--more-->
+
 Chad's ears perked up. "Shipping manifest? On a scale of 'money' to 'fucking money,' how much money is the stuff on there worth?"
 
 Chomsky scanned the report. "I can't tell. They're all marked in the currency of the old dwarven empire. Anyone here know shit about history?"

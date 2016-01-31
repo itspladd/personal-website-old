@@ -11,6 +11,8 @@ At the far end of the cave was a small passageway to another cave. To the group'
 
 Chad walked over to dig through the garbage for money. He noticed a spider on a bone. Oh, and there's another spider. And another one, and another one, and _oh shiiiiiit_.
 
+<!--more-->
+
 The trash pile was seething with spiders. Spiders everywhere! Each was large as a gold piece, but much less useful as currency.
 
 Chad decided that Trash 4 Gold could wait. He caught back up to the others just as they entered into the next cavern.

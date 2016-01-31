@@ -3,10 +3,13 @@ title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 10"
 layout: chapter
 ---
 
-There Were Paperclips, Too, But Nobody Really Cares About Those
-Derfin cast a quick glance about the room. Unlike most of the dungeon, this room seemed almost entirely untouched by anything except vermin and time. Cobwebs lay everywhere, and a thick layer of dust covered every surface.
+*There Were Paperclips, Too, But Nobody Really Cares About Those*
 
-He first looked at a shelf on the wall. Bottle after bottle was stored there, but they mostly looked to be empty. Some had cracked their seals, and time had evaporated any liquid stored inside. Several bottles had ragged holes in their sides; the contents appeared to have slowly eaten away at the glass until the liquid could pour out
+Derfin cast a quick glance about the room. Unlike most of the prison, this room seemed almost entirely untouched by anything except vermin and time. Cobwebs and a thick layer of dust covered every surface.
+
+He first looked at a shelf on the wall. Bottle after bottle was stored there, but they mostly looked to be empty. Some had cracked their seals, and time had evaporated any liquid stored inside. Several bottles had ragged holes in their sides; the contents appeared to have slowly eaten away at the glass until the liquid could pour out.
+
+<!--more-->
 
 However, Derfin did find a few bottles that looked more or less intact. Two bottles contained a fine powder, and they were each labeled with the same Dwarven script. Another two bottles contained a viscous liquid. In fact, they looked exactly like the magical preservative the group had found on Warden McSkeleton's corpse. Finally, Derfin found two more bottles with their seals intact. These two looked to be potions of some sort, although he was unable to translate their labels. He stowed them in his pack and gave the shelf one last look-over for anything he might have missed.
 

@@ -7,9 +7,11 @@ layout: chapter
 
 Naturally, there was nothing to do except take anything the lizardpeople had ever owned and shove it into the group's bulging, swollen loot-maw. Chad took the wand that the druid had indicated did something with memories, and attempted to analyze it with his formidable knowledge of magical workings.
 
-Unfortunately, his magical eyes failed him; and so, he passed the wand to Gavin. Gavin analyzed it, and shook his head. "Nope, no idea." He handed the wand to Derfin, who similarly was uncertain. The mysterious wand that may or may not modify memory was thusly shoved into a pack for later examination.
+Unfortunately, his magical eyes failed him; and so he passed the wand to Gavin. Gavin analyzed it, and shook his head. "Nope, no idea." He handed the wand to Derfin, who similarly was uncertain. The mysterious wand that may or may not modify memory was thusly shoved into a pack for later examination.
 
 NGE went about the job of tending to the wounded lizardmen. Well, one of the wounded lizardmen. She patched up the wounds of the one she had speared at the end of the fight, and left the rest slowly dying on the floor, because _fuck them,_ right?
+
+<!--more-->
 
 The lizardpeople overall had little in the way of valuables, so Chad sent NGE into the purple fungus room - the one that contained all of the shiny garbage treasure. He followed her inside, and the rest began to filter through the passageway.
 

@@ -13,6 +13,8 @@ Behind the chains, the group could see two carved stone desks on opposite sides 
 
 "Okay," said Chad. "Soooo... check out the desks?"
 
+<!--more-->
+
 NGE stepped forward towards the desks. Her foot had barely hit the floor when the chain closest to her whipped out, blindingly fast. It yanked NGE to the pole it was attached to and coiled its length around her, securing her tightly to the pole. She flexed, attempting to burst her bonds, but the chains squeezed tighter - in fact, it seemed like they would squeeze until their victim died. NGE struggled valiantly, but was swiftly crushed by the chains, and was never seen again.
 
 OH WAIT NO, Chadwick snapped his fingers and NGE disappeared back to her home plane with a loud popping noise. "Damn, sons, that shit be handy!" remarked Chad offhandedly to his cohorts. "You guys figure this out, imma meditate for a sec." He sat down on the floor, made an "L" shape with his hand, pressed it to his forhead, and closed his eyes.

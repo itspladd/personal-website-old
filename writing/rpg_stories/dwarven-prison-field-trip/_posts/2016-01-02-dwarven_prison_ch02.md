@@ -9,6 +9,8 @@ The party descended the ancient stairway, and their lights revealed an old, crum
 
 Confused as shit by this nameplate, the group turned to a third door, to the right of where they entered. The door itself was barely visible underneath the pile of rubble and large slabs of stone that had been placed in front of it. It seemed that someone (or several someones, given the size of the stones) had barricaded the door against intrusion from the other side.
 
+<!--more-->
+
 Lacking the desire to face what was beyond the barricaded door, the group turned towards the first door, the plain iron one. About to open it, Derfin once more held up the group to point at the wall to the left. "Tracks," he said. Upon close observation, everyone was indeed able to see footprints in the dust - footprints that seemed to disappear into the stone. Additionally, there was a path in the dust where it looked like something had scraped by. It looked as if the wall had been opened.
 
 Gavin suggested that everyone stand back. He and the others took up places on the other side of the room. Gavin uttered an incantation and pointed a glowing digit at the wall, which promptly ground open, dragging several pots and pans along with it with an unholy cacophonous clatter. Unseen by the party, every living creature in a thirty-mile radius awoke.

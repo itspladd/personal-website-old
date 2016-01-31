@@ -17,6 +17,8 @@ A receptionist directed everyone to the Testing Range in the back of the Society
 * Enter the Testing Range at your own risk.
 * Stay the FUCK out of the Labs.
 
+<!--more-->
+
 The warning accepted, the group ventured into the Range, a large enclosed area where Society researchers experimented with particularly volatile substances. Plug was off in a corner, working busily on a metal device. They called his name, and he waved them over.
 
 Plug, unfortunately, had no discount to offer the group. He did, however, have a prototype of an alchemically-based weapon on hand, and asked if the group would be willing to run field tests for him. The group accepted, and Plug proudly displayed his creation: a small metal tube would contain a charge of black powder, propelling a metal ball out of one end of the tube! Plug called it a "gun," and he instructed the group in its proper use. The group accepted the weapon and bade Plug farewell, promising to bring him back any notes they might take.

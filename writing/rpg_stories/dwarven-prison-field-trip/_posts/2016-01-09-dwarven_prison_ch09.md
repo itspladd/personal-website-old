@@ -3,12 +3,15 @@ title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 9"
 layout: chapter
 ---
 
-No, I'm Sure Drinking The Potion Is A Great Idea
+*No, I'm Sure Drinking The Potion Is A Great Idea*
+
 Our intrepid adventuring squad regrouped back in the tunnels. Chad informed them all of something that he had noticed during the battle with the lizardmen. He had been standing in the passage that led to the unexplored hallway, which they had collectively dubbed the Hallway of Hell No. While standing there, he had heard a noise.
 
 whump. whump. Whump. Whump. WHUMP. WHUMP.
 
 The sound had crescendoed, faded slightly, and grown louder again. It sounded as if something was pacing back and forth along the hallway's length. Something big.
+
+<!-- more -->
 
 The group agreed to wait a bit before challenging what might be in that hallway. Instead, they decided they should check out the "Temple" room; the passage in front of them looked to lead straight into that room!
 

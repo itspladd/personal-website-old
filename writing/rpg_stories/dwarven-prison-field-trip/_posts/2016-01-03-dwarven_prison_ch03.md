@@ -5,9 +5,11 @@ layout: chapter
 
 *INTO THE CLOSET*
 
-The ordeal with the poison had left NGE drained, weaker than normal. Chad informed the group that NGE was now only capable of fucking up most things in her path. With that said, the foursome took their bearings.
+The ordeal with the poison had left NGE drained, weaker than normal. Chad informed the group that NGE was now only capable of fucking up _most_ things in her path. With that said, the foursome took their bearings.
 
 They stood in a modest hallway. Ahead and to the left was a door that led to the entryway - the door right next to the secret passage. Immediately across from that door was another plain iron door, rusted with age. Chomsky studied it for a moment before proclaiming that the Dwarven letters read, "Storage." This happened to remind him of an amusing anecdote regarding a storage closet, a fetching gnomish student, and a beehive, which he proceeded to relay to the rest of the group. As always, the others paid close attention to Chomsky's story, making absolutely certain to ignore every word.
+
+<!--more-->
 
 NGE, as always, was in front, and Chad asked her to open the "Storage" door. The door was unlocked, and slid open as smoothly as a door with centuries of rust in its hinges. Ears perforated by the horrific screeching, the group peered into the room. Within, they found crates. Crates, and crates, and more crates. And barrels! Most of the containers were rotted or broken; clearly other scavengers had made it into this room before our heroes. A few crates were intact enough to search, but what caught the group's attention was a scratching sound coming from inside a barrel labeled "crackers" in Dwarven.
 
