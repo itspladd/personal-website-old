@@ -1,8 +1,8 @@
 ---
 title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 1"
 layout: chapter
+category: rpg
 ---
-
 
 *Tirrsmont: Dawn of the First Day*
 
