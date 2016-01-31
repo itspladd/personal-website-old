@@ -3,14 +3,24 @@ layout: default
 title: "Paul Ladd Does A Blog"
 ---
 
-<aside class="sidebar"><p>Blog Aside</p></aside>
+<aside class="sidebar">
+    <h3>Blog Links</h3>
+    <a href="postlist">All posts since forever</a>
+    Recent posts:
+    <ul>
+        <li></li>
+        <li></li>
+        
+
+    </ul>
+</aside>
 
 <section>
     <article>
-        <h1><a href="{{ site.posts[0].url }}">{{ site.posts[0].title }}</a></h1>
-        Posted by {{ site.posts[0].author }} on {{ site.posts[0].date | date_to_string }}
-        <p>{{ site.posts[0].content }}</p>
-        <a href="{{ site.posts[1].url }}">Previous post: {{ site.posts[1].title }}</a>
+        <h1><a href="{{ site.categories.blog[0].url }}">{{ site.categories.blog[0].title }}</a></h1>
+        Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date_to_string }}
+        <p>{{ site.categories.blog[0].content }}</p>
+        <a href="{{ site.categories.blog[1].url }}">Previous post: {{ site.categories.blog[1].title }}</a>
     </article>
 </section>
 
