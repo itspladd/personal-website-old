@@ -7,6 +7,9 @@ name: "Paul Ladd Does Things"
 markdown: kramdown
 
 excerpt_separator: <!--more-->
+
+permalink: pretty
+
 defaults:
   -
     scope:
