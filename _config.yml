@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 defaults:
   -
     scope:
-      path: "_posts"
+      path: "blog/_posts"
       type: "posts"
     values:
       layout: "post"
