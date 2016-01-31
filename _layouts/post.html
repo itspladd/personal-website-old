@@ -7,4 +7,13 @@ layout: default
             {{ page.date | date_to_string }}
             {{ content }}
         </article>
+        <article>
+            {% if page.previous %}
+                <a rel="prev" href="{{ page.previous.url }}">Previous post: {{ page.previous.title }}</a>
+            {% endif %}
+            {% if page.next %}
+                <a rel="next" href="{{ page.next.url }}">Next post: {{ page.next.title }}</a>
+            {% endif %}
+
+        </article>
     </section>
