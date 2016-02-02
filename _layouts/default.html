@@ -15,7 +15,6 @@
             }
             function moveSidebar() {
                 var marginToTop = window.pageYOffset - sidebarOffset + 10;
-                sidebar.innerHTML = "Scrolled: " + window.pageYOffset + "<br/> My total offset: " + sidebarOffset + "<br/>Margin we want: " + marginToTop;
                 if (window.pageYOffset < sidebarOffset) {
                     sidebar.style.position = "static";
                     sidebar.style.marginTop = "10px";
@@ -43,8 +42,6 @@
             </nav><!-- /.bodytext -->
         </header>
         <div id="content">
-        
-        <button class="example" onclick="moveSidebar()">DO IT</button>
         
         {{ content }}
         
