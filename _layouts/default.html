@@ -5,6 +5,13 @@
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic|Bitter' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="/css/main.css"/>
         <meta />
+        <script>
+            function moveSidebar() {
+                var sidebar = document.getElementsByClassName("sidebar")[0];
+                var amount = 0;
+                sidebar.innerHTML = "Scrolled: " + window.pageYOffset + "<br/> My offset: " + sidebar.offsetTop;
+            }
+        </script>
     </head>
     
     <body>
@@ -21,6 +28,8 @@
             </nav><!-- /.bodytext -->
         </header>
         <div id="content">
+        
+        <button class="example" onclick="moveSidebar()">DO IT</button>
         
         {{ content }}
         
