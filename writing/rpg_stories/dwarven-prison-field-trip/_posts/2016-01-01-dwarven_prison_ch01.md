@@ -45,4 +45,4 @@ On the other side of the room, the group found a set of double doors and a stair
 
 The cellar was much like the rest of the fort: plain stone, unassuming, and altogether boring. The giant pair of intricately carved ancient stone doors in the cellar wall, however, was not. The doors displayed two dwarves, one on each door, with hammers crossed in a very, very imposing way. One door was slightly ajar, and the group saw nothing but blackness beyond.
 
-Gavin conjured up some glowing balls of light; Chomsky conjured up some glowing dicks of light. With their way lit before them, the group ventured into the dwarven ruins.
+Gavin conjured glowing balls of light; Chomsky conjured glowing dicks of light. With their way lit before them, the group ventured into the dwarven ruins.
