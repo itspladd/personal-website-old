@@ -46,6 +46,7 @@ h1.main-title {
 #content {
     width: 1010px;
     margin: 0px auto 10px auto;
+    position: relative;
 }
 
 /* Header is used for the title bar.*/
@@ -140,7 +141,6 @@ a.main-title:hover {
 aside.sidebar {
     background-color: #E6C19E;
     border-radius: 5px;
-    display: inline-block;
     float: right;
     font-size: 14px;
     margin: 10px auto 10px auto;
@@ -181,6 +181,7 @@ section {
 
 section.fullscreen {
     width: 1010px;
+    float: none;
 }
 
 /* Article is used to hold standalone content. */
