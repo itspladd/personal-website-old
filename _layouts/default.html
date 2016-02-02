@@ -6,15 +6,30 @@
         <link rel="stylesheet" href="/css/main.css"/>
         <meta />
         <script>
+            window.onscroll = function() {moveSidebar()};
+            var sidebar;
+            var sidebarOffset;
+            function findSidebar() {
+                sidebar = document.getElementsByClassName("sidebar")[0];
+                sidebarOffset = sidebar.offsetTop - 10 + sidebar.offsetParent.offsetTop;
+            }
             function moveSidebar() {
-                var sidebar = document.getElementsByClassName("sidebar")[0];
-                var amount = 0;
-                sidebar.innerHTML = "Scrolled: " + window.pageYOffset + "<br/> My offset: " + sidebar.offsetTop;
+                var marginToTop = window.pageYOffset - sidebarOffset + 10;
+                sidebar.innerHTML = "Scrolled: " + window.pageYOffset + "<br/> My total offset: " + sidebarOffset + "<br/>Margin we want: " + marginToTop;
+                if (window.pageYOffset < sidebarOffset) {
+                    sidebar.style.position = "static";
+                    sidebar.style.marginTop = "10px";
+                }
+                if (window.pageYOffset >= sidebarOffset) {
+                    sidebar.style.position = "fixed";
+                    sidebar.style.top = "0px";
+                    sidebar.style.right = "10px";
+                }
             }
         </script>
     </head>
     
-    <body>
+    <body onload="findSidebar()">
         <header>
             <h1 class="main-title"><a class="main-title" href="/">PLADD</a></h1>
             <p>Paul Ladd does things<p>
