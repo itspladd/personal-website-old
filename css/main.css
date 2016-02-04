@@ -181,7 +181,6 @@ section {
 
 section.fullscreen {
     width: 1010px;
-    float: none;
 }
 
 /* Article is used to hold standalone content. */
