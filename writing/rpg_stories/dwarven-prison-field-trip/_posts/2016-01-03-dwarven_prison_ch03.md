@@ -1,9 +1,9 @@
 ---
 title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 3"
 layout: chapter
+chapter: 3
 ---
 
-*INTO THE CLOSET*
 
 The ordeal with the poison had left NGE drained, weaker than normal. Chad informed the group that NGE was now only capable of fucking up _most_ things in her path. With that said, the foursome took their bearings.
 
@@ -15,7 +15,6 @@ NGE, as always, was in front, and Chad asked her to open the "Storage" door. The
 
 NGE opened the barrel, and was mildly surprised to find that it contained an angry rat the size of a small dog. She was even more surprised by the fact that the rat immediately launched itself at her face.
 
-*RATTLED*
 
 Luckily, the magical armor that Chad had conjured around her earlier still held, and the rat's claws and teeth clacked uselessly against it. It was a simple matter for NGE to draw her sword and counterattack with a mighty blow that would cleave the rat in two.
 
@@ -50,8 +49,6 @@ Of course, to anyone who spoke Rat, the conversation went like this:
 "Oh, my, we had no idea! We never intended to hurt you. Could you possibly stop biting us? We'll leave you alone, we promise!"
 
 "You go! We stay! No kill, need food!"
-
-*ASCENSION*
 
 Chomsky smiled and addressed the rest of the party. "SCFRRERE- oh, sorry. He says they were just scared, and hungry. So... yeah! We should be fine!"
 

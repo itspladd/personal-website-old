@@ -1,9 +1,8 @@
 ---
 title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 2"
 layout: chapter
+chapter: 2
 ---
-
-*THE ENTRYWAY*
 
 The party descended the ancient stairway, and their lights revealed an old, crumbling room. Of two stone columns in the center, only one remained standing. A section of wall to their left had fallen away, revealing dirt and rock behind the masonry. A simple iron door to their left was unadorned, and in front of them was a set of stone double doors with a nameplate in Dwarven script. Chomsky, drawing upon his time spent at the university, translated the Dwarven markings: "Processing."
 
@@ -15,8 +14,6 @@ Lacking the desire to face what was beyond the barricaded door, the group turned
 
 Gavin suggested that everyone stand back. He and the others took up places on the other side of the room. Gavin uttered an incantation and pointed a glowing digit at the wall, which promptly ground open, dragging several pots and pans along with it with an unholy cacophonous clatter. Unseen by the party, every living creature in a thirty-mile radius awoke.
 
-*SECRET SECRET, I'VE GOT A SECRET*
-
 As the noise subsided, the group ventured carefully towards the door. A piece of ordinary twine with several cooking implements tied to its length was secured to the other side of the door, and had fallen from a shelf at the door's opening. The group readied their weapons and entered the passageway, scouting ahead with their glowing genitalia.
 
 The secret passage (for of course it was a secret passage) wound its way past a pair of slits in the wall - spyholes, perhaps, or possibly arrow slits. Through the room on the other side of the holes came the scent of cooking meat and woodsmoke. Derfin, with his elf eyes, looked through the holes and saw campfire embers glowing in the middle of the room beyond. In his expert opinion, the fire had been doused only moments earlier. Nobody was visible in the room.
@@ -26,8 +23,6 @@ The group advanced towards the end of the passage, and opened the door at the en
 The tablet turned out to be a map of the ruins, and it displayed several rooms: "Commander," the room the group was currently in. "Barracks," the room directly beyond. "Storage." "Questioning." "Processing." "Incarceration." "Temple."
 
 Chomsky read each one out loud to the group. The gang came to a quick consensus, which was that they were in a fucking dwarven murder prison. After a few minutes of hard introspection, everyone agreed that they should take anything that wasn't nailed down, and they headed towards the barracks door.
-
-*SLAVE TRADE*
 
 The barracks was empty. You know, apart from the beds (scorched, melted, and blown apart like the Commander's chair), the campfire (sending its last bits of smoke into the air as the embers died out), and the packs of traveling gear against the wall (which looked like they had been hurriedly opened). The party's map showed a small room directly in front of them, and a slightly larger room to their right. NGE opened the far door to find two bound and gagged people! Heavens me!
 
