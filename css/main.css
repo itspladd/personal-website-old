@@ -64,19 +64,28 @@ header {
     font-size: 20px;
 }
 
-/* Nav is used for anavigation within each section of the site. */
+/* Nav is used for navigation within each section of the site. */
 nav {
     background-color: #432100;
     text-color: black;
     font-family: "Open Sans", sans-serif;
 }
 
-.navbutton {
+a.navbutton {
     display: inline-block;
+    font-size: 25px;
+    color: #E6E19E;
+    text-decoration: none;
     width: 150px;
     height: 75px;
     margin: 5px auto 5px auto;
-    border: 3px solid black;
+    border-radius: 5px;
+    border: 1px dashed white;
+}
+
+a.navbutton:hover {
+    background-color: #E6E19E;
+    color: #432100;
 }
 
 a.post-head {
