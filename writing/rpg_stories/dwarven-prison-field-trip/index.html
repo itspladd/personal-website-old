@@ -19,9 +19,9 @@ title: "Field Trip to the Ancient Dwarven Prison Camp"
 </aside>
 
 {% for page in site.categories.dwarven-prison-field-trip reversed %}
-    <section>
+    <section id="{{ page.chapter }}">
         <article>
-            <h1 id="{{ page.chapter }}">Chapter {{ page.chapter }}</h1>
+            <h1>Chapter {{ page.chapter }}</h1>
             {{ page.content }}
         </article>
     </section>
