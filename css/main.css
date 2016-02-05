@@ -162,7 +162,7 @@ aside * {
 }
 
 /* midtext_left and midtext_right are for tangential content within articles. */
-aside.midtext_left {
+aside.midtext-left {
     background-color: #AF753B;
     border-radius: 5px;
     margin: 0px 10px 0px 0px;
@@ -170,13 +170,20 @@ aside.midtext_left {
     max-width: 40%;
 }
 
-aside.midtext_right {
+aside.midtext-right {
     background-color: #AF753B;
     border-radius: 5px;
     margin: 0px 0px 0px 10px;
     float: right;
     max-width: 40%;
-    }
+}
+
+aside.midtext-center {
+    background-color: #AF753B;
+    border-radius: 5px;
+    margin: 0px 10px 0px 10px;
+    text-align: center;
+}
 
 /* Section is used for thematically-related content. */
 section {
@@ -203,7 +210,7 @@ article h1 {
     margin: 0px;
 }
 
-article p {
+article p img {
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
