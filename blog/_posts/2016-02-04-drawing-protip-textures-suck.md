@@ -19,15 +19,15 @@ To be fair, I learned a lot about making that _exact_ comic style look better th
 
 <!--more-->
 
-I recently discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Drill. Drill. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
+I recently discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
 
 ![Examples of the "funnel" drawing exercise](/assets/drawing-exercise-funnels.png)
 
-I've made measurable progress, which makes me happy. I went from drawing circles and lines to drawing oblong organic forms. I was truckin'. And then I started working on [dissections](http://drawabox.com/lesson/2). 
+I was making visible progress. My lines got straighter. My planes looked less like beanbag chairs and more like planes. I was truckin'. And then I started working on [dissections](http://drawabox.com/lesson/2). 
 
 "Oh, cool!" I said to myself, young and naive. "Finally, I can start drawing real-world object patterns!"
 
-And so I chose reference photos. "But," I thought to myself, "the objects I choose should have interesting textures, or else I won't learn anything. Hmm. What has an interesting texture?"
+The first step was to find reference photos. "Hmm," I thought to myself, "the references I choose should have interesting textures, or else I won't learn anything. What has an interesting texture?"
 
 ![Leather. Leather is evil.](/assets/drawing-texture-leather.jpg)
 
