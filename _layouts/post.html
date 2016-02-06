@@ -7,7 +7,10 @@ layout: default
             {{ page.date | date_to_string }}
             {{ content }}
         </article>
+        
         <article>
+            <!-- This code's credit goes to user dotnil, from https://github.com/jekyll/jekyll/issues/260 -->
+            <!-- It creates previous/next links and titles based on categories, which isn't natively supported in jekyll.-->
             {% if page.categories %}
               {% assign category = page.categories[0] %}
               {% assign posts = site.categories[category] %}
