@@ -4,17 +4,22 @@ date: 2016-02-04
 author: pladd
 ---
 
+<aside class="midtext-right">
+    <figure>
+        <img alt="An old comic panel" src="/assets/drawing-example-old-comic.png"/>
+        <figcaption>This was supposed to be two people falling into giant tubes. It made sense at the time.</figcaption>
+    </figure>
+</aside>
+
 I'm trying to learn to draw.
 
-I've drawn before. I've just never drawn _well_. I made a silly comic strip for a while and posted itonline. The quality was...
+I've drawn before. I've just never drawn _well_. I made a silly comic strip for a while and posted it online. The quality was...questionable.
 
-<aside class="midtext-center"><img alt="An old comic panel" src="/assets/drawing-example-old-comic.png"/></aside>
+To be fair, I learned a lot about making that _exact_ comic style look better than it did when I started, but I had no clear concept of how to show volume, proportion, or texture. I sketched and scribbled and experimented until I could ink something passable; then I corrected my inking mistakes with Photoshop. I was drawing by the seat of my pants, and it showed. But now, I'm trying to turn that around.
 
-...questionable.
+<!--more-->
 
-To be fair, I learned a lot about making that _exact_ comic style look better than it did when I started, but I had no clear concept of how to show volume, proportion, or texture. I sketched and scribbled and experimented until I had something passable that I could ink. Then I corrected all of my inking mistakes with Photoshop. I was drawing by the seat of my pants.
-
-Recently, however, I discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Drill. Drill. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
+I recently discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Drill. Drill. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
 
 ![Examples of the "funnel" drawing exercise](/assets/drawing-exercise-funnels.png)
 
