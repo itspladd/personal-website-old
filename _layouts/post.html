@@ -8,11 +8,29 @@ layout: default
             {{ content }}
         </article>
         <article>
-            {% if page.previous %}
-                <a rel="prev" href="{{ page.previous.url }}">Previous post: {{ page.previous.title }}</a>
+            {% if page.categories %}
+              {% assign category = page.categories[0] %}
+              {% assign posts = site.categories[category] %}
+              {% for post in posts %}
+                {% if post.url == page.url %}
+                  {% assign post_index0 = forloop.index0 %}
+                  {% assign post_index1 = forloop.index %}
+                {% endif %}
+              {% endfor %}
+              {% for post in posts %}
+                {% if post_index0 == forloop.index %}
+                  {% assign next_post = post %}
+                {% endif %}
+                {% if post_index1 == forloop.index0 %}
+                  {% assign prev_post = post %}
+                {% endif %}
+              {% endfor %}
             {% endif %}
-            {% if page.next %}
-                <a rel="next" href="{{ page.next.url }}">Next post: {{ page.next.title }}</a>
+            {% if prev_post %}
+                <a rel="prev" href="{{ prev_post.url }}">Previous post: {{ prev_post.title }}</a>
+            {% endif %}
+            {% if next_post %}
+                <a rel="next" href="{{ next_post.url }}">Next post: {{ next_post.title }}</a>
             {% endif %}
 
         </article>
