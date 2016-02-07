@@ -4,7 +4,7 @@ layout: default
     <section>
         <article>
             <h1>{{ page.title }}</h1>
-            {{ page.date | date_to_string }}
+            <span class="dateauthor">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
             {{ content }}
         </article>
         

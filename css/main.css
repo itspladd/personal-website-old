@@ -42,6 +42,10 @@ h1.main-title {
     top: 25px;
 }
 
+.dateauthor {
+    font-size: 13px;
+}
+
 /* Content: defines the div that holds the body of a page.*/
 #content {
     width: 1010px;
@@ -205,7 +209,6 @@ section.fullscreen {
 /* Article is used to hold standalone content. */
 article {
     margin: 10px 10px 10px 10px;
-    border: 1px dashed black;
     text-align: left;
 }
 
