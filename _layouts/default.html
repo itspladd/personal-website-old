@@ -25,13 +25,20 @@
                     sidebar.style.right = "10px";
                 }
             }
+            function doSidebar() {
+                if (document.getElementsByClassName("sidebar")[0]) {
+                    findSidebar();
+                    moveSidebar();
+                }
+            }
         </script>
+        <script src="/assets/intro-strings.js"></script>
     </head>
     
-    <body onload="findSidebar(); moveSidebar()">
+    <body onload="doSidebar(); chooseIntroString()">
         <header>
             <h1 class="main-title"><a class="main-title" href="/">PLADD</a></h1>
-            <p>Paul Ladd does things<p>
+            <p id="intro-string">&nbsp;<p>
             <nav>
                 <a class="navbutton" href="{{ site.url }}/blog">Blog</a>
                 <a class="navbutton" href="{{ site.url }}/writing">Writing</a>
