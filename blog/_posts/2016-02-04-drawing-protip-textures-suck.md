@@ -1,5 +1,5 @@
 ---
-title: "Drawing Protip: Textures Are the Worst"
+title: "Drawing Protip: Textures Are the Worst."
 date: 2016-02-04
 author: pladd
 ---
@@ -7,48 +7,55 @@ author: pladd
 <aside class="midtext-right">
     <figure>
         <img alt="An old comic panel" src="/assets/drawing-example-old-comic.png"/>
-        <figcaption>This was supposed to be two people falling into giant tubes. It made sense at the time.</figcaption>
+        <figcaption>An old comic panel of mine, supposedly portraying two people falling into giant tubes. It made sense at the time.</figcaption>
     </figure>
 </aside>
 
 I'm trying to learn to draw.
 
-I've drawn before. I've just never drawn _well_. I made a silly comic strip for a while and posted it online. The quality was...questionable.
+I've drawn before. I've just never drawn _well_. During college, I made silly comic strips and posted them online. Their quality was...questionable.
 
-To be fair, I learned a lot about making that _exact_ comic style look better than it did when I started, but I had no clear concept of how to show volume, proportion, or texture. I sketched and scribbled and experimented until I could ink something passable; then I corrected my inking mistakes with Photoshop. I was drawing by the seat of my pants, and it showed. But now, I'm trying to turn that around.
+To be fair, I learned a lot about making that _exact_ comic style look better than it did when I started, but I had no clear concept of how to show volume, proportion, or texture. I sketched and scribbled and experimented until I could ink something passable; then I corrected my inking mistakes with Photoshop. I was drawing by the seat of my pants, and it showed. But now, I'm working on changing that.
 
 <!--more-->
 
-I recently discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
+<aside class="midtext-left">
+    <figure>
+        <img alt="Examples of the funnel drawing exercise" src="/assets/drawing-exercise-planes.png" />
+        <figcaption>One of the early exercises: draw a flat plane, freehand, then draw an ellipse inside of it.</figcaption>
+    </figure>
+</aside>
 
-![Examples of the "funnel" drawing exercise](/assets/drawing-exercise-funnels.png)
+I recently discovered Irshad Karim's excellent [Draw A Box](http://www.drawabox.com) lessons, which start with the _absolute_ basics. Lines. Planes. Ellipses. Practice. Get that arm to know what the hell to do when your brain wants a line from _here_ to _there_. No, of COURSE your arm doesn't want to draw a straight line. Your arm is stupid. Learn how to tell your stupid, stupid arm to shut up and draw what your smart brain wants.
 
 I was making visible progress. My lines got straighter. My planes looked less like beanbag chairs and more like planes. I was truckin'. And then I started working on [dissections](http://drawabox.com/lesson/2). 
 
-"Oh, cool!" I said to myself, young and naive. "Finally, I can start drawing real-world object patterns!"
+"Oh, cool!" I said to myself, young and nai&#776;ve. "Finally, I can start drawing real-world object patterns!"
 
 The first step was to find reference photos. "Hmm," I thought to myself, "the references I choose should have interesting textures, or else I won't learn anything. What has an interesting texture?"
 
-![Leather. Leather is evil.](/assets/drawing-texture-leather.jpg)
+<aside class="midtext-center">
+    <figure>
+        <img alt="This face is the only thing I see when I close my eyes now." src="/assets/drawing-texture-leather-monster.png"/>
+    </figure>
+</aside>
 
-"Yes, of course! Leather! Fantastic idea, Paul. Have a pat on the back!"
+"Leather! Of course! Fantastic idea, Paul. Have a pat on the back!"
 
-It took about ten seconds of drawing to realize my mistake. Or, rather, to realize my hubris: while leather does indeed have an "interesting" texture, recreating that texture with a pen is SO HARD.
-
-![My attempt to understand leather texturing](/assets/drawing-exercise-dissection-leather-notes.png)
+It took about ten seconds of drawing to realize my mistake - or, rather, my hubris: while leather does indeed have an "interesting" texture, recreating that texture with a pen is JUST THE WORST.
 
 I made notes. I sketched experiments. I had it figured out.
 
 I started drawing. _I did not have it figured out._ I took more notes. I attempted to uncover the Grand Unified Damned Theory of Leather. I started drawing again, in a different place this time. It looked weird. I doubled down. "Surely," I thought, "surely this will start to look better as I add more detail."
 
-I ended up with this:
+<aside class="midtext-center">
+    <figure>
+        <img alt="Pictured: not leather" src="/assets/drawing-exercise-dissection-leather.png"/>
+    </figure>
+</aside>
 
-![My attempt to draw leather texture](/assets/drawing-exercise-dissection-leather.png)
-
-It looks like a texture. It looks rough and uncomfortable. It does not look like leather. I  suddenly realized I had drawn in an area of the drawing that was supposed to be blank.
+It looks like a texture. It looks rough and uncomfortable. It does not look like leather. I realized that I had drawn in an area of the drawing that was supposed to be blank.
 
 My arm would like a word with my brain about who is smart and who is stupid.
 
 -Paul
-
-![Bonus: other textures with comments](/assets/drawing-exercise-dissection-comments.png)
