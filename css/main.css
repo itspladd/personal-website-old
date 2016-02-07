@@ -164,22 +164,25 @@ aside * {
 /* midtext_left and midtext_right are for tangential content within articles. */
 aside.midtext-left {
     background-color: #AF753B;
-    border-radius: 5px;
-    margin: 0px 10px 0px 0px;
+    margin: 0px 10px 0px -12px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 0px 1px #000000;
     float: left;
-    max-width: 40%;
+    width: 40%;
 }
 
 aside.midtext-right {
     background-color: #AF753B;
-    border-radius: 5px;
-    margin: 0px 0px 0px 10px;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: -1px 0px 1px #000000;
+    margin: 0px -12px 0px 10px;
     float: right;
-    max-width: 40%;
+    width: 40%;
 }
 
 aside.midtext-center {
-    background-color: #AF753B;
     border-radius: 5px;
     margin: 0px 10px 0px 10px;
     text-align: center;
@@ -225,6 +228,7 @@ figure {
 figure img {
     margin-bottom: 0px;
     max-width: inherit;
+    border: 1px inset #AF753B;
 }
 
 /* Figcaption is for image captions. */
@@ -232,7 +236,13 @@ figure figcaption {
     display: block;
     font-size: 14px;
     text-align: left;
-    margin: 0px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+aside.midtext-center img {
+    border: none;
+    max-height: 300px;
 }
 
 /* Footer holds copyright information and a site map.*/
