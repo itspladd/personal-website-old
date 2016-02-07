@@ -1,40 +1,43 @@
 ---
 layout: default
 ---
+    <!-- This code's credit goes to user dotnil, from https://github.com/jekyll/jekyll/issues/260 -->
+    <!-- It creates previous/next links and titles based on categories, which isn't natively supported in jekyll.-->
+    {% if page.categories %}
+      {% assign category = page.categories[0] %}
+      {% assign posts = site.categories[category] %}
+      {% for post in posts %}
+        {% if post.url == page.url %}
+          {% assign post_index0 = forloop.index0 %}
+          {% assign post_index1 = forloop.index %}
+        {% endif %}
+      {% endfor %}
+      {% for post in posts %}
+        {% if post_index0 == forloop.index %}
+          {% assign next_post = post %}
+        {% endif %}
+        {% if post_index1 == forloop.index0 %}
+          {% assign prev_post = post %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    <!-- End of dotnil's code ---------------------->
     <section>
         <article>
             <h1>{{ page.title }}</h1>
             <span class="dateauthor">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
             {{ content }}
-        </article>
-        
-        <article>
-            <!-- This code's credit goes to user dotnil, from https://github.com/jekyll/jekyll/issues/260 -->
-            <!-- It creates previous/next links and titles based on categories, which isn't natively supported in jekyll.-->
-            {% if page.categories %}
-              {% assign category = page.categories[0] %}
-              {% assign posts = site.categories[category] %}
-              {% for post in posts %}
-                {% if post.url == page.url %}
-                  {% assign post_index0 = forloop.index0 %}
-                  {% assign post_index1 = forloop.index %}
-                {% endif %}
-              {% endfor %}
-              {% for post in posts %}
-                {% if post_index0 == forloop.index %}
-                  {% assign next_post = post %}
-                {% endif %}
-                {% if post_index1 == forloop.index0 %}
-                  {% assign prev_post = post %}
-                {% endif %}
-              {% endfor %}
-            {% endif %}
             {% if prev_post %}
-                <a rel="prev" href="{{ prev_post.url }}">Previous post: {{ prev_post.title }}</a>
+                <aside class="midtext-left">
+                    <h4 class="prev-next">Previous Post:</h4>
+                    <a rel="prev" href="{{ prev_post.url }}">{{ prev_post.title }}</a>
+                </aside>
             {% endif %}
             {% if next_post %}
-                <a rel="next" href="{{ next_post.url }}">Next post: {{ next_post.title }}</a>
+            <aside class="midtext-right" style="text-align: right">
+                    <h4 class="prev-next">Next Post &#8594;</h4>
+                    <a rel="next" href="{{ next_post.url }}">{{ next_post.title }}</a>
+            </aside>
             {% endif %}
-
         </article>
     </section>
