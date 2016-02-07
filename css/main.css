@@ -42,6 +42,12 @@ h1.main-title {
     top: 25px;
 }
 
+h4.prev-next {
+    font-family: "Bitter", serif;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
 .dateauthor {
     font-size: 13px;
 }
@@ -72,6 +78,7 @@ header {
 nav {
     background-color: #432100;
     text-color: black;
+    line-height: 75px;
     font-family: "Open Sans", sans-serif;
 }
 
@@ -79,18 +86,20 @@ a.navbutton {
     display: inline-block;
     vertical-align: middle;
     font-size: 25px;
+    font-weight: 700;
     color: #E6E19E;
     text-decoration: none;
     width: 150px;
     height: 75px;
     margin: 5px auto 5px auto;
     border-radius: 5px;
-    border: 2px solid #E6E19E;
+    border: 2px outset #E6E19E;
 }
 
 a.navbutton:hover {
     background-color: #E6E19E;
     color: #432100;
+    border-style: inset;
 }
 
 a.post-head {
