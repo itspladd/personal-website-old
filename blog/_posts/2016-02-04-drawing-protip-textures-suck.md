@@ -1,5 +1,5 @@
 ---
-title: "Drawing Protip: Textures Are the Worst."
+title: "Drawing Protip: Textures Suck."
 date: 2016-02-04
 author: pladd
 ---
@@ -42,11 +42,11 @@ The first step was to find reference photos. "Hmm," I thought to myself, "the re
 
 "Leather! Of course! Fantastic idea, Paul. Have a pat on the back!"
 
-It took about ten seconds of drawing to realize my mistake - or, rather, my hubris: while leather does indeed have an "interesting" texture, recreating that texture with a pen is JUST THE WORST.
+It took about ten seconds of drawing to realize my hubris: while leather does indeed have an "interesting" texture, recreating that texture with a pen is JUST THE WORST.
 
-I made notes. I sketched experiments. I had it figured out.
+I made notes. I sketched experiments. I had it figured out. I started drawing.
 
-I started drawing. _I did not have it figured out._ I took more notes. I attempted to uncover the Grand Unified Damned Theory of Leather. I started drawing again, in a different place this time. It looked weird. I doubled down. "Surely," I thought, "surely this will start to look better as I add more detail."
+_I did not have it figured out._ I took more notes. I attempted to uncover the Grand Unified Damned Theory of Leather. I started drawing again, in a different place this time. It looked weird, but I kept going. "Surely," I thought, "surely this will start to look better as I add more detail."
 
 <aside class="midtext-center">
     <figure>
@@ -54,8 +54,8 @@ I started drawing. _I did not have it figured out._ I took more notes. I attempt
     </figure>
 </aside>
 
-It looks like a texture. It looks rough and uncomfortable. It does not look like leather. I realized that I had drawn in an area of the drawing that was supposed to be blank.
+It looks like a texture. It looks rough and uncomfortable. It does not look like leather. I realized that I had drawn in an area of the drawing that was supposed to be empty space instead of a texture.
 
-My arm would like a word with my brain about who is smart and who is stupid.
+It's a learning process, of course. I know that I'll get better as I practice. But for the moment, my arm would like a word with my brain about who is smart and who is stupid.
 
 -Paul
