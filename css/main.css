@@ -178,7 +178,7 @@ aside * {
 /* midtext_left and midtext_right are for tangential content within articles. */
 aside.midtext-left {
     background-color: #AF753B;
-    margin: 0px 10px 0px -12px;
+    margin: 0px 10px 10px -12px;
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
     box-shadow: 1px 0px 1px #000000;
@@ -191,7 +191,7 @@ aside.midtext-right {
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     box-shadow: -1px 0px 1px #000000;
-    margin: 0px -12px 0px 10px;
+    margin: 0px -12px 10px 10px;
     float: right;
     width: 40%;
 }
