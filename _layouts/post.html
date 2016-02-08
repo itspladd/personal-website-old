@@ -24,7 +24,7 @@ layout: default
     <!-- End of dotnil's code ---------------------->
     <section>
         <article>
-            <h1>{{ page.title }}</h1>
+            <h1><a href="{{ page.url }}" class=" post-head">{{ page.title }}</a></h1>
             <span class="dateauthor">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
             {{ content }}
             {% if prev_post %}
@@ -35,7 +35,7 @@ layout: default
             {% endif %}
             {% if next_post %}
             <aside class="midtext-right" style="text-align: right">
-                    <h4 class="prev-next">Next Post &#8594;</h4>
+                    <h4 class="prev-next">Next Post:</h4>
                     <a rel="next" href="{{ next_post.url }}">{{ next_post.title }}</a>
             </aside>
             {% endif %}
