@@ -6,7 +6,7 @@ var introStrings = [
     "code",
     "comics",
     "D&D",
-    "financial theory",
+    "personal finance",
     "RPG stories",
     "SO MANY THINGS",
     "scripting",
