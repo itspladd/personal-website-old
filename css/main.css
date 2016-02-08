@@ -82,13 +82,21 @@ nav {
     font-family: "Open Sans", sans-serif;
 }
 
+a {
+    text-decoration: none;
+    color: #74779F;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 a.navbutton {
     display: inline-block;
     vertical-align: middle;
     font-size: 25px;
     font-weight: 700;
     color: #E6E19E;
-    text-decoration: none;
     width: 150px;
     height: 75px;
     margin: 5px auto 5px auto;
@@ -100,15 +108,16 @@ a.navbutton:hover {
     background-color: #E6E19E;
     color: #432100;
     border-style: inset;
+    text-decoration: none;
 }
 
-a.post-head {
-    text-decoration: none;
+article h1:first-child a {
     color: #00032F;
 }
 
-a.post-head:hover {
+article h1:first-child a:hover {
     color: #74779F;
+    text-decoration: none;
 }
 
 /*****************************************************/
@@ -116,13 +125,13 @@ a.post-head:hover {
 /* OPTION A: Default background/text, border on hover*/
 
 a.main-title {
-    text-decoration: none;
     border-radius: 5px;
     color: #CCCCCC;
 }
 
 a.main-title:hover {
     border: 5px solid #CCCCCC;
+    text-decoration: none;
 }
 
 /* OPTION B: Default background/text, invert on hover*/
@@ -224,6 +233,7 @@ article {
 
 article h1 {
     margin: 0px;
+    font-family: "Bitter", serif;
 }
 
 article p img {
