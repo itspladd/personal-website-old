@@ -42,9 +42,10 @@ h1.main-title {
     top: 25px;
 }
 
-h4.prev-next {
+p.prev-next {
     font-family: "Bitter", serif;
     font-size: 20px;
+    font-weight: bold;
     margin-bottom: 0px;
 }
 
@@ -108,6 +109,21 @@ a.navbutton:hover {
     background-color: #E6E19E;
     color: #432100;
     border-style: inset;
+    text-decoration: none;
+}
+
+a.prev-next {
+    font-family: "Bitter", serif;
+    font-weight: bold;
+    color: #0C1155;
+    font-size: 18px;
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+a.prev-next:hover {
+    color: #343979;
     text-decoration: none;
 }
 

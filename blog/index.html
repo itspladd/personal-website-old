@@ -20,8 +20,10 @@ title: "Paul Ladd does a blog"
         <span class="dateauthor">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
         {{ site.categories.blog[0].content }}
         <aside class="midtext-left">
-            <h4 class="prev-next">Previous Post:</h4>
-            <a href="{{ site.categories.blog[1].url }}">{{ site.categories.blog[1].title }}</a>
+            <p class="prev-next">
+                Previous Post:
+                <a class="prev-next" rel="prev" href="{{ site.categories.blog[1].url }}">{{ site.categories.blog[1].title }}</a>
+            </p>
         </aside>
     </article>
 </section>

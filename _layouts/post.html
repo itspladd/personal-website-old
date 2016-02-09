@@ -29,14 +29,18 @@ layout: default
             {{ content }}
             {% if prev_post %}
                 <aside class="midtext-left">
-                    <h4 class="prev-next">Previous Post:</h4>
-                    <a rel="prev" href="{{ prev_post.url }}">{{ prev_post.title }}</a>
+                    <p class="prev-next">
+                        Previous Post:
+                        <a class="prev-next" rel="prev" href="{{ prev_post.url }}">{{ prev_post.title }}</a>
+                    </p>
                 </aside>
             {% endif %}
             {% if next_post %}
             <aside class="midtext-right" style="text-align: right">
-                    <h4 class="prev-next">Next Post:</h4>
-                    <a rel="next" href="{{ next_post.url }}">{{ next_post.title }}</a>
+                    <p class="prev-next">
+                        Next Post:
+                        <a class="prev-next" rel="next" href="{{ next_post.url }}">{{ next_post.title }}</a>
+                    </p>
             </aside>
             {% endif %}
         </article>
