@@ -85,7 +85,8 @@ nav {
 
 a {
     text-decoration: none;
-    color: #74779F;
+    color: #343979;
+    font-weight: 600;
 }
 
 a:hover {
