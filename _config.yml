@@ -1,9 +1,20 @@
-name: "Steel Topaz: Paul Ladd Does Things"
+#Plugins - commented out in case we want to re-enable pagination later
+#gems:  [jekyll-paginate]
+#paginate: 1
+#paginate_path: "/blog/page:num/"
+
+name: "Paul Ladd Does Things"
 markdown: kramdown
+
+excerpt_separator: <!--more-->
+
+permalink: pretty
+
 defaults:
   -
     scope:
-      path: ""
+      path: "blog/_posts"
       type: "posts"
     values:
       layout: "post"
+      author: "pladd"

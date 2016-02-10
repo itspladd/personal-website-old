@@ -5,19 +5,47 @@
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic|Bitter' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="/css/main.css"/>
         <meta />
+        <script>
+            window.onscroll = function() {moveSidebar()};
+            var sidebar;
+            var sidebarOffset;
+            function findSidebar() {
+                sidebar = document.getElementsByClassName("sidebar")[0];
+                sidebarOffset = sidebar.offsetTop - 10 + sidebar.offsetParent.offsetTop;
+            }
+            function moveSidebar() {
+                var marginToTop = window.pageYOffset - sidebarOffset + 10;
+                if (window.pageYOffset < sidebarOffset) {
+                    sidebar.style.position = "static";
+                    sidebar.style.marginTop = "10px";
+                }
+                if (window.pageYOffset >= sidebarOffset) {
+                    sidebar.style.position = "fixed";
+                    sidebar.style.top = "0px";
+                    sidebar.style.right = "10px";
+                }
+            }
+            function doSidebar() {
+                if (document.getElementsByClassName("sidebar")[0]) {
+                    findSidebar();
+                    moveSidebar();
+                }
+            }
+        </script>
+        <script src="/assets/intro-strings.js"></script>
     </head>
     
-    <body>
+    <body onload="chooseIntroString(); doSidebar()">
         <header>
-            <h1 class="headingtext">Steel Topaz</h1>
-            <p>Paul Ladd does things<p>
-            <nav class="bodytext">
-                <a href="blog"><img class="navbutton" src="" alt="Blog"></img></a>
-                <a href="writing"><img class="navbutton" src="" alt="Writing"></img></a>
-                <a href="art"><img class="navbutton" src="" alt="Art"></img></a>
-                <a href="coding"><img class="navbutton" src="" alt="Code"></img></a>
-                <a href="resume"><img class="navbutton" src="" alt="Resume"></img></a>
-                <a href="about"><img class="navbutton" src="" alt="About"></img></a>
+            <h1 class="main-title"><a class="main-title" href="/">PLADD</a></h1>
+            <p id="intro-string">&nbsp;<p>
+            <nav>
+                <a class="navbutton" href="{{ site.url }}/blog">Blog</a>
+                <a class="navbutton" href="{{ site.url }}/writing">Writing</a>
+                <a class="navbutton" href="{{ site.url }}/art">Art</a>
+                <a class="navbutton" href="{{ site.url }}/coding">Code</a>
+                <a class="navbutton" href="{{ site.url }}/resume">Resume</a>
+                <a class="navbutton" href="{{ site.url }}/about">About</a>
             </nav>
         </header>
         <div id="content">
@@ -25,7 +53,7 @@
         {{ content }}
         
         </div><!-- /.content -->
-        <footer>Unless otherwise indicated, all content on this web site is owned by Paul Ladd. &copy; 2013-2016 Paul Ladd. Hosted on GitHub.</footer>
+        <footer>Unless otherwise indicated, all content on this site is owned by Paul Ladd. &copy; 2013-2016 Paul Ladd. Hosted on <a style="color:#E6C19E" href="https://github.com/SteelTopaz/SteelTopaz.github.io">GitHub</a>.</footer>
 
     </body>
 </html>

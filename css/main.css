@@ -27,24 +27,37 @@ header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
-.headingtext {
-    position: relative;
-    font-size: 60px;
-    top: 25px;
-
-}
-
-#content {
-    width: 1010px;
-    margin: 0px auto 10px auto;
-}
-
-/* Overall background */
+/* General body settings */
 body {
     background-color: #74779F;
     font-family: "Open Sans", sans-serif;
-    text-align: center;
-    overflow-x: hidden;
+    text-align: center; /* ...to make sections and asides center */
+    overflow-x: hidden; /* ...so that the footer margin can overflow off the side of the page with no scroll bar */
+}
+
+/* h1.main-title is only used for the website title at the top of the page. */
+h1.main-title {
+    position: relative;
+    font-size: 60px;
+    top: 25px;
+}
+
+p.prev-next {
+    font-family: "Bitter", serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+.dateauthor {
+    font-size: 13px;
+}
+
+/* Content: defines the div that holds the body of a page.*/
+#content {
+    width: 1010px;
+    margin: 0px auto 10px auto;
+    position: relative;
 }
 
 /* Header is used for the title bar.*/
@@ -62,34 +75,161 @@ header {
     font-size: 20px;
 }
 
-/* Nav is used for anavigation within each section of the site. */
+/* Nav is used for navigation within each section of the site. */
 nav {
     background-color: #432100;
     text-color: black;
+    line-height: 75px;
     font-family: "Open Sans", sans-serif;
 }
 
-.navbutton {
+a {
+    text-decoration: none;
+    color: #343979;
+    font-weight: 600;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+a.navbutton {
     display: inline-block;
-    width: 100px;
+    vertical-align: middle;
+    font-size: 25px;
+    font-weight: 700;
+    color: #E6E19E;
+    width: 150px;
     height: 75px;
     margin: 5px auto 5px auto;
-    border: 3px solid black;
+    border-radius: 5px;
+    border: 2px outset #E6E19E;
 }
+
+a.navbutton:hover {
+    background-color: #E6E19E;
+    color: #432100;
+    border-style: inset;
+    text-decoration: none;
+}
+
+a.prev-next {
+    font-family: "Bitter", serif;
+    font-weight: bold;
+    color: #0C1155;
+    font-size: 18px;
+    display: block;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+a.prev-next:hover {
+    color: #343979;
+    text-decoration: none;
+}
+
+article h1:first-child a {
+    color: #00032F;
+}
+
+article h1:first-child a:hover {
+    color: #74779F;
+    text-decoration: none;
+}
+
+/*****************************************************/
+/* MAIN TITLE HOVER BEHAVIOR *************************/
+/* OPTION A: Default background/text, border on hover*/
+
+a.main-title {
+    border-radius: 5px;
+    color: #CCCCCC;
+}
+
+a.main-title:hover {
+    border: 5px solid #CCCCCC;
+    text-decoration: none;
+}
+
+/* OPTION B: Default background/text, invert on hover*/
+/*
+a.main-title {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #CCCCCC; 
+}
+
+a.main-title:hover {
+    color: #00032F; 
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+}
+*/
+
+/* OPTION C: Invert background/text, default on hover */
+
+/*
+a.main-title {
+    text-decoration: none;
+    border-radius: 5px;
+    color: #00032F; 
+    background-color: #CCCCCC;
+    border-color: #CCCCCC;
+
+}
+
+a.main-title:hover {
+    color: #CCCCCC;
+    background-color: #00032F;
+}
+*/
+
+/* END MAIN TITLE HOVER BEHAVIOR *********************/
 
 /* Aside.sidebar is for sidebar content. */
 aside.sidebar {
     background-color: #E6C19E;
-    text-align: left;
-    display: inline-block;
-    width: 200px;
-    margin: 10px auto 10px auto;
     border-radius: 5px;
     float: right;
+    font-size: 14px;
+    margin: 10px auto 10px auto;
+    text-align: left;
+    width: 200px;
 }
 
-aside.sidebar * {
-    margin: 10px 10px 0px 10px;
+aside.sidebar h3 {
+    font-family: "Bitter", serif;
+}
+
+aside * {
+    margin: 10px 10px 10px 10px;
+}
+
+/* midtext_left and midtext_right are for tangential content within articles. */
+aside.midtext-left {
+    background-color: #AF753B;
+    margin: 0px 10px 10px -12px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 0px 1px #000000;
+    float: left;
+    width: 40%;
+}
+
+aside.midtext-right {
+    background-color: #AF753B;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    box-shadow: -1px 0px 1px #000000;
+    margin: 0px -12px 10px 10px;
+    float: right;
+    width: 40%;
+}
+
+aside.midtext-center {
+    border-radius: 5px;
+    margin: 0px 10px 0px 10px;
+    text-align: center;
 }
 
 /* Section is used for thematically-related content. */
@@ -102,45 +242,58 @@ section {
     border-radius: 5px;
 }
 
+section.fullscreen {
+    width: 1010px;
+}
+
 /* Article is used to hold standalone content. */
 article {
     margin: 10px 10px 10px 10px;
-    border: 1px dashed black;
     text-align: left;
 }
 
 article h1 {
     margin: 0px;
+    font-family: "Bitter", serif;
 }
 
-article p {
-}
-
-/* Aside within article is for tangential article content. */
-article aside {
-    background-color: #AF753B;
-    border-radius: 5px;
+article p img {
 }
 
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
 figure {
-
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
 }
 
 /* Img is the actual image tag. */
-img {
-
+figure img {
+    margin-bottom: 0px;
+    max-width: inherit;
+    border: 1px inset #AF753B;
 }
 
 /* Figcaption is for image captions. */
-figcaption {
+figure figcaption {
+    display: block;
+    font-size: 14px;
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+aside.midtext-center img {
+    border: none;
+    max-height: 300px;
 }
 
 /* Footer holds copyright information and a site map.*/
 footer {
     background-color: #433F00;
     font-size: 12px;
+    color: #E6C19E;
     clear: both;
     position: relative;
     top: 10px;
