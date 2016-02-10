@@ -1,5 +1,5 @@
 ---
-title: "The Grave Ambush at Tirrsmont: Chapter 1"
+title: "The Grave Ambush at Tirisvale: Chapter 1"
 layout: chapter
 chapter: 1
 ---
@@ -8,7 +8,7 @@ Pitt rubbed his eyes. The trip from Tirrem's Crossing had been entirely uneventf
 
 The coins in his purse clinked as the cart hit a rock. In hindsight, he mused, "zero" was exactly how much gold he should have spent on hiring extra guards for the trip. They had done nothing but sit in their respective wagons, invisible except for mealtimes and the nightly watch. Food for four and sixty gold pieces, wasted.
 
-At least he had a payday to look forward to. As the merchant caravan crested a hill, a modest city wall surrounding a modest city came into view: Tirrsmont. Boring as it had been, the trip was over, and his caravan was safe.
+At least he had a payday to look forward to. As the merchant caravan crested a hill, a modest city wall surrounding a modest city came into view: Tirisvale. Boring as it had been, the trip was over, and his caravan was safe.
 
 ----
 
@@ -74,7 +74,7 @@ Chomsky hopped out of the wagon behind them. "Hey guys! Did I miss anything?"
 
 ----
 
-NGE entered the city, and the rest of the group followed behind. Before them lay the main road of Tirrsmont. It was clear that there had been heavy fighting here, but there was little left to fight. It looked as if the battle had progressed down the main road. The group ran ahead, with Chadwick casting longing glances at the unlooted corpses they were leaving behind.
+NGE entered the city, and the rest of the group followed behind. Before them lay the main road of Tirisvale. It was clear that there had been heavy fighting here, but there was little left to fight. It looked as if the battle had progressed down the main road. The group ran ahead, with Chadwick casting longing glances at the unlooted corpses they were leaving behind.
 
 The sounds of fighting drew their attention to an intersecting street. Overturned carts of various goods cluttered the lane; clearly this was a market. Far down the street was a goblin with a headdress and a crude staff, flanked by two bodyguards.
 
