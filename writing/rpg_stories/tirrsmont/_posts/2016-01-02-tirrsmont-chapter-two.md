@@ -1,7 +1,7 @@
 ---
 title: "The Grave Ambush at Tirrsmont: Chapter 1"
 layout: chapter
-nextchapter: tirrsmont_ch2
+chapter: 1
 ---
 
 Pitt rubbed his eyes. The trip from Tirrem's Crossing had been entirely uneventful, but uneventful meant _boring_. Normally he needed both hands to count the number of bandit attacks, cart breakdowns, and otherwordly encounters his caravan would encounter on any given run. But the past week? Nothing. Zero.
