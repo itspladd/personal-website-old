@@ -4,8 +4,6 @@ layout: chapter
 chapter: 6
 ---
 
-*DERFINALLY BACK!*
-
 Chad, Chomsky, and Gavin stopped for a moment to catch their breath as NGE switfly descended from her rocky perch. In front of the group, Chomsky's rats formed a seething, roiling rodent carpet over the bodies of the two giant crablobsters.
 
 Derfin looked mournfully at the dead creatures. "I told you, Sarge," he said, a single tear in his eye. "I told you Charlie had mustard gas, didn't I? But you didn't listen." He began to weep openly. "I loved you, Sarge! I loved you so gods-damned much!"
@@ -22,7 +20,7 @@ Chadwick put both masks on.
 
 As Gavin, Chomsky, and NGE cried for help to their respective deities, Derfin straightened up, his eyes lucid for the first time in hours. The thunderous windbreaking had seemingly roused him from his war flashbacks. Huzzah! Once the smell dissipated, the group filled him in on the events of the day, stopping briefly to hope that the insanity mist hadn't reached the freed villagers back in the barracks.
 
-*A VOICE IN THE DARK*
+----------------------------
 
 At the mention of the villagers, Gavin cocked his head to the side, his eyes slightly unfocused. "Did you guys hear that?"
 
@@ -44,7 +42,7 @@ Chomsky, Derfin, and Chadwick exchanged slightly extremely terrified glances.
 
 Gavin nodded, and an awkward silence ensued. Derfin finally broke the tension by pointing out that the organs of the spidercrablobsters were pretty valuable, and they should probably harvest them before the rats ate them.
 
-*BREAKING THE MOLD*
+------------------
 
 Harvested organs firmly in hand, the group ventured further into the dark tunnels. NGE, as always, led the way.
 
@@ -70,7 +68,7 @@ There's an old saying about every problem looking like a nail if all you have is
 
 Derfin bravely shot the mold, which was just sitting there, man, minding its own business, jesus christ. The mold was entirely unperturbed. The arrow twanged against the floor and bounced once before coming to a rest. It sat upon its moldy cushion, questioning the life decisions that had brought it to this point.
 
-*HOT ELF ACTION*
+----------------------------------
 
 The group put their brain-trust into high gear. Many solutions were proposed ("Maybe we shoot it again?" "SHUT UP, DERFIN."), but finally the group decided that they should send someone fleet of foot and brave of soul to traverse the icy hot fungus.
 
@@ -89,8 +87,6 @@ He was met with the sight of a lock, and chains. So many chains. Derfin informed
 "Goddamn motherFUCK shitballs!" he called across the cave.
 
 Chomsky translated. "He says it's locked."
-
-*IN WHICH GOD PUNISHES*
 
 Derfin couldn't stay on the box any longer, and he sure as hell wasn't going to run all the way back across that damned mold. He had noticed a small passageway near the box; the orange mold extended only a few feet into it. Derfin jumped from the box to the passageway and immediately discovered that it was only a few feet deep. It dead-ended only a short distance from the mold. Above him, he could see a faint bit of natural light, and a wall that seemed climbable, given time and effort.
 
@@ -118,7 +114,7 @@ Gavin shrugged, pointed at the orange mold near NGE and Chomsky, and spoke the i
 
 Instantly, NGE and Chomsky found their feet and legs covered in more orange mold. They yelled in pain and leaped back onto safe ground, cursing God for not allowing them to jump away _before_ the mold burned the shit out of their shins. God looked down from heaven and chuckled heartily at their suffering.
 
-*HACKER*
+----------------------------------
 
 Chadwick and Gavin were as surprised as NGE and Chomsky, although they were far enough in the rear that the mold didn't reach them. Derfin heard only shouts of pain, and was about to ask his friends what they had fucked up _this_ time.
 

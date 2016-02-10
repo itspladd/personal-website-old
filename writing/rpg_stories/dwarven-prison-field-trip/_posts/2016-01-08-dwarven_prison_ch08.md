@@ -4,8 +4,6 @@ layout: chapter
 chapter: 8
 ---
 
-*CLEANUP*
-
 Naturally, there was nothing to do except take anything the lizardpeople had ever owned and shove it into the group's bulging, swollen loot-maw. Chad took the wand that the druid had indicated did something with memories, and attempted to analyze it with his formidable knowledge of magical workings.
 
 Unfortunately, his magical eyes failed him; and so he passed the wand to Gavin. Gavin analyzed it, and shook his head. "Nope, no idea." He handed the wand to Derfin, who similarly was uncertain. The mysterious wand that may or may not modify memory was thusly shoved into a pack for later examination.
@@ -24,8 +22,6 @@ Chad interrupted him. "Hey NGE, grab the treasure."
 
 NGE, heedless of the danger, just fucking reached into the pile. The spiders immediately swarmed all over her, surprising fucking no-one.
 
-*LIKE, REALLY, YOU JUST REACHED IN THERE, ARE YOU SERIOUS*
-
 Derfin sighed in extreme exasperation. "Fuck this shit, I'll hang out over here till you guys are done." He faced the cavern wall and lapsed into a daydream. It probably involved killing humans, but that's just a guess.
 
 Gavin's eyes went out of focus.
@@ -42,7 +38,7 @@ The firework ignited with a _fwoosh_, sending a marvelous mauve cascade of spark
 
 The spiders vanquished, Chad and NGE happily rooted through the garbage, pulling out everything of value they could find.
 
-*SCRAMBLED*
+---------------------------
 
 Derfin was specifically _not_ excited about rooting through rotting trash for money. He had money. What he didn't have was something to kill, and that made him unhappy.
 
@@ -76,8 +72,8 @@ Gavin was standing next to the large pit at the back of the room. Chomsky carrie
 
 Chomsky nodded sagely, understanding precisely what Gavin was implying. Then he chucked the egg down the pit.
 
-
 Chad walked in just as Chomsky threw the egg. Everyone was silent: Derfin and Chad in disbelief, Gavin and Chomsky in gleeful anticipation.
+
 ..................._splat_.
 
 From the depths of the pit came the sound of the egg breaking. Chomsky and Gavin were about to exchange a high-five when a reptilian shriek of anger and disbelief pierced the depths of the pit.

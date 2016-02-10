@@ -4,8 +4,6 @@ layout: chapter
 chapter: 7
 ---
 
-*HIGH-LEVEL NEGOTIATIONS*
-
 The party squeezed through the narrow entrance to the purple cave. All around them were bits of violet fungi that covered the cave in a soft, unearthly glow. Everyone stopped for a moment to take in the beautiful sight.
 
 At the far end of the cave was a small passageway to another cave. To the group's left sat an enormous pile of refuse. Bones, discarded meat, rocks, fungi; all were discarded into one foul mound. Beneath rotting meat and slimy stones, small gems winked in the violet light. Apparently whoever dumped their trash here wasn't too concerned with valuables.
@@ -50,9 +48,7 @@ The lizardman's eyes bugged out with fury. "Then you leave ussss no choiccce! Ss
 
 Gavin yelled to the others as he ran. "Guys, the moss! We can cut them off with the moss!" Derfin, Chad, and NGE were quick to follow him out.
 
-Chomsky lagged a bit behind, but not due to his stature; the cause was more likely the vial of alchemist's fire that he was flinging towards the onrushing lizard people. The one that had taken the lead burst into flames and stopped, dropped, and rolled, shrieking in pain. Chomsky chuckled good-naturedly to himself, following his companions out of the room as spears whizzed past him. He made sure to fix the image of the igniting lizard man firmly in his brain; he sorely needed more material for his nightly Private Time.
-
-*DRUIDS OP NERF INC*
+Chomsky lagged a bit behind, but not due to his stature; the cause was more likely the vial of alchemist's fire that he was flinging towards the onrushing lizard people. The one that had taken the lead burst into flames and stopped, dropped, and rolled, shrieking in pain. Chomsky chuckled good-naturedly to himself, following his companions out of the room as spears whizzed past him. He made sure to fix the image of the igniting lizard man firmly in his brain, just in case he ever found himself onstage at an improv comedy night.
 
 The lizard leader was unimpressed. He made clicking noises at the very large spiderweb, from which emerged a very large spider, as one might expect. It rushed after the other lizard people in pursuit of the party.
 
@@ -80,7 +76,7 @@ Derfin narrowed his eyes at the druid. "Aren't you supposed to be a lizard perso
 
 Derfin rolled his eyes so hard that he missed his next shot.
 
-*WE HARDLY KNEW YE*
+------------------------------
 
 With the mold gone, the lizardmen attacked in full force. One of them sprinted at NGE and bashed her in the face with his bone club. The combination of lingering pain from the mold, the fresh wounds from the spider, and the knock to the head were too much, and she fell to the ground, unconscious.
 

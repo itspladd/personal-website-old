@@ -4,8 +4,6 @@ layout: chapter
 chapter: 4
 ---
 
-*CH-CH-CHAINGES*
-
 The group filed into the room: NGE, moving more stiffly than normal; Chad, eyes alert for anything of value that he could take; Gavin, inscrutable as ever; Derfin, with a thousand-yard stare; and Chomsky, barely visible underneath an ever-shifting layer of rats.
 
 The room in front of them was just as bare and utilitarian as the others.  Two tall metal poles, rusted with age, jutted from the floor near the center of the room. Each had a long length of chain attached to its tip. The last few links of each chain were painted: one chain with white, one chain with red.
@@ -68,8 +66,6 @@ Chomsky shook his head. Or maybe he nodded, nobody was sure. "Nope."
 
 Gavin silently disapproved, but Chad wasn't waiting for no consensus. The group bounded towards the exit, the chains quivering just _so hard_ as they passed.
 
-*PROCESSING*
-
 Our heroes exited the interrogation room and found themselves in the room marked "Processing" on their mapstone. To their left was a closed iron portcullis. A single desk and chair sat in the middle of the room. To the right, twin stone doors led directly back to the entryway.
 
 Across the room from the group was another set of stone doors, but these were different: a thick iron bar was laid across them, effectively barricading the door. Everyone ventured forward to investigate.
@@ -82,9 +78,7 @@ The others were less enthused. "Christ, Chad," said Gavin, "the dude in the bar 
 
 The door Gavin had gestured towards was also barricaded, but much less securely. A small iron bar was wedged between the wall and the door's handle. Chad, convinced for the time being, had NGE remove the iron bar. Everyone else bravely retreated several feet away from NGE, in case of traps.
 
-*A WARDEN EDGEWISE*
-
-The iron bar came out, and nothing happened. NGE opened the door. Still nothing. Well, if "nothing" includes "a human skeleton, still clutching his sword and shield, fell out of the room and clattered upon the cold stone floor." Because that happened.
+NGE removed the iron bar. Nothing happened. NGE opened the door. Still nothing. Well, if "nothing" includes "a human skeleton, still clutching his sword and shield, fell out of the room and clattered upon the cold stone floor." Because that happened.
 
 "SHIT! Skeletons!" yelled Chomsky. "Spread out its bones before it can get up!"
 
@@ -116,9 +110,7 @@ Chomsky, however, flicked his whip towards the Warden's weapon. As a carpet of f
 
 Too bad it wasn't dis_fingered_, because the skeleton stepped back and flicked its fingerbones out, revealing them to be sharp as all hell. The Warden proceeded to scratch the evershit out of NGE.
 
-*BREAKING BAD*
-
-Gavin, meanwhile was absent from the fight. Realizing that their foe looked suspiciously like an animated skeleton, he called out to the group, "CHAINS!" To illustrate his point, he ran towards the hallway leading back to the questioning room.
+Gavin, meanwhile was absent from the fight. Realizing that their animated, skeletal foe looked suspiciously like an animated skeleton, he called out to the group, "CHAINS!" To illustrate his point, he ran towards the hallway leading back to the questioning room.
 
 After a few steps, he turned around. His cohorts were apparently deaf. He yelled again. "CHAINS! LIVING CHAINS!"
 
@@ -132,7 +124,7 @@ Chad pointed his baton. "Grab."
 
 The red chain snaked out, grabbing the skeletal Warden and lashing it tightly to the iron pole. The creature snarled hatred at the group.
 
-Chad pointed his baton once more. "Tighten."
+Chad smirked. "Tighten."
 
 The chains obeyed.
 
@@ -140,7 +132,7 @@ _Pop-pop-crkrkkrrrkkCRACK!_
 
 And the chains, sensing no movement, dropped the crushed bones of the Warden onto the floor. His skull clattered on top of the pile, and the blue fire in his sockets flickered, fizzled, and died.
 
-*JUST DESSERTS*
+-------------------------------
 
 Chad leapt forward with glee - a corpse to loot! Huzzah! The Warden's postmortem animation had prevented other enterprising adventurers from stealing his belongings.
 
