@@ -1,7 +1,6 @@
 var introStrings = [
     "art",
     "a blog",
-    "a website",
     "bad words (sometimes)",
     "code",
     "comics",
@@ -11,6 +10,7 @@ var introStrings = [
     "SO MANY THINGS",
     "scripting",
     "things",
+    "this website",
     "websites"];
 
 var introString = "Paul Ladd does things";
