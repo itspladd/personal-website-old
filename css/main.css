@@ -197,6 +197,10 @@ aside.sidebar {
     width: 200px;
 }
 
+aside.sidebar h3 {
+    font-family: "Bitter", serif;
+}
+
 aside * {
     margin: 10px 10px 10px 10px;
 }
