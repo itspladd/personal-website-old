@@ -4,7 +4,7 @@ layout: chapter
 chapter: 1
 ---
 
-*Tirrsmont: Dawn of the First Day*
+*Tirisvale: Dawn of the First Day*
 
 The sun rose on a bright new day for our heroes as they awoke from their slumber at the ritzy Golden Stag inn. Gavin, Chadwick, NGE, and Chomsky headed out to begin the morning with a bit of shopping. Derfin, unfortunately stricken with war flashbacks, simply followed his cohorts wherever they went.
 

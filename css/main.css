@@ -5,7 +5,7 @@
 
 /* As hex codes */
 
-.color-primary-0 { color: #343979 }	/* Main Primary color */
+.color-primary-0 { color: #343979 }	/* Main Primary color: blue */
 .color-primary-1 { color: #CCCCCC }
 .color-primary-2 { color: #74779F }
 .color-primary-3 { color: #0C1155 }
@@ -244,6 +244,12 @@ section {
 
 section.fullscreen {
     width: 1010px;
+}
+
+section.under-construction {
+    width: 1010px;
+    background-color: #FFCC00;
+    border: 5px dashed black;
 }
 
 /* Article is used to hold standalone content. */

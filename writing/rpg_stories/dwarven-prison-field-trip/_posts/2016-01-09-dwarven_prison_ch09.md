@@ -4,8 +4,6 @@ layout: chapter
 chapter: 9
 ---
 
-*No, I'm Sure Drinking The Potion Is A Great Idea*
-
 Our intrepid adventuring squad regrouped back in the tunnels. Chad informed them all of something that he had noticed during the battle with the lizardmen. He had been standing in the passage that led to the unexplored hallway, which they had collectively dubbed the Hallway of Hell No. While standing there, he had heard a noise.
 
 _whump. whump. Whump. Whump. WHUMP. WHUMP._

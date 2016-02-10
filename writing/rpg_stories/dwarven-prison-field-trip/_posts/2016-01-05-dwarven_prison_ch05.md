@@ -4,8 +4,6 @@ layout: chapter
 chapter: 5
 ---
 
-*SINGLE FILE*
-
 Chomsky pawed through the papers in Warden McSharpFingers' filing cabinet. All of them were in excellent condition - magically preserved, the party presumed, by the goop Chad had mistaken for candy.
 
 Gavin spoke up after a minute. "Find anything, Chomsky?"
@@ -26,9 +24,7 @@ Nobody did. Chomsky sighed. "Well, the only thing of interest here is a note the
 
 Chad spoke up. "Gun. He called it a gun." Chad seemed to know a lot about guns.
 
-With the records plundered, our plucky heroes exited the warden's office. Their goal: the iron portcullis that dominated the east end of the Processing room.
-
-*LEVER ALONE*
+With the records plundered, our plucky heroes exited the warden's office, heading towards the iron portcullis that dominated the east end of the Processing room.
 
 Next to the portcullis was an iron lever, rusted with age. Without taking even half a second to look around, the group decided that the lever _must be pulled right goddamn now_. NGE gave it a mighty tug.
 
@@ -44,9 +40,7 @@ As NGE braced herself, preparing to pull the lever in fucking _half_ if need be,
 
 They turned the key, and something in the wall clicked, and NGE's next pull on the lever was entirely successful. The portcullis ground open to reveal the Incarceration room.
 
-*JAIL!*
-
-Incarceration was a grim sight. Eight cells were set into the walls: three on the left wall, three on the right, and two at the far end of the room. Multiple skeletons littered each cell. The group momentarily panicked at the sight of skeletons, but recovered their calm when they realized that there was no way for the skeletons to escape. Every cell was closed off with tightly-packed iron bars. Even reaching an arm into a cell would be difficult.
+It was a grim sight. Eight cells were set into the walls: three on the left wall, three on the right, and two at the far end of the room. Multiple skeletons littered each cell. The group momentarily panicked at the sight of skeletons, but recovered their calm when they realized that there was no way for the skeletons to escape. Every cell was closed off with tightly-packed iron bars. Even reaching an arm into a cell would be difficult.
 
 In the center of the room was another, smaller room. This one had glass windows, and the party peered inside. Within the room were nine levers. Eight of them were labeled with the numbers one through eight. The ninth lever, in the center of the room, was labeled "Escape."
 
@@ -74,11 +68,7 @@ The group opened cell six, closed cell four, and tried not to vomit at the rat-s
 
 Somehow, nobody in the group was ready to leave the cramped, stuffy, rat-filled, lever-filled room. "You go on down the tunnel, NGE!" called Chad. "Let us know whatcha find! Tell me if there's gold!"
 
-NGE, presumably muttering to herself about lazy, cowardly adventurers, strode into the depths of the Cell Six Tunnel.
-
-*FILAMENTY FRESH*
-
-NGE's night vision showed her a roughly-tunneled, twisting passageway. She followed it for only twenty or so feet before the narrow tunnel opened up into a larger cave.
+NGE, presumably muttering to herself about lazy, cowardly adventurers, strode into the depths of the Cell Six Tunnel. Her night vision showed her a roughly-tunneled, twisting passageway. She followed it for only twenty or so feet before the narrow tunnel opened up into a larger cave.
 
 Directly ahead of her was a path between two tall ledges, each about thirty feet high. The ceiling of the cave went up far beyond that. She was about to continue walking forward, when _THWAP_ a long, green-glowing filament shot down from one ledge and stuck firmly to her leg! An unknown force began to drag her upwards-- she struggled to free herself--
 
@@ -96,9 +86,7 @@ They pulled the appropriate lever, and the bars of cell six slid back into place
 
 The group unanimously decreed that that passageway could go eat several dicks, but it was Gavin that proposed their next step: "Why don't we all just hang around in here, pull the lever marked 'Escape,' and see what happens?"
 
-Everyone basically shrugged, because what else were they going to do?
-
-*IT'S A GAS*
+Everyone shrugged. What else could they possibly do?
 
 Gavin pulled the lever. The resulting alarm was rather loud.
 
@@ -140,9 +128,7 @@ Chad spoke up. "Boy, I sure hope those people we saved weren't killed horribly b
 
 Everyone nodded. They all hoped the same thing, because _fuck_ they would feel bad.
 
-*CRAB CLIFFS*
-
-Finally, the gas dissipated. The "Escape" lever clicked back into place, and the door to the lever room opened. Everyone filed out, smelling of sweat, fear, and, of course, fucking _rats_.
+After several minutes, the gas dissipated. The "Escape" lever clicked back into place, and the door to the lever room opened. Everyone filed out, smelling of sweat, fear, and, of course, fucking _rats_.
 
 Gavin pointed out that the passageway in cell six had been open to the gas the entire time. The party was intrigued by the possibilities. Had the funky fumes felled their fierce, filament-firing foes?
 
@@ -167,8 +153,6 @@ WHAP!
 After a few misses (the creature, in NGE's vision, was staggering a bit), the filament snagged the vial of poison. Triumphantly, the crab-thing reeled in its prize. The sound of crunching glass echoed through the chamber, and was quickly replaced by animal shrieks of pain and anger.
 
 The group, knowing that they were awesome, exchanged high fives. God looked down upon them, and indeed his favor was upon them that day.
-
-*ERATICATED*
 
 Unfortunately, the creature still wasn't dead, and it had wizened up a bit: Chomsky's next attempt to bait it with poison was met with skittering, chittering, and absolutely no green filaments. Clearly, a head-on fight was the only remaining solution.
 
