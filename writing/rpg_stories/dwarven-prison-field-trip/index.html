@@ -1,28 +1,7 @@
 ---
-layout: default
+layout: story-collection
 title: "Field Trip to the Ancient Dwarven Prison Camp"
+part: X
+collection: the Terrence Saga
+categories: dwarven-prison-field-trip
 ---
-
-<section class="fullscreen">
-    <article>
-        <h1 style="margin:0px">Field Trip to the Ancient Dwarven Prison Camp</h1>
-        <h4 style="margin:0px"><em>Part X of the Terrence Saga</em></h4>
-    </article>
-</section>
-    
-<aside class="sidebar">
-    <p>Contents</p>
-    <ul>
-    {% for page in site.categories.dwarven-prison-field-trip reversed %}
-        <li><a href="#{{ page.chapter }}">Chapter {{ page.chapter }}</a></li>
-    {% endfor %}
-</aside>
-
-{% for page in site.categories.dwarven-prison-field-trip reversed %}
-    <section id="{{ page.chapter }}">
-        <article>
-            <h1>Chapter {{ page.chapter }}</h1>
-            {{ page.content }}
-        </article>
-    </section>
-{% endfor %}
