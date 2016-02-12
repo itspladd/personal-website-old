@@ -27,61 +27,7 @@ header, section, footer, aside, nav, main, article, figure {
     display: block; 
 }
 
-/* General body settings */
-body {
-    background-color: #74779F;
-    font-family: "Open Sans", sans-serif;
-    text-align: center; /* ...to make sections and asides center */
-    overflow-x: hidden; /* ...so that the footer margin can overflow off the side of the page with no scroll bar */
-}
-
-/* h1.main-title is only used for the website title at the top of the page. */
-h1.main-title {
-    position: relative;
-    font-size: 60px;
-    top: 25px;
-}
-
-p.prev-next {
-    font-family: "Bitter", serif;
-    font-size: 20px;
-    font-weight: bold;
-    margin-bottom: 0px;
-}
-
-.dateauthor {
-    font-size: 13px;
-}
-
-/* Content: defines the div that holds the body of a page.*/
-#content {
-    width: 1010px;
-    margin: 0px auto 10px auto;
-    position: relative;
-}
-
-/* Header is used for the title bar.*/
-header {
-    position: relative;
-    background-color: #00032F;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    border: 2px groove #00032F;
-    border-top-right-radius: 50%;
-    border-top-left-radius: 50%;
-    color: #CCCCCC;
-    font-family: "Bitter", serif;
-    font-size: 20px;
-}
-
-/* Nav is used for navigation within each section of the site. */
-nav {
-    background-color: #432100;
-    text-color: black;
-    line-height: 75px;
-    font-family: "Open Sans", sans-serif;
-}
+/******** GLOBAL <A> STYLES**********************************/
 
 a {
     text-decoration: none;
@@ -125,15 +71,6 @@ a.prev-next {
 
 a.prev-next:hover {
     color: #343979;
-    text-decoration: none;
-}
-
-article h1:first-child a {
-    color: #00032F;
-}
-
-article h1:first-child a:hover {
-    color: #74779F;
     text-decoration: none;
 }
 
@@ -185,27 +122,66 @@ a.main-title:hover {
 */
 
 /* END MAIN TITLE HOVER BEHAVIOR *********************/
+/*****************************************************/
+/******** END GLOBAL <A> STYLES *********************************/
 
-/* Aside.sidebar is for sidebar content. */
+/******** ARTICLE STYLE *****************************************/
+article {
+    margin: 10px 10px 10px 10px;
+    text-align: left;
+}
+
+article h1 {
+    margin: 0px;
+    font-family: "Bitter", serif;
+}
+
+article h1:first-child a {
+    color: #00032F;
+}
+
+article h1:first-child a:hover {
+    color: #74779F;
+    text-decoration: none;
+}
+
+article p img {
+}
+
+/******** END ARTICLE STYLE *************************************/
+
+
+/******** ASIDE STYLE *******************************************/
+aside * {
+    margin: 10px 10px 10px 10px;
+}
+
+/* Defines the sidebar (one per page) */
 aside.sidebar {
     background-color: #E6C19E;
+    box-shadow: 2px 2px 5px black;
     border-radius: 5px;
     float: right;
     font-size: 14px;
     margin: 10px auto 10px auto;
     text-align: left;
-    width: 200px;
+    width: 300px;
 }
 
 aside.sidebar h3 {
     font-family: "Bitter", serif;
 }
 
-aside * {
-    margin: 10px 10px 10px 10px;
+aside.sidebar ul * {
+    margin: 0px;
+    
 }
 
-/* midtext_left and midtext_right are for tangential content within articles. */
+aside.sidebar ul li {
+    margin: 0px 0px 5px -10px;
+}
+
+/* Defines tangential content within articles. */
 aside.midtext-left {
     background-color: #AF753B;
     margin: 0px 10px 10px -12px;
@@ -232,40 +208,29 @@ aside.midtext-center {
     text-align: center;
 }
 
-/* Section is used for thematically-related content. */
-section {
-    background-color: #CCCCCC;
-    display: inline-block;
-    width: 800px;
-    float: left;
-    margin: 10px auto 0px auto;
-    border-radius: 5px;
+aside.midtext-center img {
+    border: none;
+    max-height: 300px;
 }
 
-section.fullscreen {
-    width: 1010px;
+/******** END ASIDE STYLE ***************************************/
+
+/* General body settings */
+body {
+    background-color: #74779F;
+    font-family: "Open Sans", sans-serif;
+    text-align: center; /* ...to make sections and asides center */
+    overflow-x: hidden; /* ...so that the footer margin can overflow off the side of the page with no scroll bar */
 }
 
-section.under-construction {
-    width: 1010px;
-    background-color: #FFCC00;
-    border: 5px dashed black;
+/* Content: defines the div that holds the body of a page.*/
+div#content {
+    width: 1110px;
+    margin: 0px auto 10px auto;
+    position: relative;
 }
 
-/* Article is used to hold standalone content. */
-article {
-    margin: 10px 10px 10px 10px;
-    text-align: left;
-}
-
-article h1 {
-    margin: 0px;
-    font-family: "Bitter", serif;
-}
-
-article p img {
-}
-
+/******** FIGURE STYLE ****************************************/
 /* Figure is for images with captions. Should contain both <img> and <figcaption>.*/ 
 figure {
     max-width: 90%;
@@ -289,11 +254,7 @@ figure figcaption {
     margin-left: auto;
     margin-right: auto;
 }
-
-aside.midtext-center img {
-    border: none;
-    max-height: 300px;
-}
+/******** END FIGURE STYLE ************************************/
 
 /* Footer holds copyright information and a site map.*/
 footer {
@@ -306,4 +267,68 @@ footer {
     margin: -40px;
     padding: 5px;
     text-align: center;
+}
+
+/* h1.main-title is only used for the website title at the top of the page. */
+h1.main-title {
+    position: relative;
+    font-size: 60px;
+    top: 25px;
+}
+
+/* Header is used for the title bar.*/
+header {
+    position: relative;
+    background-color: #00032F;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px groove #00032F;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    color: #CCCCCC;
+    font-family: "Bitter", serif;
+    font-size: 20px;
+}
+
+/* Nav is used for navigation within each section of the site. */
+nav {
+    background-color: #432100;
+    text-color: black;
+    line-height: 75px;
+    font-family: "Open Sans", sans-serif;
+}
+
+/* Prev-next is the style for the "next page" "previous page" links at the bottom of blog posts and chapters. */
+p.prev-next {
+    font-family: "Bitter", serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+
+/* date-author is the "posted by x on yyyy/mm/dd" style. */
+span.date-author {
+    font-size: 13px;
+}
+
+/* Sections are used for thematically-related content. They end up being discrete "blocks" on the site. */
+section {
+    background-color: #CCCCCC;
+    box-shadow: 2px 2px 10px black;
+    display: inline-block;
+    width: 800px;
+    float: left;
+    margin: 10px auto 0px auto;
+    border-radius: 5px;
+}
+
+section.fullscreen {
+    width: 1010px;
+}
+
+section.under-construction {
+    width: 1010px;
+    background-color: #FFCC00;
+    border: 5px dashed black;
 }
