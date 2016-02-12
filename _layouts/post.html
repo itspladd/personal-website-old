@@ -25,7 +25,7 @@ layout: blog
     <section>
         <article>
             <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-            <span class="dateauthor">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
+            <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
             {{ content }}
             {% if prev_post %}
                 <aside class="midtext-left">
