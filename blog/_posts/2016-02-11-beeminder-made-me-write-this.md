@@ -31,9 +31,9 @@ Occasionally I would look back and lament all the time I had wasted. I could hav
 
 I realize now my mistake: I treated my time differently from my money. I'm careful with my money. I buy what I need, and I save the rest for when I need it. I invest the extra so that it can generate more money.
 
-When you spend time working on something, you're _investing_ that time. Yeah, I had heard people say, "I've invested a lot of time in _________," but I never connected it with the kind of investing you do with money. But they're the same damned thing. If you spend all of your money on things you don't need, you end up with no money. You sure would love to quit your job, or travel more, or start that business, but gosh darn it, you just don't have enough money.
+When you spend time working on something, you're _investing_ that time. Yeah, I had heard people say, "I've invested a lot of time in [thing]," but I never connected it with the kind of investing you do with money. But they're the same damned thing. If you spend all of your money on things you don't need, you end up with no money. You sure would love to quit your job, or travel more, or start that business, but gosh darn it, you just don't have enough money.
 
-I had been spending all of my time on things I didn't need. I'd have loved to make a personal website, tell stories through art, and learn more programming languages, but gosh darn it, I just never had the time.
+I had been spending all of my free time on things I didn't need. I'd have loved to make a personal website, tell stories through art, and learn more programming languages, but gosh darn it, I just never had the time.
 
 Until now.
 
