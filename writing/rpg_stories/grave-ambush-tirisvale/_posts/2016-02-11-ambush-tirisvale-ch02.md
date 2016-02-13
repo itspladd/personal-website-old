@@ -2,44 +2,60 @@
 chapter: 2
 ---
 
-The group followed overturned carts and carnage down the road. Here and there they found evidence of fighting: discarded arrows, crossbow bolts, splashes of blood. A single goblin lay dead against the Temple of Ior. Suspicious eyes looked out from the temple windows.
+NGE entered the city, and the rest of the group followed behind. Before them lay the main road of Tirisvale. It was clear that there had been heavy fighting here, but there was little left to fight. It looked as if the battle had progressed down the main road. The group ran ahead, with Chadwick casting longing glances at the unlooted corpses they were leaving behind.
 
-Derfin ignored all distractions, determined to find goblins to kill. He followed the trail with the trail-following skills of someone skilled at following trails. Finally he raised his arm at an intersection. 
+The sounds of fighting drew their attention to an intersecting street. Overturned carts of various goods cluttered the lane; clearly this was a market. Far down the street was a goblin with a headdress and a crude staff, flanked by two bodyguards.
 
-Chad walked into him. <!--more-->Derfin glared. "What?" said Chad. "Was the arm supposed to mean something? Shit, man, we're not in a war or anything, these are just some goblin chumps."
+In between our heroes and the goblin trio was a large stall. Two humans had clearly used the stall as cover, but one of them lay still on the ground.
 
-"Don't underestimate goblins," Derfin said darkly. "They can be cunning little bastards. Look where they've gone." He gestured to the diverging path. To their left, the road wound between two small grassy fields studded with trees before emptying into the town square. In front of them, the road dead-ended at the Tirisvale branch of the Royal Alchemists' Society. The building's granite facade looked out over a flagstone courtyard, stern and powerful. The entrance to the Society was set several feet aboveground, accessible by a small staircase.
+"Derfin!" called Chad, snickering. "What do your elf eyes see?"
 
-The road through the field was smooth and untrampled. The road to the Alchemists' Society was littered with debris and bloody goblin footprints, and the wooden doors were flung wide open.
+Derfin glanced askance at Chad. "The exact same fucking thing your human eyes see. Those guys are, like, ten feet away."
 
-Gavin raised an eyebrow. "The Alchemists' Society? That was their goal here?"
+Chomsky chimed in. "Yeah, but can't you, like, count how many testicles they each have or something?"
 
-"Makes sense," said Chad, nodding wisely. "There's probably plenty of super valuable stuff in there, not to mention magical potions." He lowered his voice. "Just imagine a goblin raiding party hopped up on Enlarge Person potions."
+"And I'm _half_-human, thank you very much," added Chad.
 
-His words didn't exactly have the desired intent. Derfin smiled for the first time that day, presumably at the thought of easier arrow targets. Chomsky flushed slightly and bit his lower lip. "Gods," he said breathlessly. "They'd be so _huge_. They could just grab you, and--"
+Derfin decided that silence was the preferable option. Gavin silently agreed.
 
-"ANYWAY THE GOBLINS COULD BE DANGEROUS," said Gavin loudly. "So we should prepare, right? Like, make sure we're ready for a serious, climactic fight before we charge in there?"
+Meanwhile, the conscious human had dropped her sword and was tending to a nasty arrow wound on the fallen man. "Come on, Pitt," she said. "You've been through so much, you can't--"
 
-"Definitely," said Chad. "If they get the drop on us, we're _EEEEEEEEEEEEEEEEE!_"
+"SHIT." said Chad. "That's Pitt? We have to help him! He has our money!"
 
-When recalling the event later, the others weren't sure whether the shriek they heard came from Chadwick or the rocket. They dove for the scant cover offered by the courtyard as the rocket detonated above them.
+"Well, yeah," said Derfin. "That's why I already killed both of those bodyguards."
 
-Goblins were swarming out of the doors to the Society. At the top of the stairs, a tall goblin wearing a furry shawl cackled and waved a torch. "Yes! Yesss! We take fireworks! We make boom!" Two smaller goblins pulled more rockets from a large wooden crate and set them in position.
+Chadwick peered down the street. The goblin mage was indeed looking panicked at the fact that both of his companions had sprouted more than the usual number of arrows in their necks.
 
-"Oh man!" yelled Chomsky. "Explosives! How _cunning_!" He rifled through old lecture notes, looking for good battle material.
+The entire party had, however, missed the fourth goblin hiding on the other side of the stall. Shrieking with rage, he leaped over the stall and lunged for Pitt's as-yet-unstabbed face.
 
-"YES THANK YOU," Chad yelled back, fitting a bolt into his crossbow. His symbol flashed a command, and NGE darted towards the stairs. Blue needles streaked past her, perforating two goblins that were charging the group's cover. Chomsky began reading aloud a passage from his lecture "On Goblins, And Why They Suck Just SO HARD, You Guys, You Have No Idea." His voice, annoying as it was, filled his companions with vigor.
+"MAYBE DON'T DO THAT," said Chomsky.
 
-Vigor nonwithstanding, Chad fired and missed. Derfin did not miss; one of the rocket goblins went down. The other two by the doors set off a barrage of rockets, which careened around the courtyard before exploding in multicolored fire. The remaining goblins cheered, seemingly content to sacrifice their lives for the sake of fireworks.
+His voice had changed. Or, rather, it hadn't. It was still grating, high-pitched, and generally infuriating, but suddenly all of those qualities just seemed like the _best_ things a voice could have. The others felt it, but the goblin seemed to be afflicted most of all. He stopped short of Pitt, smiling benignly.
 
-The group made short work of the goblins that had run towards them, and NGE cleaved the hell out of the rocket assistant goblin. She stood at the top of the stairs and faced the fur-shawled goblin, seemingly the leader of this raiding party.
+Chadwick, Derfin, and Gavin all stared at the gnome.
 
-The goblin hissed at NGE. "You longshanks think you win, but we win in the end! We be Grubchin! We have powerful friend, and you will-"
+"Oh, yeah, forgot to mention. My voice is magic? I guess? I can sometimes make people do what I want them to."
 
-Derfin wasn't waiting for no last words. His arrow went just straight through that goblin's head, pinning her to the door.
+"Welp," said Chad. "That's terrifying. NGE, go cut that other goblin in half."
 
-Her torch fell into the box of fireworks.
+NGE darted down the lane. The panicked goblin mage began to cast a spell or something, nobody really cared. It waved its stupid little goblin stick around stupidly.
 
-"Oh," said Chad. "Oh _shi-_"
+Chomsky decided that the mage was a threat, and that NGE coud use help. He cleared his throat and spoke again to the enthralled goblin. "YOU SHOULD CALL YOUR FRIEND OVER HERE."
 
-The courtyard exploded.
+From behind the stall came the unmistakable sounds of a goblin being cut in half. A few seconds later, Chomsky's goblin decided to act. "Hey!" he yelled shrilly to his deceased ally. "Quick, come here!"
+
+Gavin looked skeptically at Chomsky. He skeptically pointed a finger at the remaining goblin, expanded his skeptical pupils to engulf his eyes in empty blackness, and spoke a skeptical eldritch invocation that smelled faintly of icy decay. The goblin promptly froze to death.
+
+With the area safe, Chadwick rushed to Pitt's side. "Thank the gods we made it in time," he said to Pitt. "Is this a good time to talk payment?"
+
+Pitt said nothing, because he was fucking unconscious. "He's fucking unconscious, you dick," said the woman next to Pitt, helpfully.
+
+"Balls," said Chad. He busied himself with looting the frigid corpse of the goblin next to him.
+
+"_Also_," said the woman, "A much larger group of goblins continued down that way!" She pointed down a wide lane past the market. "I think they're-"
+
+"SCORE!" interrupted Chad. "Alchemist's fire!" He proudly held aloft a bottle marked "EXTREMELY VOLATILE. DO NOT JUGGLE."
+
+"Yes, but they--"
+
+"More goblins to shoot over that way? Awesome," said Derfin. He walked briskly down the lane, followed closely by Gavin and Chomsky. Chadwick looked mournfully at the rest of the unlooted bodies. He contented himself with grabbing the stupid goblin mage's stupid little staff as he ran to catch up with his colleagues.
