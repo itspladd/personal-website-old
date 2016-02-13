@@ -324,7 +324,7 @@ section {
 }
 
 section.fullscreen {
-    width: 1010px;
+    width: inherit;
 }
 
 section.under-construction {
