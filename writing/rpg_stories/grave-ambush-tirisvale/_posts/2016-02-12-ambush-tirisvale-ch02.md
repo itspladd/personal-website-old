@@ -4,11 +4,11 @@ layout: chapter
 chapter: 2
 ---
 
-The group followed overturned carts and carnage down the road. Here and there they found evidence of fighting: discarded arrows, crossbow bolts, splashes of blood. A single goblin lay dead against the Temple of Ior. Suspicious eyes looked out from inside the building.
+The group followed overturned carts and carnage down the road. Here and there they found evidence of fighting: discarded arrows, crossbow bolts, splashes of blood. A single goblin lay dead against the Temple of Ior. Suspicious eyes looked out from the temple windows.
 
-Derfin ignored all distractions, determined to find goblins to kill. He followed the trail with the trail-following skills of someone skilled at following trails. Finally he raised an arm at an intersection. 
+Derfin ignored all distractions, determined to find goblins to kill. He followed the trail with the trail-following skills of someone skilled at following trails. Finally he raised his arm at an intersection. 
 
-Chad walked into him. Derfin glared. "What?" said Chad. "Was the arm supposed to mean something? Shit, man, we're not in a war or anything, these are just some goblin chumps."
+Chad walked into him. <!--more-->Derfin glared. "What?" said Chad. "Was the arm supposed to mean something? Shit, man, we're not in a war or anything, these are just some goblin chumps."
 
 "Don't underestimate goblins," Derfin said darkly. "They can be cunning little bastards. Look where they've gone." He gestured to the diverging path. To their left, the road wound between two small grassy fields studded with trees before emptying into the town square. In front of them, the road dead-ended at the Tirisvale branch of the Royal Alchemists' Society. The building's granite facade looked out over a flagstone courtyard, stern and powerful. The entrance to the Society was set several feet aboveground, accessible by a small staircase.
 
@@ -36,10 +36,12 @@ Vigor nonwithstanding, Chad fired and missed. Derfin did not miss; one of the ro
 
 The group made short work of the goblins that had run towards them, and NGE cleaved the hell out of the rocket assistant goblin. She stood at the top of the stairs and faced the fur-shawled goblin, seemingly the leader of this raiding party.
 
-The goblin hissed at NGE. "You longshanks think you win, but we win in the end! We Grubchin! We have powerful friend, and you will-"
+The goblin hissed at NGE. "You longshanks think you win, but we win in the end! We be Grubchin! We have powerful friend, and you will-"
 
-Derfin wasn't waiting for no last words. His arrow went just straight through that goblin's head, pinning her to the door. Her torch fell into the box of fireworks.
+Derfin wasn't waiting for no last words. His arrow went just straight through that goblin's head, pinning her to the door.
 
-"Oh," said Chad. "Oh _shi_"
+Her torch fell into the box of fireworks.
+
+"Oh," said Chad. "Oh _shi-_"
 
 The courtyard exploded.
