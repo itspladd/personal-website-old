@@ -1,5 +1,4 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 1"
 chapter: 1
 ---
 
