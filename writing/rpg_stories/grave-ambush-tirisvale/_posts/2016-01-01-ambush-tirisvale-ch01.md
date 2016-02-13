@@ -1,6 +1,5 @@
 ---
 title: "The Grave Ambush at Tirisvale: Chapter 1"
-layout: chapter
 chapter: 1
 ---
 
