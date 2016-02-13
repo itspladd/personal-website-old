@@ -1,6 +1,5 @@
 ---
 title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 9"
-layout: chapter
 chapter: 9
 ---
 
