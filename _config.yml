@@ -18,3 +18,18 @@ defaults:
     values:
       layout: "post"
       author: "pladd"
+  -
+    scope:
+      path: "writing/rpg_stories"
+      type: "posts"
+    values:
+      layout: "chapter"
+      author: "pladd"
+  -
+    scope:
+      path: "writing/rpg_stories/grave-ambush-tirisvale"
+      type: "posts"
+    values:
+      title: "The Grave Ambush at Tirisvale"
+      collection: "the Terrence Saga"
+      part: "I"
