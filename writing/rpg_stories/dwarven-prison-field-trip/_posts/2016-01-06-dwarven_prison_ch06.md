@@ -1,5 +1,6 @@
 ---
 chapter: 6
+chapter-title: "Break the Mold"
 ---
 
 Chad, Chomsky, and Gavin stopped for a moment to catch their breath as NGE switfly descended from her rocky perch. In front of the group, Chomsky's rats formed a seething, roiling rodent carpet over the bodies of the two giant crablobsters.

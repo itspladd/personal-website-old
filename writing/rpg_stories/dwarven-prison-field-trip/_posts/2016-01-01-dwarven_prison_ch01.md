@@ -1,5 +1,6 @@
 ---
 chapter: 1
+chapter-title: "Into the Ruins"
 ---
 
 *Tirisvale: Dawn of the First Day*

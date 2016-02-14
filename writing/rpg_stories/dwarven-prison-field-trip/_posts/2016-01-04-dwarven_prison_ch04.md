@@ -1,5 +1,6 @@
 ---
 chapter: 4
+chapter-title: "A Warden Edgewise"
 ---
 
 The group filed into the room: NGE, moving more stiffly than normal; Chad, eyes alert for anything of value that he could take; Gavin, inscrutable as ever; Derfin, with a thousand-yard stare; and Chomsky, barely visible underneath an ever-shifting layer of rats.

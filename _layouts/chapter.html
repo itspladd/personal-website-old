@@ -25,7 +25,7 @@ layout: default
 
 <section>
     <article>
-        <h1>Chapter {{ page.chapter }}</h1>
+        <h1>Chapter {{ page.chapter }}: {{ page.chapter-title }}</h1>
         <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
         {{ content }}
         {% include prev-next.html %}

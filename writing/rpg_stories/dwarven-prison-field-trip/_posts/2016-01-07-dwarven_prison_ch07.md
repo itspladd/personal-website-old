@@ -1,5 +1,6 @@
 ---
 chapter: 7
+chapter-title: "Lizard Warning"
 ---
 
 The party squeezed through the narrow entrance to the purple cave. All around them were bits of violet fungi that covered the cave in a soft, unearthly glow. Everyone stopped for a moment to take in the beautiful sight.
