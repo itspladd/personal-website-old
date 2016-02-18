@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 5"
 chapter: 5
+chapter-title: "Crab Cliffs"
 ---
 
 Chomsky pawed through the papers in Warden McSharpFingers' filing cabinet. All of them were in excellent condition - magically preserved, the party presumed, by the goop Chad had mistaken for candy.

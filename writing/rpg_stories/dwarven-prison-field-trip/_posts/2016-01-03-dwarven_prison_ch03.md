@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 3"
 chapter: 3
+chapter-title: "Rattled"
 ---
 
 

@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 8"
 chapter: 8
+chapter-title: "To Make an Omelet"
 ---
 
 Naturally, there was nothing to do except take anything the lizardpeople had ever owned and shove it into the group's bulging, swollen loot-maw. Chad took the wand that the druid had indicated did something with memories, and attempted to analyze it with his formidable knowledge of magical workings.

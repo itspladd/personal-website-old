@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 2"
 chapter: 2
+chapter-title: "Kidnappers"
 ---
 
 The party descended the ancient stairway, and their lights revealed an old, crumbling room. Of two stone columns in the center, only one remained standing. A section of wall to their left had fallen away, revealing dirt and rock behind the masonry. A simple iron door to their left was unadorned, and in front of them was a set of stone double doors with a nameplate in Dwarven script. Chomsky, drawing upon his time spent at the university, translated the Dwarven markings: "Processing."

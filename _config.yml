@@ -28,8 +28,14 @@ defaults:
   -
     scope:
       path: "writing/rpg_stories/grave-ambush-tirisvale"
-      type: "posts"
     values:
       title: "The Grave Ambush at Tirisvale"
-      collection: "the Terrence Saga"
+      story: "the Terrence Saga"
       part: "I"
+  -
+    scope:
+      path: "writing/rpg_stories/dwarven-prison-field-trip"
+    values:
+      title: "Field Trip to the Ancient Dwarven Prison Camp"
+      story: "the Terrence Saga"
+      part: "X"

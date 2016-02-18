@@ -240,10 +240,15 @@ figure {
 }
 
 /* Img is the actual image tag. */
-figure img {
+figure img{
     margin-bottom: 0px;
     max-width: inherit;
     border: 1px inset #AF753B;
+}
+
+figure a {
+    margin: 0px;
+    max-width: inherit;
 }
 
 /* Figcaption is for image captions. */
@@ -253,6 +258,10 @@ figure figcaption {
     text-align: left;
     margin-left: auto;
     margin-right: auto;
+}
+
+figure figcaption a {
+    margin: 0px;
 }
 /******** END FIGURE STYLE ************************************/
 
@@ -316,11 +325,23 @@ span.date-author {
 section {
     background-color: #CCCCCC;
     box-shadow: 2px 2px 10px black;
-    display: inline-block;
     width: 800px;
     float: left;
     margin: 10px auto 0px auto;
     border-radius: 5px;
+}
+
+section.tabbed {
+    border-top-left-radius: 0px;
+    display: block;
+}
+
+section.tab {
+    width: 311px;
+    background-color: #BBBBBB;
+    margin-bottom: -10px;
+    border-bottom-right-radius: 0px;
+    border-bottom-left-radius: 0px;
 }
 
 section.fullscreen {

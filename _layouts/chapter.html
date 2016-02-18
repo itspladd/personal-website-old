@@ -1,10 +1,33 @@
 ---
 layout: default
 ---
-    <section>
-        <article>
-            <h1>{{ page.title }}</h1>
-            {{ content }}
-            {% include prev-next.html %}
-        </article>
-    </section>
+{% if page.categories[-1] %}
+    {% assign category = page.categories[-1] %}
+{% else %}
+    {% assign category = page.categories %}
+{% endif%}
+
+<section class="fullscreen">
+    <article>
+        <h1 style="margin:0px">{{ page.title }}</h1>
+        <h4 style="margin:0px"><em>Part {{ page.part }} of {{ page.story }}</em></h4>
+    </article>
+</section>
+
+<aside class="sidebar">
+    <h3>Chapters</h3>
+    <ul>
+        {% for page in site.categories.[category] reversed %}
+        <li><a href="{{ page.url }}">Chapter {{ page.chapter }}: {{ page.chapter-title }}</a></li>
+        {% endfor %}
+    </ul>
+</aside>
+
+<section>
+    <article>
+        <h1>Chapter {{ page.chapter }}: {{ page.chapter-title }}</h1>
+        <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
+        {{ content }}
+        {% include prev-next.html %}
+    </article>
+</section>

@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 10"
 chapter: 10
+chapter-title: "Reunion"
 ---
 
 Derfin cast a quick glance about the room. Unlike most of the prison, this room seemed almost entirely untouched by anything except vermin and time. Cobwebs and a thick layer of dust covered every surface.
@@ -77,7 +77,7 @@ Wait, what? How the fuck was the _golem_ getting injured?
 
 Oh SHITPANDAS it had to be that stone thing that had grabbed his neck earlier oh god oh _god_. Derfin sprinted for the barricaded Processing door and pounded his fists against it in a blind panic. WHAMWHAMWHAMWHAMWHAM. "LETMEINLETMEINLETMEIN!"
 
-On the other side of the door, Chomsky and Gavin were having a spirited debate on the merits of Goodness versus Neutrality.
+On the other side of the door, Chomsky and Gavin had been having a spirited debate on the merits of Goodness versus Neutrality.
 
 "So you're saying that sometimes it's okay to crush your enemies beneath your heel and hear the lamentations of their loved ones, as long as you don't really enjoy it or do it all the time?" asked Chomsky.
 

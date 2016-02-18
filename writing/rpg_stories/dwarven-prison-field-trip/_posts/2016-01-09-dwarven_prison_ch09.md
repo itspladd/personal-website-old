@@ -1,6 +1,6 @@
 ---
-title: "Field Trip to the Ancient Dwarven Prison Camp: Chapter 9"
 chapter: 9
+chapter-title: "Derfin the Brave"
 ---
 
 Our intrepid adventuring squad regrouped back in the tunnels. Chad informed them all of something that he had noticed during the battle with the lizardmen. He had been standing in the passage that led to the unexplored hallway, which they had collectively dubbed the Hallway of Hell No. While standing there, he had heard a noise.
