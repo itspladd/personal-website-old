@@ -11,7 +11,7 @@ title: "Paul Ladd Does Words, Art, and Code"
 </section>
 
 <aside class="sidebar">
-    <h3>Want More PLADD?</h3>
+    <h3>Other Paul Things</h3>
     <ul>
         <li><a href="https://twitter.com/itspladd">Twitter</a><br/> get bugged when there's new stuff</li>
         <li><a href="http://pladddraws.tumblr.com/">Tumblr</a><br/> see sketches and unpolished art</li>
@@ -19,9 +19,14 @@ title: "Paul Ladd Does Words, Art, and Code"
     </ul>
 </aside>
 
-<section>
+<section class="tab">
+    <article><h1>Latest Blog Post</h1></article>
+</section>
+
+<section class="tabbed">
     <article>
-        <h1><a href="{{ site.categories.blog[0].url }}">Latest Blog Post</a></h1>
+        {% assign frontblogpost = site.categories.blog[0] %}
+        <h1><a href="{{ frontblogpost.url }}">{{ frontblogpost.title }}</a></h1>
         <span class="date-author">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
         <p>{{ site.categories.blog[0].excerpt }}</p>
         <a href="{{ site.categories.blog[0].url }}">Continue reading...</a>
@@ -29,23 +34,34 @@ title: "Paul Ladd Does Words, Art, and Code"
     </article>
 </section>
 
-<section>
+<section class="tab">
+    <article><h1>Latest Writing</h1></article>
+</section>
+
+<section class="tabbed">
     <article>
-        <h1>Latest Writing</h1>
-        <h4><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}</h4></a>
+        <h1><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}</a></h1>
         <p>{{ site.categories.writing[0].excerpt }}</p>
         <a href="{{ site.categories.writing[0].url }}">Continue reading...</a>
     </article>
 </section>
 
-<section>
+<section class="tab">
+    <article><h1>Featured Code Project</h1></article>
+</section>
+
+<section class="tabbed">
     <article>
         <h1>Featured Code Project</h1>
         <p>Coming soon!</p>
     </article>
 </section>
 
-<section>
+<section class="tab">
+    <article><h1>Featured Art</h1></article>
+</section>
+
+<section class="tabbed">
     <article>
         <h1>Featured Art</h1>
         <p>Coming soon!</p>
