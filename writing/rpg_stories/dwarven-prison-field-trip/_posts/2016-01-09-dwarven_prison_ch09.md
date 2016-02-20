@@ -9,7 +9,7 @@ _whump. whump. Whump. Whump. WHUMP. WHUMP._
 
 The sound had crescendoed, faded slightly, and grown louder again. It sounded as if something was pacing back and forth along the hallway's length. Something big.
 
-<!-- more -->
+<!--more-->
 
 The group agreed to wait a bit before challenging what might be in that hallway. Instead, they decided they should check out the "Temple" room; the passage in front of them looked to lead straight into that room!
 
