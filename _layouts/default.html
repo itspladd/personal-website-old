@@ -3,7 +3,7 @@
     <head>
         <title>{{ page.title }}</title>
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic|Bitter' rel='stylesheet' type='text/css'/>
-        <link rel="stylesheet" href="/css/main.css"/>
+        <link rel="stylesheet" href="{{ site.url }}/css/main.css"/>
         <meta />
         <script>
             window.onscroll = function() {moveSidebar()};
@@ -32,21 +32,21 @@
                 }
             }
         </script>
-        <script src="/assets/intro-strings.js"></script>
+        <script src="{{ site.url }}/assets/intro-strings.js"></script>
         <!-- Google analytics code snippet ---------------->
         {% include google-analytics.html %}
         <!-- END Google analytics code ---------------->
-        <link rel="alternate" type="application/atom+xml" title="PLADD" href="/atom.xml" />
+        <link rel="alternate" type="application/atom+xml" title="PLADD" href="{{ site.url }}/atom.xml" />
     </head>
     
     <body onload="chooseIntroString(); doSidebar()">
         <header>
-            <h1 class="main-title"><a class="main-title" href="/">PLADD</a></h1>
+            <h1 class="main-title"><a class="main-title" href="{{ site.url }}/">PLADD</a></h1>
             <p id="intro-string">&nbsp;<p>
-            <a href="https://twitter.com/itspladd" target="blank" alt="Follow me on twitter!"><img src="/assets/twitter-48.png"/></a>
-            <a href="http://pladddraws.tumblr.com/" target="blank" alt="Follow me on tumblr!"><img src="/assets/tumblr-48.png"/>
-            <a href="https://github.com/itspladd/" target="blank" alt="Fork me on GitHub!"><img src="/assets/github-48.png"/></a>
-            <a href="http://feeds.feedburner.com/itspladd" target="blank" alt="Subscribe to the feed!"><img src="/assets/rss-48.png"/></a>
+            <a href="https://twitter.com/itspladd" target="blank" alt="Follow me on twitter!"><img src="{{ site.url }}/assets/twitter-48.png"/></a>
+            <a href="http://pladddraws.tumblr.com/" target="blank" alt="Follow me on tumblr!"><img src="{{ site.url }}/assets/tumblr-48.png"/>
+            <a href="https://github.com/itspladd/" target="blank" alt="Fork me on GitHub!"><img src="{{ site.url }}/assets/github-48.png"/></a>
+            <a href="http://feeds.feedburner.com/itspladd" target="blank" alt="Subscribe to the feed!"><img src="{{ site.url }}/assets/rss-48.png"/></a>
             <nav>
                 <a class="navbutton" href="{{ site.url }}/blog">Blog</a>
                 <a class="navbutton" href="{{ site.url }}/writing">Writing</a>

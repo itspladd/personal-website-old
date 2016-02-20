@@ -6,7 +6,7 @@ author: pladd
 
 <aside class="midtext-right">
     <figure>
-        <img alt="NOT THE BEES" src="/assets/beeminder-cage.png"/>
+        <img alt="NOT THE BEES" src="{{ site.url }}/assets/beeminder-cage.png"/>
         <figcaption>Beeminder in a nutshell.</figcaption>
     </figure>
 </aside>

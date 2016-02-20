@@ -3,7 +3,7 @@ layout: default
 ---
     <aside class="sidebar">
         <h3>Handy Blog Links</h3>
-        <a href="/blog/postlist">List of All Posts Since Forever</a><br/>
+        <a href="{{ site.url }}/blog/postlist">List of All Posts Since Forever</a><br/>
         <h4>Recent posts:</h4>
             <ul>
                 {% for post in site.categories.blog limit: 5 %}
