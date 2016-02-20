@@ -6,7 +6,7 @@ author: pladd
 
 <aside class="midtext-right">
     <figure>
-        <a href="/assets/dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="/assets/dissection1-whole.png" height="250px"/></a>
+        <a href="{{ site.url }}/assets/dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="{{ site.url }}/assets/dissection1-whole.png" height="250px"/></a>
         <figcaption>BEHOLD. Click it to see the full image.</figcaption>
     </figure>
 </aside>
@@ -23,7 +23,7 @@ The main reason for #3 is that every texture is SO DIFFERENT from every other te
 
 I just finished the first of two total pages. There are three dissections on the page. I attempted to apply a total of _sixteen_ different textures. That's sixteen cycles of "what no how do I do this, oh maybe this works, no, no it doesn't, oh main wait this looks good OKAY TIME FOR SOMETHING NEW."
 
-After all of that, what better catharsis than to share the ride? <a href="/assets/dissection1-whole-fullsize.png" target="blank">Click here</a> for a Big McLargeHuge version of the whole page, if you want all of the details.
+After all of that, what better catharsis than to share the ride? <a href="{{ site.url }}/assets/dissection1-whole-fullsize.png" target="blank">Click here</a> for a Big McLargeHuge version of the whole page, if you want all of the details.
 
 --------
 
@@ -32,7 +32,7 @@ FORM #1
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Baby's first dissection. Wait, what's that?" src="/assets/dissection1-part1.png"/>
+        <img alt="Baby's first dissection. Wait, what's that?" src="{{ site.url }}/assets/dissection1-part1.png"/>
     </figure>
 </aside>
 
@@ -40,7 +40,7 @@ Holy mother of yikes. Are you seeing this?
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The label says tennis ball, but my mind says NO NO NO" src="/assets/dissection1-part1-tennis.png"/>
+        <img alt="The label says tennis ball, but my mind says NO NO NO" src="{{ site.url }}/assets/dissection1-part1-tennis.png"/>
     </figure>
 </aside>
 
@@ -48,7 +48,7 @@ No, seriously. LOOK AT IT
 
 <aside class="midtext-center">
     <figure>
-        <img alt="WITNESS MY LACK OF DRAWING AND DESPAIR" src="/assets/dissection1-part1-tennis-zoom.png"/>
+        <img alt="WITNESS MY LACK OF DRAWING AND DESPAIR" src="{{ site.url }}/assets/dissection1-part1-tennis-zoom.png"/>
     </figure>
 </aside>
 
@@ -67,7 +67,7 @@ FORM #2
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The second dissection. Things are looking up! Ish!" src="/assets/dissection1-part2.png"/>
+        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.url }}/assets/dissection1-part2.png"/>
     </figure>
 </aside>
 
@@ -75,7 +75,7 @@ Hey, look! It's our old friend, Leather! How's it going, bud? Ha&nbsp;ha you are
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="/assets/dissection1-part2-implied-leather.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.url }}/assets/dissection1-part2-implied-leather.png"/>
     </figure>
 </aside>
 
@@ -83,7 +83,7 @@ The only new thing here is that I tried to do more of an "implied" texture to th
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="/assets/dissection1-part2-orange.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.url }}/assets/dissection1-part2-orange.png"/>
     </figure>
 </aside>
 
@@ -91,7 +91,7 @@ I'm really happy with how I captured the sectional shape of the orange through t
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="/assets/dissection1-part2-onion.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.url }}/assets/dissection1-part2-onion.png"/>
     </figure>
 </aside>
 
@@ -99,7 +99,7 @@ This is either an onion or yet another STD warning. I was trying to capture the 
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The second dissection. Things are looking up! Ish!" src="/assets/dissection1-part2-metal-log.png"/>
+        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.url }}/assets/dissection1-part2-metal-log.png"/>
     </figure>
 </aside>
 
@@ -114,7 +114,7 @@ FORM #3
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Third dissection. It's...okay?" src="/assets/dissection1-part3.png"/>
+        <img alt="Third dissection. It's...okay?" src="{{ site.url }}/assets/dissection1-part3.png"/>
     </figure>
 </aside>
 
@@ -126,7 +126,7 @@ The cranberry kind of looks like a cranberry, or possibly a button.
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Furry bread drawing. NO, NOT THAT KIND OF FURRY." src="/assets/dissection1-part3-bread-fur.png"/>
+        <img alt="Furry bread drawing. NO, NOT THAT KIND OF FURRY." src="{{ site.url }}/assets/dissection1-part3-bread-fur.png"/>
     </figure>
 </aside>
 
