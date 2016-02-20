@@ -3,8 +3,14 @@
 #paginate: 1
 #paginate_path: "/blog/page:num/"
 
-name: "Paul Ladd Does Things"
+name: "PLADD"
+url: http://itspladd.github.io
+author:
+  name: pladd
+  email: itspladd@gmail.com
+
 markdown: kramdown
+
 
 excerpt_separator: <!--more-->
 
