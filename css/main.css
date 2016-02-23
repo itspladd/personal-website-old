@@ -303,7 +303,6 @@ header {
 /* Nav is used for navigation within each section of the site. */
 nav {
     background-color: #432100;
-    text-color: black;
     line-height: 75px;
     font-family: "Open Sans", sans-serif;
 }
