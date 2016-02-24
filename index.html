@@ -3,13 +3,6 @@ layout: default
 title: "Paul Ladd Does Words, Art, and Code"
 ---
 
-<section class="fullscreen">
-    <article>
-        <h1>Welcome to PLADD</h1>
-        <p>My name is Paul, and I like doing things. Like this website, for example. And the things on this website. Literally nothing else.</p>
-    </article>
-</section>
-
 <aside class="sidebar">
     <h3>Other Paul Things</h3>
     <ul>
@@ -20,13 +13,13 @@ title: "Paul Ladd Does Words, Art, and Code"
 </aside>
 
 <section class="tab">
-    <article><h1>Latest Blog Post</h1></article>
+    <article><h2>Latest Blog Post</h2></article>
 </section>
 
 <section class="tabbed">
     <article>
         {% assign frontblogpost = site.categories.blog[0] %}
-        <h1><a href="{{ frontblogpost.url }}">{{ frontblogpost.title }}</a></h1>
+        <h3><a href="{{ frontblogpost.url }}">{{ frontblogpost.title }}</a></h3>
         <span class="date-author">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
         <p>{{ site.categories.blog[0].excerpt }}</p>
         <a href="{{ site.categories.blog[0].url }}">Continue reading...</a>
@@ -35,35 +28,33 @@ title: "Paul Ladd Does Words, Art, and Code"
 </section>
 
 <section class="tab">
-    <article><h1>Latest Writing</h1></article>
+    <article><h2>Latest Writing</h2></article>
 </section>
 
 <section class="tabbed">
     <article>
-        <h1><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}</a></h1>
+        <h3><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}</a></h3>
         <p>{{ site.categories.writing[0].excerpt }}</p>
         <a href="{{ site.categories.writing[0].url }}">Continue reading...</a>
     </article>
 </section>
 
 <section class="tab">
-    <article><h1>Featured Code Project</h1></article>
+    <article><h2>Featured Code Project</h2></article>
 </section>
 
 <section class="tabbed">
     <article>
-        <h1>Featured Code Project</h1>
         <p>Coming soon!</p>
     </article>
 </section>
 
 <section class="tab">
-    <article><h1>Featured Art</h1></article>
+    <article><h2>Featured Art</h2></article>
 </section>
 
 <section class="tabbed">
     <article>
-        <h1>Featured Art</h1>
         <p>Coming soon!</p>
     </article>
 </section>

@@ -4,7 +4,7 @@ layout: blog
 
     <section>
         <article>
-            <h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+            <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
             <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
             {{ content }}
             {% include prev-next.html %}
