@@ -74,6 +74,10 @@ a.prev-next:hover {
     text-decoration: none;
 }
 
+a.socialbutton {
+    margin: 0px 5px 0px 5px;
+}
+
 /*****************************************************/
 /* MAIN TITLE HOVER BEHAVIOR *************************/
 /* OPTION A: Default background/text, border on hover*/
@@ -131,16 +135,16 @@ article {
     text-align: left;
 }
 
-article h1 {
+article h2, h3, h4, h5, h6 {
     margin: 0px;
     font-family: "Bitter", serif;
 }
 
-article h1:first-child a {
+article h2:first-child a, h3:first-child a {
     color: #00032F;
 }
 
-article h1:first-child a:hover {
+article h2:first-child a:hover, h3:first-child a:hover {
     color: #74779F;
     text-decoration: none;
 }
