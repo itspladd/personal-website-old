@@ -21,7 +21,7 @@ title: "Paul Ladd Does Words, Art, and Code"
         {% assign frontblogpost = site.categories.blog[0] %}
         <h3><a href="{{ frontblogpost.url }}">{{ frontblogpost.title }}</a></h3>
         <span class="date-author">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
-        <p>{{ site.categories.blog[0].excerpt }}</p>
+        {{ site.categories.blog[0].excerpt }}
         <a href="{{ site.categories.blog[0].url }}">Continue reading...</a>
         
     </article>
@@ -34,7 +34,7 @@ title: "Paul Ladd Does Words, Art, and Code"
 <section class="tabbed">
     <article>
         <h3><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}</a></h3>
-        <p>{{ site.categories.writing[0].excerpt }}</p>
+        {{ site.categories.writing[0].excerpt }}
         <a href="{{ site.categories.writing[0].url }}">Continue reading...</a>
     </article>
 </section>
@@ -45,7 +45,7 @@ title: "Paul Ladd Does Words, Art, and Code"
 
 <section class="tabbed">
     <article>
-        <p>Coming soon!</p>
+        <h3>Coming soon!</h3>
     </article>
 </section>
 
@@ -55,6 +55,6 @@ title: "Paul Ladd Does Words, Art, and Code"
 
 <section class="tabbed">
     <article>
-        <p>Coming soon!</p>
+        <h3>Coming soon!</h3>
     </article>
 </section>
