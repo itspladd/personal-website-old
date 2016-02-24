@@ -74,6 +74,10 @@ a.prev-next:hover {
     text-decoration: none;
 }
 
+a.socialbutton {
+    margin: 0px 5px 0px 5px;
+}
+
 /*****************************************************/
 /* MAIN TITLE HOVER BEHAVIOR *************************/
 /* OPTION A: Default background/text, border on hover*/
