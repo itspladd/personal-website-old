@@ -6,7 +6,7 @@ author: pladd
 
 <aside class="midtext-right">
     <figure>
-        <a href="{{ site.url }}/assets/dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="{{ site.url }}/assets/dissection1-whole.png" height="250px"/></a>
+        <a href="{{ site.url }}/assets/dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="{{ site.url }}/assets/dissection1-whole.png" height="250"/></a>
         <figcaption>BEHOLD. Click it to see the full image.</figcaption>
     </figure>
 </aside>
