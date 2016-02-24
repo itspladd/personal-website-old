@@ -1,7 +1,5 @@
 ---
 title: "Drawing Protip: Textures Suck."
-date: 2016-02-04
-author: pladd
 ---
 
 <aside class="midtext-right">
