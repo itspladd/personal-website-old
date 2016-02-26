@@ -33,7 +33,7 @@ He's doing this all for free, which is crazy cool of him. The only paywalled con
 
 That's why I'm drawing these things. I wanted to start from some kind of very basic, instructor-led process in order to learn new techniques and find out where my previous drawing was going wrong. The fact that I get to draw unthinkable abominations against man and nature is just a bonus.
 
-### Unthinkable Abomination Against Man And Nature (UAAMAN) #1: TOMATOLOG ###
+### Unthinkable Abomination Against Man And Nature (UAAMAN) #1: Tomato Log ###
 
 <aside class="midtext-center">
     <figure>
@@ -45,12 +45,12 @@ FEAR THE TOMATOLOG, MORTALS.
 
 I started with the tree bark, and I have mixed feelings. On one hand, I think that the texture as a whole _does_ visually convey "tree bark." On the other hand, I relied too much on random scribblings instead of drawing similarly-themed shapes. I started with the idea of "scales" with large cracks in between them, and then tried to convey that the scales were formed from layers, but I think that was the wrong way to go.
 
-The tomato part is the most interesting (to me) drawing on this whole page, because it's the drawing where a concept finally started to "click" for me. I started drawing the top half, and used hatching lines to try and show the concavity of the tomato - but tomatoes aren't empty. They're full of a liquidy, gelatinous substance. When I moved to the bottom of the tomato, I switched tactics: I tried to show where the light reflected off of the gel. It's absolutely not perfect, but I think I captured that good old  tomato-y feeling better in the bottom half than the top.
+The tomato is the most interesting drawing on this whole page (to me, at least) because it shows when a concept finally started to "click" for me. I started drawing the top half, and used hatching lines to try and show the concavity of the tomato - but tomatoes aren't empty. They're full of a liquidy, gelatinous substance. When I moved to the bottom of the tomato, I switched tactics: I tried to show where the light reflected off of the gel. It's absolutely not perfect, but I think I captured that good old tomato-y feeling better in the bottom half than the top.
 
-#### ABOMINATION RATING: 1/5 ####
+#### Abomination Rating: 1/5 ####
 Tomatoes and logs are both plants, so combining them doesn't really . I can do better.
 
-### UAAMAN #2: SAND BLUE CHEESE ###
+### UAAMAN #2: Sand Blue Cheese ###
 
 <aside class="midtext-center">
     <figure>
@@ -62,11 +62,11 @@ I spent a long time looking at the reference picture for the sand, and I'm glad 
 
 The blue cheese only looks like blue cheese if you know it's supposed to be blue cheese. Perhaps it would look better in color, since, you know. Blue.
 
-#### ABOMINATION RATING: 0.24/5 ####
+#### Abomination Rating: 0.24/5 ####
 
 I mean, it could totally just be some blue cheese that got dropped in the sand. Unappetizing, but not UAAMAN-worthy.
 
-### UAAMAN #3: WOOL PUMPKIN ###
+### UAAMAN #3: Wool Pumpkin ###
 
 <aside class="midtext-center">
     <figure>
@@ -87,7 +87,7 @@ With the wool, I _could not for the life of me_ figure out how to do that same t
 
 So I stopped. I probably should have kept trying, but I was sick of the wool at that point.
 
-#### ABOMINATION RATING: 3.2/5 ####
+#### Abomination Rating: 3.2/5 ####
 
 Sure, it's not really _scary_. But this is still some messed-up nightmare stuff: you go out into a field to pick pumpkins, but they're all wool on the outside, and then you cut one open and it still has its normal flesh and goop, and it spills onto the ground and then there's a shadow behind you and you want to turn around but you can't turn around you _can't_, why can't you turn around
 
@@ -95,7 +95,7 @@ and you know that the thing behind you has already killed you and that you were 
 
 and then you wake up and realize that you fell asleep on your drawing pad and messed up your dissection drawing and you have to do it over again and then you look around and the room is full of drawing pads all with discarded dissection drawings and you've been doing this for years and you can't leave until it's done and then you actually wake up.
 
-### UAAMAN #4: LAMPREY MELON AAAAAAAAAAAAHHHHHHH ###
+### UAAMAN #4: Lamprey Melon ###
 
 <aside class="midtext-center">
     <figure>
@@ -109,11 +109,11 @@ I LIKE THE WATERMELON BUT I THE LAMPREY MOUTH IS TOO DARK, THERE'S TOO MUCH CONT
 
 My other problem with how this turned out is LOOK AT IT AAAAAAAAAAAAAAAHHH
 
-#### ABOMINATION RATING: AAAAAAAAAAAAAAAAAHHHHHHHHHHHH ####
+#### Abomination Rating: AAAAAAAAAAAAAAAAAHHHHHHHHHHHH ####
 
 AAAAAAAAAAAAAAAAAAHHHH
 
-### UAAMAN #5: CADBURY ECHIDNA ###
+### UAAMAN #5: Cadbury Echidna ###
 
 <aside class="midtext-center">
     <figure>
@@ -125,13 +125,13 @@ Eeeeenh. I dunno, this one just isn't doing it for me. The spines look spiny, bu
 
 The <a href="https://upload.wikimedia.org/wikipedia/commons/e/e4/Cadbury-Creme-Egg-Whole-%26-Split.jpg" target="_blank">Cadbury egg</a> also came out kind of a mess. The chocolate exterior is so dark that you can't really tell what kind of texture is supposed to be going on. The interior _does_ look shiny and possibly gooey, so it's not too terrible!
 
-#### ABOMINATION RATING: 4.3/5 ####
+#### Abomination Rating: 4.3/5 ####
 
 You walk into a candy store. "Hey there! Fancy an egg?" asks the proprietor, waving you in. At his feet and all around the store scurry oblong objects covered in spines. "Don't mind them spines," advises the man with a wink. "S'long as you don't squeeze too hard, ain't none of them spines gonna break your skin. All is well." He flicks his arm and it writhes, snaking towards one of the spiny objects. At his palm gapes a toothless mouth. It gently but firmly ensnares an egg; the man brings it to his mouth and takes a bite. Chocolate stains his lips. Fondant oozes from the remains. The object doesn't move. Was it ever alive? 
 
 The man's grin is wide. He offers you the remaining half. Far off, you hear screaming. His grin widens, extends past the corners of his mouth. You realize that you're grinning back at him.
 
-### UAAMAN #6: PEANUT OKRA ###
+### UAAMAN #6: Peanut Okra ###
 
 <aside class="midtext-center">
     <figure>
@@ -141,6 +141,6 @@ The man's grin is wide. He offers you the remaining half. Far off, you hear scre
 
 This one turned out pretty well, I think. Okra has crevasses and seeds and a pentagonal shape, all of which were challenging to try and capture. For the peanut, I probably should have focused more on solid shapes than dots. But they both look like what I wanted!
 
-#### ABOMINATION RATING: Someone walks into your shop. All is well. You offer them a spine-covered egg with a friendly smile. All is well.  They smile back. The door closes, but they don't seem to notice. All is well. ####
+#### Abomination Rating: Someone walks into your shop. All is well. You offer them a spine-covered egg with a friendly smile. All is well.  They smile back. The door closes, but they don't seem to notice. All is well. ####
 
 -Paul
