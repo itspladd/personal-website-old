@@ -1,7 +1,5 @@
 ---
 title: "Beeminder Made Me Write This"
-date: 2016-02-11
-author: pladd
 ---
 
 <aside class="midtext-right">

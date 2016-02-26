@@ -1,7 +1,5 @@
 ---
 title: "A Whole Page of Textures! Did Paul Learn Anything?"
-date: 2016-02-18
-author: pladd
 ---
 
 <aside class="midtext-right">
