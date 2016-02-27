@@ -26,8 +26,8 @@ layout: default
 <section>
     <article>
         <h3>Chapter {{ page.chapter }}: {{ page.chapter-title }}</h3>
+        <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
         {{ content }}
         {% include prev-next.html %}
-        <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
     </article>
 </section>
