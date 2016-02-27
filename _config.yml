@@ -15,7 +15,7 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: "blog/_posts"
+      path: "blog"
       type: "posts"
     values:
       layout: "post"
