@@ -7,7 +7,7 @@ Chadwick lifted his head from the ground. His ears rang. Dimly he could see Derf
 
 Gavin and Chomsky slowly got up as well. The ringing began to fade, and they could hear again.
 
-"--RIGHT IN THE FACE! Fuck _yes_! Eat shit, goblins, eat my _arrow shit_!"
+"--RIGHT IN THE FACE! Fuck _yes!_ Eat shit, goblins, eat my _arrow shit!_"
 
 Derfin seemed to have recovered more quickly than the others. Gavin tried to remember. Was Elven Fortitude a thing? Or was that for dwarves? Whatever.<!--more-->
 
@@ -23,13 +23,13 @@ Gavin looked at Chomsky and mouthed, "Groucho'd?" Chomsky shrugged, unsheathed h
 
 Derfin glanced around the courtyard. "I mean, sure. I guess we can loot all of these bodies if there's nothing left for us to kill."
 
-Chad glared at Derfin. "_No_. There is _nothing left to do_."
+Chad glared at Derfin. "_No._ There is _nothing left to do._"
 
 "STOP! THIEF!" cried a voice. It came from the direction of the main road, back the way the group had come.
 
 "What was that?" said Gavin. "Sounds like something cool over that way!"
 
-"NOPE." Chadwick struggled with the belt buckle on his corpse. "Nope, nothing, sounds like exactly nothing at all. We killed all of these goblins, and now we get their stuff, good thing there's nothing to distract us _at all_."
+"NOPE." Chadwick struggled with the belt buckle on his corpse. "Nope, nothing, sounds like exactly nothing. We killed all of these goblins, and now we get their stuff, good thing there's nothing to distract us _at all._"
 
 "Someone help!" cried a second voice from the same alleyway. "Anybody! Please, stop any looting you might be doing and assist us!"
 
