@@ -10,11 +10,13 @@ Thank goodness, I thought to myself. The nightmare was over. I was done with [di
     </figure>
 </aside>
 
-Yeah, I should have seen that coming.<!--more--> This exercise was no less tedious or difficult than the previous, and I messed it up _so hard_. And what better way to learn from my mistakes than to broadcast them to everyone I know, and possibly people that I don't know?
+Yeah, I should have seen that coming.<!--more--> This exercise was no less tedious or difficult than the previous, and I messed it up _so hard_. Or maybe I did it perfectly. I'm actually not sure anymore.
+
+Anyway, what better way to learn from my (possible) mistakes than to broadcast them to everyone I know, and possibly people that I don't know?
 
 ### Background: Why Boxes? ###
 
-It'll be hard to understand just how badly I borked this exercise without a proper introduction. As always, you can see the whole exercise on the [Draw A Box website](http://drawabox.com/lesson/2) (look for "Part 3: Form Intersections" on that page).
+It may be hard to understand why I moved from textures to boxes without a proper introduction. If you want to see the lesson from the source, head to the [Draw A Box website](http://drawabox.com/lesson/2) (look for "Part 3: Form Intersections" on that page).
 
 <aside class="midtext-right">
     <figure>
@@ -23,11 +25,11 @@ It'll be hard to understand just how badly I borked this exercise without a prop
     </figure>
 </aside>
 
-Irshad Karim, the creator of Draw A Box, teaches a specific style of drawing called [constructional drawing](http://drawabox.com/article/construction). Constructional drawing stands slightly apart from _observational drawing_. With observational drawing, you draw exactly what you see without necessarily considering the three-dimensional composition of your subject. Again, you're attempting to draw what you see _exactly_ as you see it.
+Irshad Karim, the creator of Draw A Box, teaches a specific style of drawing called [constructional drawing](http://drawabox.com/article/construction). Constructional drawing stands slightly apart from _observational drawing_. With observational drawing, you draw what you see without necessarily considering the three-dimensional composition of your subject. You're attempting to draw what you see _exactly_ as you see it.
 
-Constructional drawing, on the other hand, asks you to find the fundamental underlying shapes that your subject is composed of, and then figure out how those shapes combine in three-dimensional space. Planes Boxes. Cylinders. Cones. Spheres. By understanding how they relate to each other in three dimensions, you can use fundamental shapes to construct a rough model of your subject, and then build from there, adding layers of progressively finer detail.
+Constructional drawing, on the other hand, asks you to find the fundamental underlying shapes that your subject is composed of, and then figure out how those shapes combine in three-dimensional space. Planes. Boxes. Cylinders. Cones. Spheres. By understanding how they relate to each other in three dimensions, you can use fundamental shapes to construct a rough model of your subject, and then build from there, adding layers of progressively finer detail.
 
-The goal of constructional drawing isn't necessarily to capture something you see. Instead, the goal is to "convey a message through visual means," as Karim puts it. It doesn't have to be perfect or entirely true to life: as longs as it effectively communicates what you want it to, then you've achieved the basic goal.
+The goal of constructional drawing isn't necessarily to capture something you _see_. Instead, the goal is to "convey a message through visual means," as Karim puts it. It doesn't have to be perfect or entirely true to life: as long as it effectively communicates what you want it to, then you've achieved the basic goal.
 
 I've greatly simplified both techniques - you can find more complete explanations elsewhere. I only describe the two to give some context: the exercise I'm describing here is all about understanding those basic shapes in three dimensions.
 
@@ -108,7 +110,7 @@ Part of the way through the exercise, I went to a different page in my sketchboo
     </figure>
 </aside>
 
-I thought I had it dialed the hell _in_, and so I did the rest of the exercise following that rule: find the figure "cutting" the other figure, and follow the planes of the first figure. I had it figured out!
+I had cracked the code. I had it figured the hell _out_. So I did the rest of the exercise following that rule: find the figure "cutting" the other figure, and follow the planes of the first figure. Perfection!
 
 And then I looked back at the exercise while writing this post, and _everything seemed wrong_. And I think I've realized why: it's all about perception. It's the "do you see an old lady or a young lady?" picture problem. When I originally drew the diagram, I meant to show this:
 
@@ -135,7 +137,6 @@ Maybe I'll figure out more as I go along. This is page one of _four_. Next time,
         <img title="HI THERE" src="{{ site.url }}/assets/dissection2-lampreymelon.png"/>
     </figure>
 </aside>
-
 
 AAAAAAAAAAAAAHHHHHH
 
