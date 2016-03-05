@@ -6,15 +6,15 @@ I have to give credit to a friend of mine for the title of this post. He had thi
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Anonymous says &quot;This week, on Paul Draws Your Nightmares: wooden metal! Impossible coconut! Everyone's favorite snack, dogbread!&quot;" src="{{ site.url }}/assets/paul-draws-nightmares.png"/>
+        <img alt="Anonymous says &quot;This week, on Paul Draws Your Nightmares: wooden metal! Impossible coconut! Everyone's favorite snack, dogbread!&quot;" src="{{ site.baseurl }}/assets/paul-draws-nightmares.png"/>
     </figure>
 </aside>
 
-Well, I've now completed a second set of dissections to fuel your nightmare engines for a while longer. You're welcome! Like before, if you want to see every grisly detail of this exercise in the highest resolution my potato phone and my shaky hands can capture, <a href="{{ site.url }}/assets/dissection2-whole-fullsize.png">here you go</a>.<!--more-->
+Well, I've now completed a second set of dissections to fuel your nightmare engines for a while longer. You're welcome! Like before, if you want to see every grisly detail of this exercise in the highest resolution my potato phone and my shaky hands can capture, <a href="{{ site.baseurl }}/assets/dissection2-whole-fullsize.png">here you go</a>.<!--more-->
 
 <aside class="midtext-right">
     <figure>
-        <a href="{{ site.url }}/assets/dissection2-whole.png" target="_blank"><img alt="Page 2 of dissections." src="{{ site.url }}/assets/dissection2-whole.png"/></a>
+        <a href="{{ site.baseurl }}/assets/dissection2-whole.png" target="_blank"><img alt="Page 2 of dissections." src="{{ site.baseurl }}/assets/dissection2-whole.png"/></a>
         <figcaption>BEHOLD. Click it to see the full image.</figcaption>
     </figure>
 </aside>
@@ -37,7 +37,7 @@ That's why I'm drawing these things. I wanted to start from some kind of very ba
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Tree bark exterior, tomato interior. Yum." src="{{ site.url }}/assets/dissection2-tomatolog.png"/>
+        <img alt="Tree bark exterior, tomato interior. Yum." src="{{ site.baseurl }}/assets/dissection2-tomatolog.png"/>
     </figure>
 </aside>
 
@@ -54,7 +54,7 @@ Tomatoes and logs are both plants, so combining them doesn't really . I can do b
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Sand texture on the outside, blue cheese texture on the inside." src="{{ site.url }}/assets/dissection2-sandcheese.png"/>
+        <img alt="Sand texture on the outside, blue cheese texture on the inside." src="{{ site.baseurl }}/assets/dissection2-sandcheese.png"/>
     </figure>
 </aside>
 
@@ -70,7 +70,7 @@ I mean, it could totally just be some blue cheese that got dropped in the sand. 
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Knitted wool with a gloopy pumpkin interior." src="{{ site.url }}/assets/dissection2-woolpumpkin.png"/>
+        <img alt="Knitted wool with a gloopy pumpkin interior." src="{{ site.baseurl }}/assets/dissection2-woolpumpkin.png"/>
     </figure>
 </aside>
 
@@ -99,7 +99,7 @@ and then you wake up and realize that you fell asleep on your drawing pad and me
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Watermelon exterior. Lamprey mouth on the end. Row upon row of teeth. Gaping maw. Fear." src="{{ site.url }}/assets/dissection2-lampreymelon.png"/>
+        <img alt="Watermelon exterior. Lamprey mouth on the end. Row upon row of teeth. Gaping maw. Fear." src="{{ site.baseurl }}/assets/dissection2-lampreymelon.png"/>
     </figure>
 </aside>
 
@@ -117,7 +117,7 @@ AAAAAAAAAAAAAAAAAAHHHH
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Echidna spines on the outside, chocolate and delicious fondant on the inside." src="{{ site.url }}/assets/dissection2-cadburyechidna.png"/>
+        <img alt="Echidna spines on the outside, chocolate and delicious fondant on the inside." src="{{ site.baseurl }}/assets/dissection2-cadburyechidna.png"/>
     </figure>
 </aside>
 
@@ -135,7 +135,7 @@ The man's grin is wide. He offers you the remaining half. Far off, you hear scre
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Echidna spines on the outside, chocolate and delicious fondant on the inside." src="{{ site.url }}/assets/dissection2-peanutokra.png"/>
+        <img alt="Echidna spines on the outside, chocolate and delicious fondant on the inside." src="{{ site.baseurl }}/assets/dissection2-peanutokra.png"/>
     </figure>
 </aside>
 
