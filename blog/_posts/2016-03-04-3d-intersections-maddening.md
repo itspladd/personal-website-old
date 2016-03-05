@@ -1,7 +1,10 @@
 ---
 title: "3D Intersections Are Maddening"
 shortdesc: "Paul drew himself with muttonchops."
-preview-image: "intersection1-diagram-original.png"
+preview-image: 
+  file: "intersection1-diagram-original.png"
+  width: "826"
+  height: "700"
 ---
 
 Thank goodness, I thought to myself. The nightmare was over. I was done with [dissections]({% post_url 2016-02-26-textures-part-two %}). I had stopped dreaming of lamprey watermelons everywhere, appearing when you least expect them. It would be smooth sailing from here on out, because that is how life works: you finish something hard, and then everything else is easy for the rest of your life.
