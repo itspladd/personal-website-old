@@ -3,50 +3,37 @@
     <head>
         <title>{{ page.title }}</title>
         <meta charset="UTF-8">
+        
+        <!-- Open Graph markup tags -->
+        <meta property="og:url" content="{{ page.url }}" />
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:description" content="{{ page.shortdesc }}" />
+        <meta property="og:site_name" content="PLADD" />
+        <meta property="og:image" content="{{ site.url }}/assets/{{ page.preview-image }}" />
+        
+        <!-- RSS/Atom XML -->
         <link rel="alternate" type="application/atom+xml" title="PLADD" href="{{ site.url }}/atom.xml" />
+        
+        <!-- CSS -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic%7CBitter' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="/css/main.css"/>
-        <script>
-            window.onscroll = function() {moveSidebar()};
-            var sidebar;
-            var sidebarOffset;
-            function findSidebar() {
-                sidebar = document.getElementsByClassName("sidebar")[0];
-                sidebarOffset = sidebar.offsetTop - 10 + sidebar.offsetParent.offsetTop;
-            }
-            function moveSidebar() {
-                var marginToTop = window.pageYOffset - sidebarOffset + 10;
-                if (window.pageYOffset < sidebarOffset) {
-                    sidebar.style.position = "static";
-                    sidebar.style.marginTop = "10px";
-                }
-                if (window.pageYOffset >= sidebarOffset) {
-                    sidebar.style.position = "fixed";
-                    sidebar.style.top = "0px";
-                    sidebar.style.right = "10px";
-                }
-            }
-            function doSidebar() {
-                if (document.getElementsByClassName("sidebar")[0]) {
-                    findSidebar();
-                    moveSidebar();
-                }
-            }
-        </script>
+        
+        
+        <script src="{{ site.url }}/assets/sidebar.js"></script>
         <script src="{{ site.url }}/assets/intro-strings.js"></script>
-        <!-- Google analytics code snippet - - - - - - - - - - - - - - -->
+        <!-- Google analytics code snippet -->
         {% include google-analytics.html %}
-        <!-- END Google analytics code - - - - - - - - - - - - - - -->
+        <!-- END Google analytics code -->
     </head>
     
     <body onload="chooseIntroString(); doSidebar()">
         <header>
             <h1 class="main-title"><a class="main-title" href="{{ site.url }}/">PLADD</a></h1>
             <p id="intro-string">&nbsp;<p>
-            <a class="socialbutton" href="https://twitter.com/itspladd" target="blank"><img src="{{ site.url }}/assets/twitter-48.png" alt="Follow me on twitter!" /></a>
-            <a class="socialbutton" href="http://pladddraws.tumblr.com/" target="blank"><img src="{{ site.url }}/assets/tumblr-48.png" alt="Follow me on tumblr!" /></a>
-            <a class="socialbutton" href="https://github.com/itspladd/" target="blank"><img src="{{ site.url }}/assets/github-48.png" alt="Fork me on GitHub!" /></a>
-            <a class="socialbutton" href="http://feeds.feedburner.com/itspladd" target="blank"><img src="{{ site.url }}/assets/rss-48.png" alt="Subscribe to the feed!" /></a>
+            <a class="socialbutton" href="https://twitter.com/itspladd" target="_blank"><img src="{{ site.url }}/assets/twitter-48.png" title="Follow me on twitter!" alt="Twitter icon!" /></a>
+            <a class="socialbutton" href="http://pladddraws.tumblr.com/" target="_blank"><img src="{{ site.url }}/assets/tumblr-48.png" title="Follow me on tumblr!" alt= "Tumblr icon!" /></a>
+            <a class="socialbutton" href="https://github.com/itspladd/" target="_blank"><img src="{{ site.url }}/assets/github-48.png" title="Fork me on GitHub!" alt="GitHub icon!" /></a>
+            <a class="socialbutton" href="http://feeds.feedburner.com/itspladd" target="_blank"><img src="{{ site.url }}/assets/rss-48.png" title="Subscribe to the RSS feed!" alt="RSS icon!" /></a>
             <nav>
                 <a class="navbutton" href="{{ site.url }}/blog">Blog</a>
                 <a class="navbutton" href="{{ site.url }}/writing">Writing</a>
