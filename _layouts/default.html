@@ -3,6 +3,14 @@
     <head>
         <title>{{ page.title }}</title>
         <meta charset="UTF-8">
+        
+        <!-- Open Graph markup tags -->
+        <meta property="og:url" content="{{ page.url }}" />
+        <meta property="og:title" content="{{ page.title }}" />
+        <meta property="og:description" content="{{ page.shortdesc }}" />
+        <meta property="og:site_name" content="PLADD" />
+        <meta property="og:image" content="{{ site.url }}/assets/{{ page.preview-image }}" />
+        
         <!-- RSS/Atom XML -->
         <link rel="alternate" type="application/atom+xml" title="PLADD" href="{{ site.url }}/atom.xml" />
         
