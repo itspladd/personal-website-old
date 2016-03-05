@@ -4,7 +4,7 @@ title: "Drawing Protip: Textures Suck."
 
 <aside class="midtext-right">
     <figure>
-        <img alt="An old comic panel" src="{{ site.url }}/assets/drawing-example-old-comic.png"/>
+        <img alt="An old comic panel" src="{{ site.baseurl }}/assets/drawing-example-old-comic.png"/>
         <figcaption>An old comic panel of mine, supposedly portraying two people falling into giant tubes. It made sense at the time.</figcaption>
     </figure>
 </aside>
@@ -19,7 +19,7 @@ To be fair, I learned how to improve that _exact_ comic style over time, but I h
 
 <aside class="midtext-left">
     <figure>
-        <img alt="Examples of the funnel drawing exercise" src="{{ site.url }}/assets/drawing-exercise-planes.png" />
+        <img alt="Examples of the funnel drawing exercise" src="{{ site.baseurl }}/assets/drawing-exercise-planes.png" />
         <figcaption>One of the early exercises: draw a flat plane, freehand, then draw an ellipse inside of it.</figcaption>
     </figure>
 </aside>
@@ -34,7 +34,7 @@ The first step was to find reference photos. "Hmm," I thought to myself, "the re
 
 <aside class="midtext-center">
     <figure>
-        <img alt="This face is the only thing I see when I close my eyes now." src="{{ site.url }}/assets/drawing-texture-leather-monster.png"/>
+        <img alt="This face is the only thing I see when I close my eyes now." src="{{ site.baseurl }}/assets/drawing-texture-leather-monster.png"/>
     </figure>
 </aside>
 
@@ -48,7 +48,7 @@ I took more notes, attempting to uncover the Grand Unified Damned Theory of Leat
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Pictured: not leather" src="{{ site.url }}/assets/drawing-exercise-dissection-leather.png"/>
+        <img alt="Pictured: not leather" src="{{ site.baseurl }}/assets/drawing-exercise-dissection-leather.png"/>
     </figure>
 </aside>
 

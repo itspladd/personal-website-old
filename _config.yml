@@ -3,6 +3,7 @@
 #paginate: 1
 #paginate_path: "/blog/page:num/"
 
+url: "http://www.itspladd.com"
 name: "PLADD"
 author:
   name: pladd
