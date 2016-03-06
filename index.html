@@ -2,6 +2,10 @@
 root: "true"
 ---
 
+{% assign frontblogpost = site.categories.blog[0] %}
+{% assign frontwriting = site.categories.writing[0] %}
+{% assign frontcodeproject = site.categories.coding[0] %}
+
 <aside class="sidebar">
     <h3>Other Paul Things</h3>
     <ul>
@@ -17,11 +21,15 @@ root: "true"
 
 <section class="tabbed">
     <article>
-        {% assign frontblogpost = site.categories.blog[0] %}
         <h3><a href="{{ frontblogpost.url }}">{{ frontblogpost.title }}</a></h3>
-        <span class="date-author">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
-        {{ site.categories.blog[0].excerpt }}
-        <a href="{{ site.categories.blog[0].url }}">Continue reading...</a>
+        <span class="date-author">Posted by {{ frontblogpost.author }} on {{ frontblogpost.date | date: '%B %d, %Y' }}</span>
+        <aside class="midtext-right">
+            <figure>
+                <img src="{{ site.baseurl }}/assets/{{ frontblogpost.preview-image.file }}"></img>
+            </figure>
+        </aside>
+        {{ frontblogpost.excerpt }}
+        <a href="{{ frontblogpost.url }}">Continue reading...</a>
         
     </article>
 </section>
@@ -32,9 +40,9 @@ root: "true"
 
 <section class="tabbed">
     <article>
-        <h3><a href="{{ site.categories.writing[0].url }}">{{ site.categories.writing[0].title }}, Chapter {{ site.categories.writing[0].chapter }}: {{ site.categories.writing[0].chapter-title }}</a></h3>
-        {{ site.categories.writing[0].excerpt }}
-        <a href="{{ site.categories.writing[0].url }}">Continue reading...</a>
+        <h3><a href="{{ frontwriting.url }}">{{ frontwriting.title }}, Chapter {{ frontwriting.chapter }}: {{ frontwriting.chapter-title }}</a></h3>
+        {{ frontwriting.excerpt }}
+        <a href="{{ frontwriting.url }}">Continue reading...</a>
     </article>
 </section>
 
@@ -44,7 +52,14 @@ root: "true"
 
 <section class="tabbed">
     <article>
-        <h3>Coming soon!</h3>
+        <h3><a href="{{ frontcodeproject.url }}">{{ frontcodeproject.title }}</a></h3>
+        <aside class="midtext-right">
+            <figure>
+                <img src="{{ site.baseurl }}/assets/{{ frontblogpost.preview-image.file }}"></img>
+            </figure>
+        </aside>
+        {{ frontcodeproject.excerpt }}
+        <a href="{{ froncodeproject.url }}">Continue reading...</a>
     </article>
 </section>
 
