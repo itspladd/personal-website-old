@@ -19,9 +19,10 @@ defaults:
       path: ""
     values:
       layout: "default"
-      shortdesc: "PLADD: Your one-stop shop for blog posts about drawing and stories containing bad words."
+      shortdesc: "Your one-stop shop for blog posts about drawing and stories containing bad words."
       preview-image:
         file: "banner.png"
+        type: "image/png"
         width: "1200"
         height: "630"
   -
