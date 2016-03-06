@@ -16,6 +16,16 @@ permalink: pretty
 defaults:
   -
     scope:
+      path: ""
+    values:
+      layout: "default"
+      shortdesc: "PLADD: Your one-stop shop for blog posts about drawing and stories containing bad words."
+      preview-image:
+        file: "banner.png"
+        width: "1200"
+        height: "630"
+  -
+    scope:
       path: "blog"
       type: "posts"
     values:
