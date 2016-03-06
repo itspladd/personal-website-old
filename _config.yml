@@ -36,6 +36,13 @@ defaults:
       author: "pladd"
   -
     scope:
+      path: "coding"
+      type: "posts"
+    values:
+      layout: "code-project"
+      author: "pladd"
+  -
+    scope:
       path: "writing/rpg_stories"
       type: "posts"
     values:
