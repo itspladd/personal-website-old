@@ -3,7 +3,10 @@
     <head>
         <title>{{ page.title }}</title>
         <meta charset="UTF-8">
-        
+        {% if page.root %}
+        <!-- FB integration -->
+        <meta property="fb:admins" content="540833758" />
+        {% endif %}
         <!-- Open Graph markup tags -->
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
         <meta property="og:title" content="{{ page.title }}" />
@@ -19,7 +22,6 @@
         <!-- CSS -->
         <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,600,400italic,600italic,700,700italic%7CBitter' rel='stylesheet' type='text/css'/>
         <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
-        
         
         <script src="{{ site.baseurl }}/assets/sidebar.js"></script>
         <script src="{{ site.baseurl }}/assets/intro-strings.js"></script>
