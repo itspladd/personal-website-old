@@ -5,7 +5,7 @@
         <meta charset="UTF-8">
         {% if page.root %}
         <!-- FB integration -->
-        <meta property="fb:app-id" content="540833758" />
+        <meta property="fb:admins" content="540833758" />
         {% endif %}
         <!-- Open Graph markup tags -->
         <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
@@ -13,6 +13,7 @@
         <meta property="og:description" content="{{ page.shortdesc }}" />
         <meta property="og:site_name" content="{{ site.name }}" />
         <meta property="og:image" content="{{ site.url }}/assets/{{ page.preview-image.file }}" />
+        <meta property="og:image:type" content="{{ page.preview-image.type }}" />
         <meta property="og:image:width" content="{{ page.preview-image.width }}" />
         <meta property="og:image:height" content="{{ page.preview-image.height }}" />
         
