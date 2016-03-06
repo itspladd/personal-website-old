@@ -5,11 +5,11 @@ chapter-title: Cemeterror
 
 Chadwick lifted his head from the ground. His ears rang. Dimly he could see Derfin stirring behind nearby cover. The majority of the courtyard was clouded in thick smoke. He mentally probed his connection to NGE. She seemed mostly unharmed, and informed Chad that she had taken the liberty of hiding inside the Alchemists' Society doorway when the torch fell.
 
-Gavin and Chomsky slowly got up as well. The ringing began to fade, and they could hear again.
+Gavin and Chomsky slowly got up as well. The ringing began to fade, and they could hear again.<!--more-->
 
 "--RIGHT IN THE FACE! Fuck _yes!_ Eat shit, goblins, eat my _arrow shit!_"
 
-Derfin seemed to have recovered more quickly than the others. Gavin tried to remember. Was Elven Fortitude a thing? Or was that for dwarves? Whatever.<!--more-->
+Derfin seemed to have recovered more quickly than the others. Gavin tried to remember. Was Elven Fortitude a thing? Or was that for dwarves? Whatever.
 
 The smoke began to clear. Slowly the courtyard, largely unscathed from the explosion, came back into view. The goblins, however, were _extremely_ scathed. Charred bodies littered the ground. Here and there sat an errant limb; Derfin noted that one goblin's head had made it all the way up to a nearby roof. Except for the five members of the group, nothing moved. The sounds of combat had dissipated. The goblin attack had been resoundingly defeated. 
 
