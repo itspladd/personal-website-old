@@ -19,6 +19,7 @@ defaults:
       path: ""
     values:
       layout: "default"
+      title: "PLADD: Paul Ladd Does Words, Art, and Code"
       shortdesc: "Your one-stop shop for blog posts about drawing and stories containing bad words."
       preview-image:
         file: "banner.png"
