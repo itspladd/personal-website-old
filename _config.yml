@@ -27,6 +27,8 @@ defaults:
         type: "image/png"
         width: "1200"
         height: "630"
+        title: "Home of the Fightin' Lampreymelons"
+        alt: "Default \"It's PLADD\" banner."
   -
     scope:
       path: "blog"
