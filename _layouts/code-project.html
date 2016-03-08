@@ -6,6 +6,11 @@ layout: coding
     <article>
         <h3>{{ page.title }}</h3>
         <span class="date-author"><a href="{{ page.live-url }}">{{ page.live-url-message }}</a> | <a href="{{ page.source-url }}">View the source code</a></span>
+        <aside class="midtext-center">
+            <figure>
+                <img class="midtext-center" src="{{ site.baseurl }}/assets/{{ page.preview-image.file }}" alt="" title=""/>
+            </figure>
+        </aside>
         {{ content }}
     </article>
 </section>
