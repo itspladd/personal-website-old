@@ -1,6 +1,6 @@
 ---
-title: "PLADD (The Website You Are Already On)"
-shortdesc: "Paul describes features, problems, code, and other nerdy stuff about the workings of itspladd.com. Clearly, this is the most meta post on the entire site."
+title: "PLADD (The Website)"
+shortdesc: "Nerdy stuff about the workings of itspladd.com. Clearly the most meta post on the entire site."
 preview-image:
   file: "banner-itspladd-website-code-project.png"
   title: "Look at that sweet, sweet cross-fade."
