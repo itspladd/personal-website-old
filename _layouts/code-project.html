@@ -1,0 +1,12 @@
+---
+layout: coding
+---
+
+<section>
+    <article>
+        <h2>{{ page.title }}</h2>
+        <span class="date-author"><a href="{{ page.live-url }}">{{ page.live-url-message }}</a> | <a href="{{ page.source-url }}">View the source code</a></span>
+        {% include preview-banner.html %}
+        {{ content }}
+    </article>
+</section>

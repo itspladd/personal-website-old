@@ -9,6 +9,7 @@ author:
   name: pladd
   email: itspladd@gmail.com
 
+exclude: [post-template.md]
 excerpt_separator: <!--more-->
 
 permalink: pretty
@@ -26,12 +27,21 @@ defaults:
         type: "image/png"
         width: "1200"
         height: "630"
+        title: "Home of the Fightin' Lampreymelons"
+        alt: "Default \"It's PLADD\" banner."
   -
     scope:
       path: "blog"
       type: "posts"
     values:
       layout: "post"
+      author: "pladd"
+  -
+    scope:
+      path: "coding"
+      type: "posts"
+    values:
+      layout: "code-project"
       author: "pladd"
   -
     scope:
