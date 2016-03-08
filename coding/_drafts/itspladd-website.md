@@ -48,6 +48,8 @@ If you have a suggestion for the site, email <a href="mailto:support@itspladd.co
     * The Art section is the last section of the site without unique layouts or post formats. I'd like to have the section capable of handling both individual images and collections of images.
 * Sidebar Icon for Small Windows
     * Right now, if your browser window is too small, the sidebar and the main content of a page will overlap. Instead, the sidebar should be replaced with a small icon that can be expanded into the full sidebar whenever you actually want it.
+* Rating System
+    * Some content on the site is less suitable for certain audiences due to being chock-full of every bad word known to man. I'd like to have a big, in-your-face rating advisory at the top of such posts.
 * Elegantly Handle Big Images
     * Uploading (mostly) raw photos of sketches makes for big huge images. Currently, I link to the full (~10 MB) image for you to open if you want, and then put smaller versions of the image in the posts themselves. Opening giant images in other tabs is probably the correct functionality going forward, but it would be nice to allow someone to click a thumbnail to view a medium-size version of the image as an overlay, and then click to get back to the page's main content.
 * Fully Integrate With Social Media
