@@ -56,6 +56,8 @@ If you have a suggestion for the site, email <a href="mailto:support@itspladd.co
     * Uploading (mostly) raw photos of sketches makes for big huge images. Currently, I link to the full (~10 MB) image for you to open if you want, and then put smaller versions of the image in the posts themselves. Opening giant images in other tabs is probably the correct functionality going forward, but it would be nice to allow someone to click a thumbnail to view a medium-size version of the image as an overlay, and then click to get back to the page's main content.
 * Fully Integrate With Social Media
     * It'd be cool to have a (non-obtrusive) way for people to immediately share a blog post, drawing, story, or code project on Facebook/Twitter/Tumblr. Right now all I have are the buttons linking to my respective accounts at the top of the site.
+* Comments
+    * Enable some sort of commenting system on blog posts.
 
 ### Known Issues ###
 
