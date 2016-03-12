@@ -1,31 +1,47 @@
 ---
-title: "How (And How Not) To Draw 3D Intersections"
-shortdesc: "I have spent the last week cramming "
+title: "How (And How Not)(Actually Mostly How Not) To Draw 3D Intersections"
+shortdesc: "There are no shortcuts in life, kids. Especially when you're trying to shove a box into a sphere into a cone into a pyramid."
 preview-image:
-  file: ""
-  width: ""
-  height: ""
-  alt: ""
+  file: "banner-intersections-mistakes.png"
+  width: "1200"
+  height: "630"
+  alt: "Basic 3D shapes, roughly drawn in ink, with \"Paul Never Makes Mistakes\" and \"It's Literally Impossible\" superimposed."
   title: ""
 ---
 
-Paul drew more intersections! Look at those things up there. Those are definitely representative of all of the intersections I drew. They all look perfect and wonderful and great. Gosh golly what a good job I did. I can promise you that none of them look like this:
+Paul drew more intersections! Look at that image up there. Those words are definitely representative of all of the intersections I drew. They all look perfect and wonderful and great. Gosh golly what a good job I did. I can promise you that none of them look like this:
 
+<aside class="midtext-center">
+    <figure>
+        <img title="" alt="" src="{{ site.baseurl }}/assets/intersection-cube-circle-messy.png"/>
+    </figure>
+</aside>
 
+Okay, fine. So I may have made a few mistakes&mdash;
 
-Okay, fine. So I may have made a few mista&em;
+<aside class="midtext-center">
+    <figure>
+        <img title="" alt="" src="{{ site.baseurl }}/assets/intersection-cube-messy.png"/>
+    </figure>
+</aside>
 
+Okay maybe more than one&mdash;
 
+<aside class="midtext-center">
+    <figure>
+        <img title="" alt="" src="{{ site.baseurl }}/assets/intersection-indecipherable.png"/>
+    </figure>
+</aside>
 
-Okay maybe more than one m&em;
+FINE LOTS OF MISTAKES<!--more-->
 
+See, last time, it was [just boxes]({% post_url 2016-03-04-3d-intersections-maddening %}). Boxes are easy, which is why I didn't mess any of them up.
 
-
-FINE LOTS OF MISTAKES
-
-See, last time, it was [just boxes]({% post_url: first intersections post %}). Boxes are easy, which is why I didn't mess any of them up.
-
-
+<aside class="midtext-center">
+    <figure>
+        <img title="" alt="" src="{{ site.baseurl }}/assets/intersection-cubes-indecipherable.png"/>
+    </figure>
+</aside>
 
 SHUT UP, STUPID WEBSITE.
 
@@ -47,7 +63,7 @@ This is entirely a mechanical practice issue. Look at this thing:
 
 What are you doing there, faint line? Why are you in the middle of the circle? Nobody knows, except that I know, and it's because my arm sometimes jerks when drawing round shapes instead of moving smoothly.
 
-aside: another example
+aside: Here's this one again from earlier, in case you forgot. You didn't forget? You'll never forget? Your dreams will be haunted forever? #sorrynotsorry
 
 Sometimes this isn't an issue, though. Check out this bad boy:
 
@@ -104,3 +120,15 @@ Sometimes my attention just up and wavered. My willpower failed. "No need to [gh
 Sometimes this would even happen when I was attempting to darken an intersection to make it "pop" against the existing form lines. I would stop paying attention and just draw on the pretty lines, and then look back and realize that I had just reinforced a line that was _specifically_ supposed to be ignored:
 
 image of a time I did that, I know I did it at least once
+
+And now your brain doesn't know which line is real and which one is fake. Reality falls away. Left is right, green is red, your hands sweat without provocation. _Welcome to every day of my life._
+
+### In Conclusion ###
+
+I'm almost done with the "basics" section of Draw A Box. After this, I'll progress to the "try to draw actual real life things with what you've been taught" lessons. If I just continue to not ever make any mistakes at all, I should be golden.
+
+image of the most egregious mistake I can possibly find
+
+YES THANK YOU
+
+-Paul
