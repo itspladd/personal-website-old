@@ -26,7 +26,11 @@ layout: default
 <section>
     <article>
         <h3>Chapter {{ page.chapter }}: {{ page.chapter-title }}</h3>
-        <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
+        <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}
+        {% if page.updatedate %}
+        | Last updated: {{ page.updatedate }}
+        {% endif %}
+        </span>
         {{ content }}
         {% include prev-next.html %}
     </article>
