@@ -1,6 +1,7 @@
 ---
 title: "PLADD (The Website)"
 shortdesc: "Nerdy stuff about the workings of itspladd.com. Clearly the most meta post on the entire site."
+updatedate: "March 11, 2016"
 preview-image:
   file: "banner-itspladd-website-code-project.png"
   title: "Look at that sweet, sweet cross-fade."
@@ -41,9 +42,6 @@ You know. Standard programmer stuff.
 
 If you have a suggestion for the site, email <a href="mailto:support@itspladd.com">support@itspladd.com</a> with a feature request. If I like it, I'll add it to the list!
 
-* Build Coding Section
-    * OH WAIT NO I ALREADY DID THAT
-    * IT'S THIS THING RIGHT HERE
 * Build Art Section
     * The Art section is the last section of the site without unique layouts or post formats. I'd like to have the section capable of handling both individual images and collections of images.
 * Sidebar Icon for Small Windows
@@ -56,6 +54,13 @@ If you have a suggestion for the site, email <a href="mailto:support@itspladd.co
     * Uploading (mostly) raw photos of sketches makes for big huge images. Currently, I link to the full (~10 MB) image for you to open if you want, and then put smaller versions of the image in the posts themselves. Opening giant images in other tabs is probably the correct functionality going forward, but it would be nice to allow someone to click a thumbnail to view a medium-size version of the image as an overlay, and then click to get back to the page's main content.
 * Fully Integrate With Social Media
     * It'd be cool to have a (non-obtrusive) way for people to immediately share a blog post, drawing, story, or code project on Facebook/Twitter/Tumblr. Right now all I have are the buttons linking to my respective accounts at the top of the site.
+* Comments
+    * Enable some sort of commenting system on blog posts.
+
+Completed features:
+
+* Build Coding Section (Moved March 11, 2016)
+    * It's right here. You're on it.
 
 ### Known Issues ###
 

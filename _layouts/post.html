@@ -5,7 +5,11 @@ layout: blog
     <section>
         <article>
             <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
-            <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span>
+            <span class="date-author">Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}
+            {% if page.updatedate %}
+            | Last updated: {{ page.updatedate }}
+            {% endif %}
+            </span>
             {% include preview-banner.html %}
             {{ content }}
             {% include prev-next.html %}
