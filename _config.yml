@@ -4,7 +4,6 @@
 #paginate_path: "/blog/page:num/"
 
 exclude: [post-template.md]
-incremental: TRUE
 
 url: "http://www.itspladd.com"
 name: "PLADD"
