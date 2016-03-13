@@ -2,8 +2,11 @@
 title: "3D Intersections Are Maddening"
 shortdesc: "Paul can't figure out how shapes work. Also he drew himself with muttonchops."
 preview-image:
-  width: "826"
-  height: "700"
+  file: "banner-intersections-maddening.png"
+  title: "We'll talk about these cubes later. They are driving me insane."
+  alt: "A drawing of two intersecting cubes."
+  width: "800"
+  height: "420"
 ---
 
 Thank goodness, I thought to myself. The nightmare was over. I was done with [dissections]({% post_url 2016-02-26-textures-part-two %}). I had stopped dreaming of lamprey watermelons everywhere, appearing when you least expect them. It would be smooth sailing from here on out, because that is how life works: you finish something hard, and then everything else is easy for the rest of your life.<!--more-->

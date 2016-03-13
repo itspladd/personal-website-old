@@ -1,5 +1,10 @@
 ---
 title: "A Whole Page of Textures! Did Paul Learn Anything?"
+shortdesc: "Yes he did. He sort of definitely maybe did."
+preview-image:
+  file: "banner-did-paul-learn-textures.png"
+  title: "I found one of these things in my backyard."
+  alt: "A drawing of an oblong shape with semi-detailed textures applied seemingly at random. One end is patterned with a metal exterior and wooden interior. The center has an interior like an onion. The far end is patterned with leather on the exterior and a citrus half on the interior."
 ---
 
 <aside class="midtext-right">

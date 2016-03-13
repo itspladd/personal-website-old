@@ -1,5 +1,12 @@
 ---
 title: "Drawing Protip: Textures Suck."
+shortdest: "Try to draw a lifelike texture with almost no experience? Sure. Why not."
+preview-image:
+  file: "banner-textures-suck.png"
+  width: "815"
+  height: "932"
+  title: "Nothing went wrong. Nothing could have possibly gone wrong."
+  alt: "An drawing of a scaly texture labeled as \"leather,\" with \"NAILED IT\" superimposed in red."
 ---
 
 <aside class="midtext-right">

@@ -1,5 +1,10 @@
 ---
 title: "Textures, Part 2: Paul Draws Your Nightmares"
+shortdesc: "All I see is lamprey watermelons now. Everywhere."
+preview-image:
+  file: "banner-paul-draws-nightmares.png"
+  title: "If you ever find one of these in your attic, call an exterminator. And a priest. Actually, it's better if the exterminator is ALSO a priest."
+  alt: "A drawing of an oblong shape with detailed patterns applied to various parts. On section has a tomato interior with a tree-like exterior. Another section shows the inside of a pumpkin with a knit wool exterior. The third section shows a blue-cheese interior with a sandy texture on the outside."
 ---
 
 I have to give credit to a friend of mine for the title of this post. He had this to say about my [first dissection exercise]({% post_url 2016-02-18-did-paul-learn-textures %}):
