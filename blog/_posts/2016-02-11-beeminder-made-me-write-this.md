@@ -4,7 +4,7 @@ title: "Beeminder Made Me Write This"
 
 <aside class="midtext-right">
     <figure>
-        <img alt="NOT THE BEES" src="{{ site.baseurl }}/assets/beeminder-cage.png"/>
+        <img alt="NOT THE BEES" src="{{ site.baseurl }}{{ site.assetspath }}beeminder-cage.png"/>
         <figcaption>Beeminder in a nutshell.</figcaption>
     </figure>
 </aside>

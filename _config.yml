@@ -14,9 +14,13 @@ author:
 permalink: pretty
 
 excerpt_separator: <!--more-->
+assetspath: "/assets/"
 bannerpath: "/assets/banners/"
 jspath: "/assets/js/"
 iconpath: "/assets/icons/"
+drawaboxpath: "/assets/drawabox/"
+sketchpath: "/assets/sketch/"
+comicspath: "/assets/comics/"
 
 defaults:
   -
