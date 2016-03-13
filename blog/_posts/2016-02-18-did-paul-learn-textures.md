@@ -1,10 +1,15 @@
 ---
 title: "A Whole Page of Textures! Did Paul Learn Anything?"
+shortdesc: "Yes he did. He sort of definitely maybe did."
+preview-image:
+  file: "banner-did-paul-learn-textures.png"
+  title: "I found one of these things in my backyard."
+  alt: "A drawing of an oblong shape with semi-detailed textures applied seemingly at random. One end is patterned with a metal exterior and wooden interior. The center has an interior like an onion. The far end is patterned with leather on the exterior and a citrus half on the interior."
 ---
 
 <aside class="midtext-right">
     <figure>
-        <a href="{{ site.baseurl }}/assets/dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="{{ site.baseurl }}/assets/dissection1-whole.png" height="250"/></a>
+        <a href="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-whole.png" target="blank"><img alt="Page 1 of dissections." src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-whole.png" height="250"/></a>
         <figcaption>BEHOLD. Click it to see the full image.</figcaption>
     </figure>
 </aside>
@@ -21,14 +26,14 @@ The main reason for #3 is that every texture is SO DIFFERENT from every other te
 
 I just finished the first of two total pages. There are three dissections on the page. I attempted to apply a total of _sixteen_ different textures. That's sixteen cycles of "what no how do I do this, oh maybe this works, no, no it doesn't, oh main wait this looks good OKAY TIME FOR SOMETHING NEW."
 
-After all of that, what better catharsis than to share the ride? <a href="{{ site.baseurl }}/assets/dissection1-whole-fullsize.png" target="blank">Click here</a> for a Big McLargeHuge version of the whole page, if you want all of the details.
+After all of that, what better catharsis than to share the ride? <a href="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-whole-fullsize.png" target="blank">Click here</a> for a Big McLargeHuge version of the whole page, if you want all of the details.
 
 ### FORM #1 ###
 
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Baby's first dissection. Wait, what's that?" src="{{ site.baseurl }}/assets/dissection1-part1.png"/>
+        <img alt="Baby's first dissection. Wait, what's that?" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part1.png"/>
     </figure>
 </aside>
 
@@ -36,7 +41,7 @@ Holy mother of yikes. Are you seeing this?
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The label says tennis ball, but my mind says NO NO NO" src="{{ site.baseurl }}/assets/dissection1-part1-tennis.png"/>
+        <img alt="The label says tennis ball, but my mind says NO NO NO" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part1-tennis.png"/>
     </figure>
 </aside>
 
@@ -44,7 +49,7 @@ No, seriously. LOOK AT IT
 
 <aside class="midtext-center">
     <figure>
-        <img alt="WITNESS MY LACK OF DRAWING AND DESPAIR" src="{{ site.baseurl }}/assets/dissection1-part1-tennis-zoom.png"/>
+        <img alt="WITNESS MY LACK OF DRAWING AND DESPAIR" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part1-tennis-zoom.png"/>
     </figure>
 </aside>
 
@@ -60,7 +65,7 @@ Attempting to draw a metal shear fracture was sheer (hah!) madness. How do you c
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.baseurl }}/assets/dissection1-part2.png"/>
+        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part2.png"/>
     </figure>
 </aside>
 
@@ -68,7 +73,7 @@ Hey, look! It's our old friend, Leather! How's it going, bud? Ha&nbsp;ha you are
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}/assets/dissection1-part2-implied-leather.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part2-implied-leather.png"/>
     </figure>
 </aside>
 
@@ -76,7 +81,7 @@ The only new thing here is that I tried to do more of an "implied" texture to th
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}/assets/dissection1-part2-orange.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part2-orange.png"/>
     </figure>
 </aside>
 
@@ -84,7 +89,7 @@ I'm really happy with how I captured the sectional shape of the orange through t
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}/assets/dissection1-part2-onion.png"/>
+        <img alt="Implied leather texture in the second dissection." src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part2-onion.png"/>
     </figure>
 </aside>
 
@@ -92,7 +97,7 @@ This is either an onion or yet another STD warning. I was trying to capture the 
 
 <aside class="midtext-center">
     <figure>
-        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.baseurl }}/assets/dissection1-part2-metal-log.png"/>
+        <img alt="The second dissection. Things are looking up! Ish!" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part2-metal-log.png"/>
     </figure>
 </aside>
 
@@ -104,7 +109,7 @@ The metal looks shiny, which is what I wanted. Gold star, Paul.
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Third dissection. It's...okay?" src="{{ site.baseurl }}/assets/dissection1-part3.png"/>
+        <img alt="Third dissection. It's...okay?" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part3.png"/>
     </figure>
 </aside>
 
@@ -116,7 +121,7 @@ The cranberry kind of looks like a cranberry, or possibly a button.
 
 <aside class="midtext-center">
     <figure>
-        <img alt="Furry bread drawing. NO, NOT THAT KIND OF FURRY." src="{{ site.baseurl }}/assets/dissection1-part3-bread-fur.png"/>
+        <img alt="Furry bread drawing. NO, NOT THAT KIND OF FURRY." src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection1-part3-bread-fur.png"/>
     </figure>
 </aside>
 

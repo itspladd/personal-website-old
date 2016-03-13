@@ -11,9 +11,16 @@ author:
   name: pladd
   email: itspladd@gmail.com
 
-excerpt_separator: <!--more-->
-
 permalink: pretty
+
+excerpt_separator: <!--more-->
+assetspath: "/assets/"
+bannerpath: "/assets/banners/"
+jspath: "/assets/js/"
+iconpath: "/assets/icons/"
+drawaboxpath: "/assets/drawabox/"
+sketchpath: "/assets/sketch/"
+comicspath: "/assets/comics/"
 
 defaults:
   -
@@ -23,6 +30,7 @@ defaults:
       layout: "default"
       title: "PLADD: Paul Ladd Does Words, Art, and Code"
       shortdesc: "Your one-stop shop for blog posts about drawing and stories containing bad words."
+      author: "pladd"
       preview-image:
         file: "banner.png"
         type: "image/png"
@@ -36,21 +44,18 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "pladd"
   -
     scope:
       path: "coding"
       type: "posts"
     values:
       layout: "code-project"
-      author: "pladd"
   -
     scope:
       path: "writing/rpg_stories"
       type: "posts"
     values:
       layout: "chapter"
-      author: "pladd"
   -
     scope:
       path: "writing/rpg_stories/grave-ambush-tirisvale"
@@ -65,3 +70,19 @@ defaults:
       title: "Field Trip to the Ancient Dwarven Prison Camp"
       story: "the Terrence Saga"
       part: "X"
+  -
+    scope:
+      path: "art"
+      type: "posts"
+    values:
+      layout: "art-collection"
+  -
+    scope:
+      path: "art/non-artistic-origins"
+    values:
+      title: "Paul's Non-Artistic Origins"
+  -
+    scope:
+      path: "art/drawabox"
+    values:
+      title: "Draw A Box Exercises"

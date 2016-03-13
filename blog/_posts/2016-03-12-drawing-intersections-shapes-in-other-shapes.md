@@ -13,7 +13,7 @@ Paul drew more intersections! Look at that image up there. Those words are defin
 
 <aside class="midtext-center">
     <figure>
-        <img title="Fun game: find where the intersection actually is. Whoops! You can't. Thanks for playing!" alt="A cube intersecting with a circle, with LOL WUT superimposed over messy linework." src="{{ site.baseurl }}/assets/intersection-cube-circle-messy.png"/>
+        <img title="Fun game: find where the intersection actually is. Whoops! You can't. Thanks for playing!" alt="A cube intersecting with a circle, with LOL WUT superimposed over messy linework." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cube-circle-messy.png"/>
     </figure>
 </aside>
 
@@ -21,7 +21,7 @@ Okay, fine. So I may have made _one_ mistake&mdash;
 
 <aside class="midtext-center">
     <figure>
-        <img title="One?" alt="A drawing of a cube intersecting with a cylinder with obvious mistakes pointed out." src="{{ site.baseurl }}/assets/intersection-cube-messy.png"/>
+        <img title="One?" alt="A drawing of a cube intersecting with a cylinder with obvious mistakes pointed out." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cube-messy.png"/>
     </figure>
 </aside>
 
@@ -29,7 +29,7 @@ Okay maybe more than one&mdash;
 
 <aside class="midtext-center">
     <figure>
-        <img title="Seventeen?" alt="A confusing drawing of intersections between 3D shapes, with the words WHAT EVEN IS THIS superimposed." src="{{ site.baseurl }}/assets/intersection-indecipherable.png"/>
+        <img title="Seventeen?" alt="A confusing drawing of intersections between 3D shapes, with the words WHAT EVEN IS THIS superimposed." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-indecipherable.png"/>
     </figure>
 </aside>
 
@@ -39,7 +39,7 @@ See, last time, it was [just boxes]({% post_url 2016-03-04-3d-intersections-madd
 
 <aside class="midtext-center">
     <figure>
-        <img title="Mmmhm." alt="A drawing of intersecting cubes with extra lines that make the intersections incomprehensible." src="{{ site.baseurl }}/assets/intersection-cubes-indecipherable.png"/>
+        <img title="Mmmhm." alt="A drawing of intersecting cubes with extra lines that make the intersections incomprehensible." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cubes-indecipherable.png"/>
     </figure>
 </aside>
 
@@ -51,7 +51,7 @@ When you start bringing three-dimensional curves into the mix, things tend to ge
 
 <aside class="midtext-center">
     <figure>
-        <img title="The whole package, sans the cubes from last time." alt="Three drawn pages of intersecting 3D shapes." src="{{ site.baseurl }}/assets/intersections-2-3-4-combined.png"/>
+        <img title="The whole package, sans the cubes from last time." alt="Three drawn pages of intersecting 3D shapes." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersections-2-3-4-combined.png"/>
     </figure>
 </aside>
 
@@ -59,11 +59,11 @@ Of course, this is all part of the whole "learning" thing. I'm supposed to make 
 
 <aside class="midtext-center">
     <figure>
-        <img title="PAUL, YOU MONSTER" alt="A badly-drawn cone with a sad face on it." src="{{ site.baseurl }}/assets/intersection-cone-cylinders-sadface.png"/>
+        <img title="PAUL, YOU MONSTER" alt="A badly-drawn cone with a sad face on it." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cone-cylinders-sadface.png"/>
     </figure>
 </aside>
 
-I am, of course, happy with some of the intersections I drew, and the exercises definitely got me a lot more comfortable with trying to draw in three-dimensional space. But why dwell on the positives? Let's go into the major mistakes I found across all of my intersection exercises. As always, here are the links to the full pages: <a target="_blank" href="{{ site.baseurl }}/assets/intersection1-fullsize.png">one</a>, <a target="_blank" href="{{ site.baseurl }}/assets/intersection2-fullsize.png">two</a>, <a target="_blank" href="{{ site.baseurl }}/assets/intersection3-fullsize.png">three</a>, and <a target="_blank" href="{{ site.baseurl }}/assets/intersection4-fullsize.png">four</a>.
+I am, of course, happy with some of the intersections I drew, and the exercises definitely got me a lot more comfortable with trying to draw in three-dimensional space. But why dwell on the positives? Let's go into the major mistakes I found across all of my intersection exercises. As always, here are the links to the full pages: <a target="_blank" href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1-fullsize.png">one</a>, <a target="_blank" href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection2-fullsize.png">two</a>, <a target="_blank" href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection3-fullsize.png">three</a>, and <a target="_blank" href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection4-fullsize.png">four</a>.
 
 ### Mistake 1: Bad, Bad Ellipses ###
 
@@ -71,13 +71,13 @@ This is entirely a mechanical practice issue. Look at this thing:
 
 <aside class="midtext-center">
     <figure>
-        <img title="Fun game #2: Follow the blob that the middle line represents and laugh at me. That's it. You win!" alt="A drawing of a sphere with an obvious stray line that contradicts the 3D shape of the sphere." src="{{ site.baseurl }}/assets/intersection-circle-stray-line.png"/>
+        <img title="Fun game #2: Follow the blob that the middle line represents and laugh at me. That's it. You win!" alt="A drawing of a sphere with an obvious stray line that contradicts the 3D shape of the sphere." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-circle-stray-line.png"/>
     </figure>
 </aside>
 
 <aside class="midtext-right">
     <figure>
-        <img title="HI AGAIN" alt="A drawing of a sphere, but an obvious stray line makes the shape look odd." src="{{ site.baseurl }}/assets/intersection-circle-stray-line-2.png"/>
+        <img title="HI AGAIN" alt="A drawing of a sphere, but an obvious stray line makes the shape look odd." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-circle-stray-line-2.png"/>
         <figcaption>Here's this one again from earlier, in case you forgot. You didn't forget? You'll never forget? Your dreams will be haunted forever? #sorrynotsorry</figcaption>
     </figure>
 </aside>
@@ -89,7 +89,7 @@ Sometimes this isn't an issue, though. Check out this bad boy:
 
 <aside class="midtext-center">
     <figure>
-        <img title="Oh. Oh my. Whatcha doin' later, ellipse?" alt="A well-drawn ellipse." src="{{ site.baseurl }}/assets/intersection-circle-tight.png"/>
+        <img title="Oh. Oh my. Whatcha doin' later, ellipse?" alt="A well-drawn ellipse." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-circle-tight.png"/>
     </figure>
 </aside>
 
@@ -107,7 +107,7 @@ Secondly, I both did and _didn't_ draw enough ellipses in these exercises. See, 
 
 <aside class="midtext-center">
     <figure>
-        <img title="Hi again, bad ellipses. I haven't seen you for, what, ten seconds? Gosh, it's been forever." alt="A labeled example of a flat plane intersecting with a cylinder, and the curve formed by their intersection." src="{{ site.baseurl }}/assets/intersection-tube-plane-example.png"/>
+        <img title="Hi again, bad ellipses. I haven't seen you for, what, ten seconds? Gosh, it's been forever." alt="A labeled example of a flat plane intersecting with a cylinder, and the curve formed by their intersection." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-tube-plane-example.png"/>
     </figure>
 </aside>
 
@@ -115,7 +115,7 @@ So when a curved shape intersects, it can help a lot to actually draw the result
 
 <aside class="midtext-center">
     <figure>
-        <img title="Good Paul!" alt="Intersections between curved 3D shapes. The curved intersecting lines are consistent because of lightly-drawn reference curves." src="{{ site.baseurl }}/assets/intersection-inner-ellipses.png"/>
+        <img title="Good Paul!" alt="Intersections between curved 3D shapes. The curved intersecting lines are consistent because of lightly-drawn reference curves." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-inner-ellipses.png"/>
     </figure>
 </aside>
 
@@ -123,7 +123,7 @@ Sometimes!
 
 <aside class="midtext-center">
     <figure>
-        <img title="Bad Paul!" alt="Intersections between curved 3D shapes. The curved intersecting lines aren't consistent, and make the intersection look strange." src="{{ site.baseurl }}/assets/intersection-no-inner-ellipses.png"/>
+        <img title="Bad Paul!" alt="Intersections between curved 3D shapes. The curved intersecting lines aren't consistent, and make the intersection look strange." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-no-inner-ellipses.png"/>
     </figure>
 </aside>
 
@@ -139,7 +139,7 @@ Why is that a problem? Well, when I come in later to draw the intersection betwe
 
 <aside class="midtext-center">
     <figure>
-        <img title="HELLO AGAIN" alt="A cube intersecting with a sphere, but the intersection is hard to distinguish from the shape of the sphere." src="{{ site.baseurl }}/assets/intersection-cube-circle-messy.png"/>
+        <img title="HELLO AGAIN" alt="A cube intersecting with a sphere, but the intersection is hard to distinguish from the shape of the sphere." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cube-circle-messy.png"/>
     </figure>
 </aside>
 
@@ -151,7 +151,7 @@ Look at this so-called "cone."
 
 <aside class="midtext-center">
     <figure>
-        <img title="ugh." alt="A cone drawn in ink with an obvious extra line, which confuses the viewer." src="{{ site.baseurl }}/assets/intersection-cone-extra-line.png"/>
+        <img title="ugh." alt="A cone drawn in ink with an obvious extra line, which confuses the viewer." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cone-extra-line.png"/>
     </figure>
 </aside>
 
@@ -163,7 +163,7 @@ Sometimes this would even happen when I was attempting to darken an intersection
 
 <aside class="midtext-center">
     <figure>
-        <img title="Look where you're drawing, Paul. Listen to your own advice, Paul." alt="Intersecting shapes drawn such that it's hard to tell which shape is in front, and which is behind." src="{{ site.baseurl }}/assets/intersection-cone-darkened-lines.png"/>
+        <img title="Look where you're drawing, Paul. Listen to your own advice, Paul." alt="Intersecting shapes drawn such that it's hard to tell which shape is in front, and which is behind." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-cone-darkened-lines.png"/>
     </figure>
 </aside>
 
@@ -175,7 +175,7 @@ I'm almost done with the "basics" section of Draw A Box. After this, I'll progre
 
 <aside class="midtext-center">
     <figure>
-        <img title="Seems pretty likely!" alt="Poorly-drawn intersecting shapes, with PAUL IS A LIAR superimposed." src="{{ site.baseurl }}/assets/intersection-paul-lies.png"/>
+        <img title="Seems pretty likely!" alt="Poorly-drawn intersecting shapes, with PAUL IS A LIAR superimposed." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection-paul-lies.png"/>
     </figure>
 </aside>
 

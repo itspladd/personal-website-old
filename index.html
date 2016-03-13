@@ -25,7 +25,7 @@ root: "true"
         <span class="date-author">Posted by {{ frontblogpost.author }} on {{ frontblogpost.date | date: '%B %d, %Y' }}</span>
         <aside class="midtext-center">
             <figure>
-                <img src="{{ site.baseurl }}/assets/{{ frontblogpost.preview-image.file }}"></img>
+                <img src="{{ site.baseurl }}{{ site.bannerpath }}{{ frontblogpost.preview-image.file }}"></img>
             </figure>
         </aside>
         {{ frontblogpost.excerpt }}
@@ -55,7 +55,7 @@ root: "true"
         <h3><a href="{{ frontcodeproject.url }}">{{ frontcodeproject.title }}</a></h3>
         <aside class="midtext-right">
             <figure>
-                <img src="{{ site.baseurl }}/assets/{{ frontcodeproject.preview-image.file }}"></img>
+                <img src="{{ site.baseurl }}{{ site.bannerpath }}{{ frontcodeproject.preview-image.file }}"></img>
             </figure>
         </aside>
         {{ frontcodeproject.excerpt }}

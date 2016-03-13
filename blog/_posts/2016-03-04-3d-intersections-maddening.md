@@ -1,17 +1,19 @@
 ---
 title: "3D Intersections Are Maddening"
 shortdesc: "Paul can't figure out how shapes work. Also he drew himself with muttonchops."
-preview-image: 
-  file: "intersection1-diagram-original.png"
-  width: "826"
-  height: "700"
+preview-image:
+  file: "banner-intersections-maddening.png"
+  title: "We'll talk about these cubes later. They are driving me insane."
+  alt: "A drawing of two intersecting cubes."
+  width: "800"
+  height: "420"
 ---
 
 Thank goodness, I thought to myself. The nightmare was over. I was done with [dissections]({% post_url 2016-02-26-textures-part-two %}). I had stopped dreaming of lamprey watermelons everywhere, appearing when you least expect them. It would be smooth sailing from here on out, because that is how life works: you finish something hard, and then everything else is easy for the rest of your life.<!--more-->
 
 <aside class="midtext-center">
     <figure>
-        <img title="PAUL WAS WRONG FOR THE FIRST TIME EVER" alt="Lots of cubes drawn on paper with the words &quot;ACTUALLY NO&quot; superimposed in blue" src="{{ site.baseurl }}/assets/intersections-actually-no.png"/>
+        <img title="PAUL WAS WRONG FOR THE FIRST TIME EVER" alt="Lots of cubes drawn on paper with the words &quot;ACTUALLY NO&quot; superimposed in blue" src="{{ site.baseurl }}{{ site.drawaboxpath }}intersections-actually-no.png"/>
     </figure>
 </aside>
 
@@ -25,7 +27,7 @@ It may be hard to understand why I moved from textures to boxes without a proper
 
 <aside class="midtext-right">
     <figure>
-        <img title="This is actually an eerily accurate portrait of my Bizarro World twin, Lupa Dald." alt="A partially finished self-portrait in pencil on white paper, with obvious proportion errors." src="{{ site.baseurl }}/assets/observational-self-portrait.png"/>
+        <img title="This is actually an eerily accurate portrait of my Bizarro World twin, Lupa Dald." alt="A partially finished self-portrait in pencil on white paper, with obvious proportion errors." src="{{ site.baseurl }}{{ site.sketchpath }}observational-self-portrait.png"/>
         <figcaption>This is a (ludicrously bad) example of observational drawing from a month ago. Note the absence of any defined shapes; rather, I was trying to capture the light/dark regions of my face as I saw them. Also, I accidentally gave myself muttonchops.</figcaption>
     </figure>
 </aside>
@@ -52,7 +54,7 @@ I have drawn
 
 <aside class="midtext-center">
     <figure>
-        <img title="I have barely managed to preserve my sanity while drawing all of these." src="{{ site.baseurl }}/assets/boxes-plotted-perspective.png"/>
+        <img title="I have barely managed to preserve my sanity while drawing all of these." src="{{ site.baseurl }}{{ site.drawaboxpath }}boxes-plotted-perspective.png"/>
     </figure>
 </aside>
 
@@ -60,7 +62,7 @@ SO
 
 <aside class="midtext-center">
     <figure>
-        <img title="I barely preserve" alt="" src="{{ site.baseurl }}/assets/boxes-singlepoint-freehand.png"/>
+        <img title="I barely preserve" alt="" src="{{ site.baseurl }}{{ site.drawaboxpath }}boxes-singlepoint-freehand.png"/>
     </figure>
 </aside>
 
@@ -68,7 +70,7 @@ MANY
 
 <aside class="midtext-center">
     <figure>
-        <img title="I preserve" src="{{ site.baseurl }}/assets/boxes-rotated-freehand.png"/>
+        <img title="I preserve" src="{{ site.baseurl }}{{ site.drawaboxpath }}boxes-rotated-freehand.png"/>
     </figure>
 </aside>
 
@@ -76,7 +78,7 @@ BOXES.
 
 <aside class="midtext-center">
     <figure>
-        <img title="I serve" src="{{ site.baseurl }}/assets/boxes-organic-perspective-freehand.png"/>
+        <img title="I serve" src="{{ site.baseurl }}{{ site.drawaboxpath }}boxes-organic-perspective-freehand.png"/>
     </figure>
 </aside>
 
@@ -92,12 +94,12 @@ Oh Paul. You poor fool.
 
 <aside class="midtext-right">
     <figure>
-        <a href="{{ site.baseurl }}/assets/intersection1.png" target="_blank"><img alt="A very cluttered drawing of boxes intersecting with each other." title="B   O   X   E   S" src="{{ site.baseurl }}/assets/intersection1.png"/></a>
+        <a href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1.png" target="_blank"><img alt="A very cluttered drawing of boxes intersecting with each other." title="B   O   X   E   S" src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1.png"/></a>
         <figcaption>Pictured: chaos, the eater of worlds. Click to see a larger version.</figcaption>
     </figure>
 </aside>
 
-Ruh roh. That is one confusing as hell drawing. As usual, <a href="{{ site.baseurl }}/assets/intersections-fullsize.png" target="_blank">click here</a> for the ginormous version of this exercise.
+Ruh roh. That is one confusing as hell drawing. As usual, <a href="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1-fullsize.png" target="_blank">click here</a> for the ginormous version of this exercise.
 
 Okay, first problem, as noted in the drawing itself: too many damned boxes. "Fill up the page," the instructions said. "Sounds great!" I replied. "So you mean, like, put a thousand boxes right on top of each other?" "What? Jesus, no, that's not what I meant at all," said the instructions.
 
@@ -111,7 +113,7 @@ Part of the way through the exercise, I went to a different page in my sketchboo
 
 <aside class="midtext-center">
     <figure>
-        <img title="Surely this indisputably settles the matter forever." src="{{ site.baseurl }}/assets/intersection1-diagram.png"/>
+        <img title="Surely this indisputably settles the matter forever." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1-diagram.png"/>
     </figure>
 </aside>
 
@@ -121,7 +123,7 @@ And then I looked back at the exercise while writing this post, and _everything 
 
 <aside class="midtext-center">
     <figure>
-        <img title="AGHGHGHGH." src="{{ site.baseurl }}/assets/intersection1-diagram-original.png"/>
+        <img title="AGHGHGHGH." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1-diagram-original.png"/>
     </figure>
 </aside>
 
@@ -129,7 +131,7 @@ But later, when I looked at it again, I started to see this:
 
 <aside class="midtext-center">
     <figure>
-        <img title="AGHGGHLLHLGLLGLHGHGHHHHHH." src="{{ site.baseurl }}/assets/intersection1-diagram-alt.png"/>
+        <img title="AGHGGHLLHLGLLGLHGHGHHHHHH." src="{{ site.baseurl }}{{ site.drawaboxpath }}intersection1-diagram-alt.png"/>
     </figure>
 </aside>
 
@@ -139,7 +141,7 @@ Maybe I'll figure out more as I go along. This is page one of _four_. Next time,
 
 <aside class="midtext-center">
     <figure>
-        <img title="HI THERE" src="{{ site.baseurl }}/assets/dissection2-lampreymelon.png"/>
+        <img title="HI THERE" src="{{ site.baseurl }}{{ site.drawaboxpath }}dissection2-lampreymelon.png"/>
     </figure>
 </aside>
 
