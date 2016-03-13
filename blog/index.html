@@ -9,7 +9,7 @@ title: "Paul Ladd does a blog"
         <span class="date-author">Posted by {{ site.categories.blog[0].author }} on {{ site.categories.blog[0].date | date: '%B %d, %Y' }}</span>
         <aside class="midtext-center">
             <figure>
-                <img src="{{ site.baseurl }}/assets/{{ site.categories.blog[0].preview-image.file }}"></img>
+                <img src="{{ site.baseurl }}{{ bannerpath }}{{ site.categories.blog[0].preview-image.file }}"></img>
             </figure>
         </aside>
         {{ site.categories.blog[0].content }}
