@@ -1,0 +1,21 @@
+- title: "Draw A Box Exercises"
+  shortname: "drawabox" # album shortname is also the filepath within /assets where images are
+  sections:
+  - title: "Lesson 1"
+    shortname: "lesson1"
+    files:
+    - 
+  - title: "Lesson 2"
+    shortname: "lesson2"
+  - title: "Lesson 3"
+    shortname: "lesson3"
+  - title: "Lesson 3"
+    shortname: "lesson3"
+
+- title: "Non-Artistic Origins"
+  shortname: "non-artistic-origins"
+  sections:
+  - title: "Old Sketches"
+    shortname: "sketch"
+  - title: "Digital Ampersand"
+    shortname: "digitamp"
