@@ -7,15 +7,25 @@
     - 
   - title: "Lesson 2"
     shortname: "lesson2"
+    files:
+    - 
   - title: "Lesson 3"
     shortname: "lesson3"
+    files:
+    - 
   - title: "Lesson 3"
     shortname: "lesson3"
+    files:
+    - 
 
 - title: "Non-Artistic Origins"
   shortname: "non-artistic-origins"
   sections:
   - title: "Old Sketches"
     shortname: "sketch"
+    files:
+    - 
   - title: "Digital Ampersand"
     shortname: "digitamp"
+    files:
+    - 
