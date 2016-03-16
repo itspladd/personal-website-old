@@ -19,8 +19,8 @@ bannerpath: "/assets/banners/"
 jspath: "/assets/js/"
 iconpath: "/assets/icons/"
 drawaboxpath: "/assets/drawabox/"
-sketchpath: "/assets/sketch/"
-comicspath: "/assets/comics/"
+sketchpath: "/assets/non-artistic-origins/sketch/"
+digitamppath: "/assets/non-artistic-origins/digitamp/"
 
 defaults:
   -

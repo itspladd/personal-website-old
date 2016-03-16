@@ -11,7 +11,7 @@ preview-image:
 
 <aside class="midtext-right">
     <figure>
-        <img alt="An old comic panel" src="{{ site.baseurl }}{{ site.comicspath }}drawing-example-old-comic.png"/>
+        <img alt="An old comic panel" src="{{ site.baseurl }}{{ site.digitamppath }}drawing-example-old-comic.png"/>
         <figcaption>An old comic panel of mine, supposedly portraying two people falling into giant tubes. It made sense at the time.</figcaption>
     </figure>
 </aside>
