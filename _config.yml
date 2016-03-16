@@ -70,19 +70,3 @@ defaults:
       title: "Field Trip to the Ancient Dwarven Prison Camp"
       story: "the Terrence Saga"
       part: "X"
-  -
-    scope:
-      path: "art"
-      type: "posts"
-    values:
-      layout: "art-collection"
-  -
-    scope:
-      path: "art/non-artistic-origins"
-    values:
-      title: "Paul's Non-Artistic Origins"
-  -
-    scope:
-      path: "art/drawabox"
-    values:
-      title: "Draw A Box Exercises"
