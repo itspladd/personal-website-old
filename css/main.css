@@ -150,13 +150,16 @@ article h2:first-child a:hover, h3:first-child a:hover {
 }
 
 article.artbox {
-    background-color: grey;
     margin: 10px 0px 0px 10px;
     display: inline-block;
-    width: 250px;
+    width: 253px;
     height: 150px;
     float: left;
     text-align: center;
+}
+
+article.artbox h2 a {
+    color: #00032F;
 }
 
 article.artbox:last-child {
