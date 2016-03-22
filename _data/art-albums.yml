@@ -1,4 +1,5 @@
-# To access data in an album, use "[actual album name].title" OR "for album in site.art-albums, album[1].title
+# To access data in an album, use "[actual album name].title" OR "for album in site.art-albums, album[1].title.
+# It's weird, but for some reason that's the only way to make it work in a for loop.
 
 drawabox:
   title: "Draw A Box Exercises"
