@@ -149,7 +149,21 @@ article h2:first-child a:hover, h3:first-child a:hover {
     text-decoration: none;
 }
 
-article p img {
+article.artbox {
+    margin: 10px 0px 0px 10px;
+    display: inline-block;
+    width: 253px;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+
+article.artbox h2 a {
+    color: #00032F;
+}
+
+article.artbox:last-child {
+    margin: 10px 0px 10px 10px;
 }
 
 /******** END ARTICLE STYLE *************************************/
