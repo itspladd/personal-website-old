@@ -11,7 +11,7 @@ preview-image:
 
 I’m doing it again. For, like, the _bajillionth_ time. YES, THAT’S A REAL NUMBER.
 
-"It" is a chronic problem I have: I’ll start doing something, and I’ll be having fun with it. So much fun! “You did it, Paul!” I think to myself. “You found the one thing that you will never be bored of ever, and you will do this forever and your life will be awesome until you are dead, at which point you will not care because existence is temporary and your ridiculously improbable consciousness isn't even a single blip in the radar display of the universe. Gold star!”
+Here's how it goes. I’ll start doing something, and I’ll be having fun with it. So much fun! “You did it, Paul!” I think to myself. “You found the one thing that you will never be bored of ever, and you will do this forever and your life will be awesome until you are dead, at which point you will not care because existence is temporary and your ridiculously improbable consciousness isn't even a single blip in the radar display of the universe. Gold star!”
 
 I can’t remember the first time it happened to me—the first time I was consumed so thoroughly by an idea or a project that I would toil away for hours, losing track of time. You’ve probably felt the same way before. You know exactly what you want to do and how to do it, and you return to it day after day. It’s a glorious feeling.
 
