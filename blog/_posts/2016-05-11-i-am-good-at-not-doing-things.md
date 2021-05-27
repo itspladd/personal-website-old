@@ -15,7 +15,7 @@ preview-image:
     I wrote this post and its successor in the middle of a severe depressive episode. At the time, I had no idea what depression was, really, besides "sometimes people get sad"; and I certainly didn't think of depression as something that could affect me personally.
   </p>
   <p>
-    I've changed a lot since then, and I'm doing a lot better with my outlook towards myself and my confidence in my ability to achieve my goals! I've decided to keep this post visible as a reminder to myself of where I've been and how far I've come since then.
+    I've changed a lot since then, and I'm doing a lot better with my outlook towards myself and my confidence in my ability to achieve my goals! I'm aware of my depression and working hard to manage it properly instead of letting it dictate my life. I've decided to keep this post visible as a reminder to myself of where I've been and how far I've come since then.
   </p>
 </aside>
 
