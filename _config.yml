@@ -5,8 +5,8 @@
 
 exclude: [post-template.md]
 
-url: "http://www.itspladd.com/personal-website-old"
-baseurl: "http://www.itspladd.com/personal-website-old"
+url: "http://www.itspladd.com"
+baseurl: "/personal-website-old"
 name: "PLADD"
 author:
   name: pladd
