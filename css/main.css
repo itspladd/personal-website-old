@@ -226,6 +226,13 @@ aside.midtext-center {
     text-align: center;
 }
 
+aside.midtext-center-context {
+  background-color: #AF753B;
+  border-radius: 5px;
+  margin: 0px 10px 0px 10px;
+  padding: 5px 0px 3px 0px;
+}
+
 aside.midtext-center img {
     border: none;
     max-height: 300px;
