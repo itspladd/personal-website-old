@@ -35,8 +35,8 @@ It happened shortly after I got my first job after college. I had created the un
 
 It happened a year later. I made a board game over the course of a couple of months. I even play-tested it with my friends. Once.
 
-It happened a year or so after that. I ran D&D campaigns for that same group of friends for a few months. I started writing out their escapades, chapter by chapter (which is where [Field Trip to the Ancient Dwarven Prison Camp]({% post_url 2016-01-01-dwarven_prison_ch01 %}) came from). After a few months, I just “didn’t have the time anymore,” which is a bullshit-speak for “I don’t feel like making this a priority.” No more D&D games. No more write-ups.
-
+It happened a year or so after that. I ran D&D campaigns for that same group of friends for a few months. I started writing out their escapades, chapter by chapter (which is where [Field Trip to the Ancient Dwarven Prison Camp]({{ site.baseurl }}{% post_url /writing/rpg_stories/dwarven-prison-field-trip/2016-01-01-dwarven_prison_ch01 %}) came from). After a few months, I just “didn’t have the time anymore,” which is a bullshit-speak for “I don’t feel like making this a priority.” No more D&D games. No more write-ups.
+/home/pladd/repos/websites/personal-website-old/writing/rpg_stories/dwarven-prison-field-trip
 Eventually, I started to learn to draw, for reals this time. I had found a great tutorial and a great community. I followed it religiously. For a month.
 
 Several months later, I started the same art tutorial again, and I made a blog to go along with it.
