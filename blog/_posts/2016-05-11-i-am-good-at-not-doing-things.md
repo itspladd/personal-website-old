@@ -9,6 +9,16 @@ preview-image:
   alt: "A computer with a face on it gets progressively sadder as Day 1 wears on to Day 180, when the monitor has finally turned off entirely."
 ---
 
+<aside class="midtext-center">
+  <strong>IMPORTANT CONTEXT NOTE</strong>
+  <p>
+    I wrote this post and its successor in the middle of a long depressive episode. At the time, I had no idea what depression was, really, besides "sometimes people get sad"; and I certainly didn't think of depression as something that could affect me personally.
+  </p>
+  <p>
+    I've changed a lot since then, and I'm doing a lot better with my outlook towards myself and my confidence in my ability to achieve my goals! I've decided to keep this post visible as a reminder to myself of where I've been and how far I've come since then.
+  </p>
+</aside>
+
 I’m doing it again. For, like, the _bajillionth_ time. YES, THAT’S A REAL NUMBER.
 
 Here's how it goes. I’ll start doing something, and I’ll be having fun with it. So much fun! “You did it, Paul!” I think to myself. “You found the one thing that you will never be bored of ever, and you will do this forever and your life will be awesome until you are dead, at which point you will not care because existence is temporary and your ridiculously improbable consciousness isn't even a single blip in the radar display of the universe. Gold star!”

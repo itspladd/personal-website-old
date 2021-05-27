@@ -9,6 +9,11 @@ preview-image:
   alt: "A beekeeper blowing soothing smoke onto bees at a beehive, with the logo for the Beeminder application superimposed over individual bees."
 ---
 
+<aside class="midtext-left">
+    <figure>
+    <figcaption><strong>IMPORTANT CONTEXT NOTE:</strong> I wrote this post and its successor in the middle of a long depressive episode. At the time, I had no idea what depression was, really, besides "sometimes people get sad"; and I certainly didn't think of depression as something that could affect me personally. I've changed a lot since then, and I'm doing a lot better with my outlook towards myself and my confidence in my ability to achieve my goals! I've decided to keep this post visible as a reminder to myself of where I've been and how far I've come since then.</figcaption></figure>
+</aside>
+
 In a way, this is a follow-up to my previous post about [Not Doing Things]({% post_url 2016-05-11-i-am-good-at-not-doing-things %}). See, I noticed my strong tendency to Not Do Things (or at the very least Not Finish Things) quite a while ago. It's probably been at least a few years since I first made that realization.
 
 I didn't want to let that problem define my life, but I wasn't sure how to go about solving it. It wasn't until I started getting serious about self-education that I decided to try this crazy "Beeminder" thing a friend of mine swore by.
