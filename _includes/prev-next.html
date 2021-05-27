@@ -36,7 +36,7 @@
     <aside class="midtext-left">
         <p class="prev-next">
             Previous {{ type }}:
-            <a class="prev-next" rel="prev" href="{{ prev_post.url }}">{{ prevlink }}</a>
+            <a class="prev-next" rel="prev" href="{{ site.baseurl }}{{ prev_post.url }}">{{ prevlink }}</a>
         </p>
     </aside>
 {% endif %}
@@ -44,7 +44,7 @@
 <aside class="midtext-right" style="text-align: right">
         <p class="prev-next">
             Next {{ type }}:
-            <a class="prev-next" rel="next" href="{{ next_post.url }}">{{ nextlink }}</a>
+            <a class="prev-next" rel="next" href="{{ site.baseurl }}{{ next_post.url }}">{{ nextlink }}</a>
         </p>
 </aside>
 {% endif %}
